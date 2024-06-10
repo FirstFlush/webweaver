@@ -1,0 +1,10 @@
+[spider]
+id = 18
+spider_name = "BCBudSupply"
+domain = "bcbudsupply.com"
+description = "cannabis dispensary"
+
+[models]
+table_names = []
+
+[params]

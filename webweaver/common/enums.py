@@ -1,0 +1,570 @@
+# File for storing commonly used Enums
+from enum import Enum
+
+
+
+
+class BudRatingEnum(Enum):
+    AAAAA = "AAAAA"
+    AAAA = "AAAA"
+    AAA = "AAA"
+    AA = "AA"
+    A_PLUS = "A+"
+    A = "A"
+
+
+class DataTypeEnum(Enum):
+    GRAMS = float
+    COLOR = str
+    SIZE_STR = str
+    SIZE_NUM = float
+    UNKNOWN = str
+
+
+datatype_enum_to_type = {
+    DataTypeEnum.GRAMS : float,
+    DataTypeEnum.COLOR : str,
+    DataTypeEnum.SIZE_NUM : float,
+    DataTypeEnum.SIZE_STR : str,
+    DataTypeEnum.UNKNOWN : str,
+}
+
+
+class ReviewSourceEnum(Enum):
+    GOOGLE = "Google"
+    YELP = "Yelp"
+    TRIP_ADVISOR = "Trip Advisor"
+    ANGI = "Angi"
+    GLASSDOOR = "Glassdoor"
+    HOME_ADIVSOR = "HomeAdvisor"
+    CONSUMER_AFFAIRS = "Consumer Affairs"
+
+class IsFreeEnum(Enum):
+    FREE = "Free"
+    PAID = "Paid"
+    UNKNOWN = "Unknown"
+
+
+class EntitiesEnum(Enum):
+    COMPANY = "Company"
+    EVENT = "Event"
+
+
+class FrequenciesEnum(Enum):
+    DAILY = 'Daily'
+    WEEKLY = 'Weekly'
+    MONTHLY = 'Monthly'
+
+
+class ParamTypeEnum(Enum):
+    """Types of parameters that can be passed into a Spider."""
+    QUERY = "query"         # Goes in URL: ?param1=foo&param2=bar
+    POST = "post"           # send with the request as POST data
+    JSON = "json"           # send with the request as JSON data
+    INPUT = "input"         # HTML <input> element or other form data
+    HEADER = "header"       # API keys, tokens, etc..
+    DIRECTORY = "directory" # domain.com/directory/path/here/
+
+
+class DaysEnum(Enum):
+    MONDAY = 'Monday'
+    TUESDAY = 'Tuesday'
+    WEDNESDAY = 'Wednesday'
+    THURSDAY = 'Thursday'
+    FRIDAY = 'Friday'
+    SATURDAY = 'Saturday'
+    SUNDAY = 'Sunday'
+
+
+class FileFormatEnum(str, Enum):
+    JSON = "json"
+    XML = "xml"
+    HTML = "html"
+    EXCEL = "excel"
+    CSV = "csv"
+    FEATHER = "feather"
+    TXT = "txt"
+    SQLITE = "sqlite"
+    SQL = "dump"
+    PARQUET = "parquet"
+    GOOGLE_SHEETS = "gsheets"
+
+
+class LogLevel(Enum):
+    EXCEPTION = "exception"
+    CRITICAL = "critical"
+    ERROR = "error"
+    WARNING = "warning"
+    INFO = "info"
+    DEBUG = "debug"
+
+
+class EventTypeEnum(Enum):
+    TRADE_SHOW = 'Trade show'
+    CHARITY = 'Charity'
+    LEGAL = 'Legal'
+    CONVENTION = 'Convention'
+    SEMINAR = 'Seminar'
+    MEETING = 'Meeting'
+    CEREMONY = 'Ceremony'
+    FAIR = 'Fair'
+
+
+
+class IndustryEnum(Enum):
+    DIVERSIFIED = 'Diversified'
+    OTHER = 'Other'
+    ACCOUNTING = 'Accounting'
+    AIRLINESAVIATION = 'Airlines/Aviation'
+    ALTERNATIVE_DISPUTE_RESOLUTION = 'Alternative Dispute Resolution'
+    ALTERNATIVE_MEDICINE = 'Alternative Medicine'
+    ANIMATION = 'Animation'
+    APPAREL_AND_FASHION = 'Apparel & Fashion'
+    ARCHITECTURE_AND_PLANNING = 'Architecture & Planning'
+    ARTS_AND_CRAFTS = 'Arts & Crafts'
+    AUTOMOTIVE = 'Automotive'
+    AVIATION_AND_AEROSPACE = 'Aviation & Aerospace'
+    BANKING = 'Banking'
+    BIOTECHNOLOGY = 'Biotechnology'
+    BROADCAST_MEDIA = 'Broadcast Media'
+    BUILDING_MATERIALS = 'Building Materials'
+    BUSINESS_SUPPLIES_AND_EQUIPMENT = 'Business Supplies & Equipment'
+    CAPITAL_MARKETS = 'Capital Markets'
+    CHEMICALS = 'Chemicals'
+    CIVIC_AND_SOCIAL_ORGANIZATION = 'Civic & Social Organization'
+    CIVIL_ENGINEERING = 'Civil Engineering'
+    COMMERCIAL_REAL_ESTATE = 'Commercial Real Estate'
+    COMPUTER_AND_NETWORK_SECURITY = 'Computer & Network Security'
+    COMPUTER_GAMES = 'Computer Games'
+    COMPUTER_HARDWARE = 'Computer Hardware'
+    COMPUTER_NETWORKING = 'Computer Networking'
+    COMPUTER_SOFTWARE = 'Computer Software'
+    CONSTRUCTION = 'Construction'
+    CONSUMER_ELECTRONICS = 'Consumer Electronics'
+    CONSUMER_GOODS = 'Consumer Goods'
+    CONSUMER_SERVICES = 'Consumer Services'
+    COSMETICS = 'Cosmetics'
+    DAIRY = 'Dairy'
+    DEFENSE_AND_SPACE = 'Defense & Space'
+    DESIGN = 'Design'
+    EDUCATION_MANAGEMENT = 'Education Management'
+    ELEARNING = 'E-learning'
+    ELECTRICAL_AND_ELECTRONIC_MANUFACTURING = 'Electrical & Electronic Manufacturing'
+    ENTERTAINMENT = 'Entertainment'
+    ENVIRONMENTAL_SERVICES = 'Environmental Services'
+    EVENTS_SERVICES = 'Events Services'
+    EXECUTIVE_OFFICE = 'Executive Office'
+    FACILITIES_SERVICES = 'Facilities Services'
+    FARMING = 'Farming'
+    FINANCIAL_SERVICES = 'Financial Services'
+    FINE_ART = 'Fine Art'
+    FISHERY = 'Fishery'
+    FOOD_AND_BEVERAGES = 'Food & Beverages'
+    FOOD_PRODUCTION = 'Food Production'
+    FUNDRAISING = 'Fundraising'
+    FURNITURE = 'Furniture'
+    GAMBLING_AND_CASINOS = 'Gambling & Casinos'
+    GLASS_CERAMICS_AND_CONCRETE = 'Glass, Ceramics & Concrete'
+    GOVERNMENT_ADMINISTRATION = 'Government Administration'
+    GOVERNMENT_RELATIONS = 'Government Relations'
+    GRAPHIC_DESIGN = 'Graphic Design'
+    HEALTH_WELLNESS_AND_FITNESS = 'Health, Wellness & Fitness'
+    HIGHER_EDUCATION = 'Higher Education'
+    HOSPITAL_AND_HEALTH_CARE = 'Hospital & Health Care'
+    HOSPITALITY = 'Hospitality'
+    HUMAN_RESOURCES = 'Human Resources'
+    IMPORT_AND_EXPORT = 'Import & Export'
+    INDIVIDUAL_AND_FAMILY_SERVICES = 'Individual & Family Services'
+    INDUSTRIAL_AUTOMATION = 'Industrial Automation'
+    INFORMATION_SERVICES = 'Information Services'
+    INFORMATION_TECHNOLOGY_AND_SERVICES = 'Information Technology & Services'
+    INSURANCE = 'Insurance'
+    INTERNATIONAL_AFFAIRS = 'International Affairs'
+    INTERNATIONAL_TRADE_AND_DEVELOPMENT = 'International Trade & Development'
+    INTERNET = 'Internet'
+    INVESTMENT_BANKINGVENTURE = 'Investment Banking/Venture'
+    INVESTMENT_MANAGEMENT = 'Investment Management'
+    JUDICIARY = 'Judiciary'
+    LAW_ENFORCEMENT = 'Law Enforcement'
+    LAW_PRACTICE = 'Law Practice'
+    LEGAL_SERVICES = 'Legal Services'
+    LEGISLATIVE_OFFICE = 'Legislative Office'
+    LEISURE_AND_TRAVEL = 'Leisure & Travel'
+    LIBRARIES = 'Libraries'
+    LOGISTICS_AND_SUPPLY_CHAIN = 'Logistics & Supply Chain'
+    LUXURY_GOODS_AND_JEWELRY = 'Luxury Goods & Jewelry'
+    MACHINERY = 'Machinery'
+    MANAGEMENT_CONSULTING = 'Management Consulting'
+    MARITIME = 'Maritime'
+    MARKETING_AND_ADVERTISING = 'Marketing & Advertising'
+    MARKET_RESEARCH = 'Market Research'
+    MECHANICAL_OR_INDUSTRIAL_ENGINEERING = 'Mechanical or Industrial Engineering'
+    MEDIA_PRODUCTION = 'Media Production'
+    MEDICAL_DEVICE = 'Medical Device'
+    MEDICAL_PRACTICE = 'Medical Practice'
+    MENTAL_HEALTH_CARE = 'Mental Health Care'
+    MILITARY = 'Military'
+    MINING_AND_METALS = 'Mining & Metals'
+    MOTION_PICTURES_AND_FILM = 'Motion Pictures & Film'
+    MUSEUMS_AND_INSTITUTIONS = 'Museums & Institutions'
+    MUSIC = 'Music'
+    NANOTECHNOLOGY = 'Nanotechnology'
+    NEWSPAPERS = 'Newspapers'
+    NONPROFIT_ORGANIZATION_MANAGEMENT = 'Nonprofit Organization Management'
+    OIL_AND_ENERGY = 'Oil & Energy'
+    ONLINE_PUBLISHING = 'Online Publishing'
+    OUTSOURCINGOFFSHORING = 'Outsourcing/Offshoring'
+    PACKAGEFREIGHT_DELIVERY = 'Package/Freight Delivery'
+    PACKAGING_AND_CONTAINERS = 'Packaging & Containers'
+    PAPER_AND_FOREST_PRODUCTS = 'Paper & Forest Products'
+    PERFORMING_ARTS = 'Performing Arts'
+    PHARMACEUTICALS = 'Pharmaceuticals'
+    PHILANTHROPY = 'Philanthropy'
+    PHOTOGRAPHY = 'Photography'
+    PLASTICS = 'Plastics'
+    POLITICAL_ORGANIZATION = 'Political Organization'
+    PRIMARYSECONDARY = 'Primary/Secondary'
+    PRINTING = 'Printing'
+    PROFESSIONAL_TRAINING = 'Professional Training'
+    PROGRAM_DEVELOPMENT = 'Program Development'
+    PUBLIC_POLICY = 'Public Policy'
+    PUBLIC_RELATIONS = 'Public Relations'
+    PUBLIC_SAFETY = 'Public Safety'
+    PUBLISHING = 'Publishing'
+    RAILROAD_MANUFACTURE = 'Railroad Manufacture'
+    RANCHING = 'Ranching'
+    REAL_ESTATE = 'Real Estate'
+    RECREATIONAL = 'Recreational'
+    FACILITIES_AND_SERVICES = 'Facilities & Services'
+    RELIGIOUS_INSTITUTIONS = 'Religious Institutions'
+    RENEWABLES_AND_ENVIRONMENT = 'Renewables & Environment'
+    RESEARCH = 'Research'
+    RESTAURANTS = 'Restaurants'
+    RETAIL = 'Retail'
+    SECURITY_AND_INVESTIGATIONS = 'Security & Investigations'
+    SEMICONDUCTORS = 'Semiconductors'
+    SHIPBUILDING = 'Shipbuilding'
+    SPORTING_GOODS = 'Sporting Goods'
+    SPORTS = 'Sports'
+    STAFFING_AND_RECRUITING = 'Staffing & Recruiting'
+    SUPERMARKETS = 'Supermarkets'
+    TELECOMMUNICATIONS = 'Telecommunications'
+    TEXTILES = 'Textiles'
+    THINK_TANKS = 'Think Tanks'
+    TOBACCO = 'Tobacco'
+    TRANSLATION_AND_LOCALIZATION = 'Translation & Localization'
+    TRANSPORTATIONTRUCKINGRAILROAD = 'Transportation/Trucking/Railroad'
+    UTILITIES = 'Utilities'
+    VENTURE_CAPITAL = 'Venture Capital'
+    VETERINARY = 'Veterinary'
+    WAREHOUSING = 'Warehousing'
+    WHOLESALE = 'Wholesale'
+    WINE_AND_SPIRITS = 'Wine & Spirits'
+    WIRELESS = 'Wireless'
+    WRITING_AND_EDITING = 'Writing & Editing'
+
+
+class StateEnum(Enum):
+    Alaska = "AK"
+    Alabama = "AL"
+    Arkansas = "AR"
+    Arizona = "AZ"
+    California = "CA"
+    Colorado = "CO"
+    Connecticut = "CT"
+    District_of_Columbia = "DC"
+    Delaware = "DE"
+    Florida = "FL"
+    Georgia = "GA"
+    Hawaii = "HI"
+    Iowa = "IA"
+    Idaho = "ID"
+    Illinois = "IL"
+    Indiana = "IN"
+    Kansas = "KS"
+    Kentucky = "KY"
+    Louisiana = "LA"
+    Massachusetts = "MA"
+    Maryland = "MD"
+    Maine = "ME"
+    Michigan = "MI"
+    Minnesota = "MN"
+    Missouri = "MO"
+    Mississippi = "MS"
+    Montana = "MT"
+    North_Carolina = "NC"
+    North_Dakota = "ND"
+    Nebraska = "NE"
+    New_Hampshire = "NH"
+    New_Jersey = "NJ"
+    New_Mexico = "NM"
+    Nevada = "NV"
+    New_York = "NY"
+    Ohio = "OH"
+    Oklahoma = "OK"
+    Oregon = "OR"
+    Pennsylvania = "PA"
+    Rhode_Island = "RI"
+    South_Carolina = "SC"
+    South_Dakota = "SD"
+    Tennessee = "TN"
+    Texas = "TX"
+    Utah = "UT"
+    Virginia = "VA"
+    Vermont = "VT"
+    Washington = "WA"
+    Wisconsin = "WI"
+    West_Virginia = "WV"
+    Wyoming = "WY"
+
+
+class CountryEnum(Enum):
+    AFGHANISTAN = "AFG" 
+    ÅLAND_ISLANDS = "ALA" 
+    ALBANIA = "ALB" 
+    ALGERIA = "DZA" 
+    AMERICAN_SAMOA = "ASM" 
+    ANDORRA = "AND" 
+    ANGOLA = "AGO" 
+    ANGUILLA = "AIA" 
+    ANTARCTICA = "ATA" 
+    ANTIGUA_AND_BARBUDA = "ATG" 
+    ARGENTINA = "ARG" 
+    ARMENIA = "ARM" 
+    ARUBA = "ABW" 
+    AUSTRALIA = "AUS" 
+    AUSTRIA = "AUT" 
+    AZERBAIJAN = "AZE" 
+    BAHAMAS = "BHS" 
+    BAHRAIN = "BHR" 
+    BANGLADESH = "BGD" 
+    BARBADOS = "BRB" 
+    BELARUS = "BLR" 
+    BELGIUM = "BEL" 
+    BELIZE = "BLZ" 
+    BENIN = "BEN" 
+    BERMUDA = "BMU" 
+    BHUTAN = "BTN" 
+    BOLIVIA_PLURINATIONAL_STATE_OF = "BOL" 
+    BONAIRE_SINT_EUSTATIUS_AND_SABA = "BES" 
+    BOSNIA_AND_HERZEGOVINA = "BIH" 
+    BOTSWANA = "BWA" 
+    BOUVET_ISLAND = "BVT" 
+    BRAZIL = "BRA" 
+    BRITISH_INDIAN_OCEAN_TERRITORY = "IOT" 
+    BRUNEI_DARUSSALAM = "BRN" 
+    BULGARIA = "BGR" 
+    BURKINA_FASO = "BFA" 
+    BURUNDI = "BDI" 
+    CABO_VERDE = "CPV" 
+    CAMBODIA = "KHM" 
+    CAMEROON = "CMR" 
+    CANADA = "CAN" 
+    CAYMAN_ISLANDS = "CYM" 
+    CENTRAL_AFRICAN_REPUBLIC = "CAF" 
+    CHAD = "TCD" 
+    CHILE = "CHL" 
+    CHINA = "CHN" 
+    CHRISTMAS_ISLAND = "CXR" 
+    COCOS_KEELING_ISLANDS = "CCK" 
+    COLOMBIA = "COL" 
+    COMOROS = "COM" 
+    CONGO = "COG" 
+    CONGO_DEMOCRATIC_REPUBLIC_OF_THE = "COD" 
+    COOK_ISLANDS = "COK" 
+    COSTA_RICA = "CRI" 
+    CÔTE_DIVOIRE = "CIV" 
+    CROATIA = "HRV" 
+    CUBA = "CUB" 
+    CURAÇAO = "CUW" 
+    CYPRUS = "CYP" 
+    CZECHIA = "CZE" 
+    DENMARK = "DNK" 
+    DJIBOUTI = "DJI" 
+    DOMINICA = "DMA" 
+    DOMINICAN_REPUBLIC = "DOM" 
+    ECUADOR = "ECU" 
+    EGYPT = "EGY" 
+    EL_SALVADOR = "SLV" 
+    EQUATORIAL_GUINEA = "GNQ" 
+    ERITREA = "ERI" 
+    ESTONIA = "EST" 
+    ESWATINI = "SWZ" 
+    ETHIOPIA = "ETH" 
+    FALKLAND_ISLANDS_MALVINAS = "FLK" 
+    FAROE_ISLANDS = "FRO" 
+    FIJI = "FJI" 
+    FINLAND = "FIN" 
+    FRANCE = "FRA" 
+    FRENCH_GUIANA = "GUF" 
+    FRENCH_POLYNESIA = "PYF" 
+    FRENCH_SOUTHERN_TERRITORIES = "ATF" 
+    GABON = "GAB" 
+    GAMBIA = "GMB" 
+    GEORGIA = "GEO" 
+    GERMANY = "DEU" 
+    GHANA = "GHA" 
+    GIBRALTAR = "GIB" 
+    GREECE = "GRC" 
+    GREENLAND = "GRL" 
+    GRENADA = "GRD" 
+    GUADELOUPE = "GLP" 
+    GUAM = "GUM" 
+    GUATEMALA = "GTM" 
+    GUERNSEY = "GGY" 
+    GUINEA = "GIN" 
+    GUINEABISSAU = "GNB" 
+    GUYANA = "GUY" 
+    HAITI = "HTI" 
+    HEARD_ISLAND_AND_MCDONALD_ISLANDS = "HMD" 
+    HOLY_SEE = "VAT" 
+    HONDURAS = "HND" 
+    HONG_KONG = "HKG" 
+    HUNGARY = "HUN" 
+    ICELAND = "ISL" 
+    INDIA = "IND" 
+    INDONESIA = "IDN" 
+    IRAN_ISLAMIC_REPUBLIC_OF = "IRN" 
+    IRAQ = "IRQ" 
+    IRELAND = "IRL" 
+    ISLE_OF_MAN = "IMN" 
+    ISRAEL = "ISR" 
+    ITALY = "ITA" 
+    JAMAICA = "JAM" 
+    JAPAN = "JPN" 
+    JERSEY = "JEY" 
+    JORDAN = "JOR" 
+    KAZAKHSTAN = "KAZ" 
+    KENYA = "KEN" 
+    KIRIBATI = "KIR" 
+    KOREA_DEMOCRATIC_PEOPLES_REPUBLIC_OF = "PRK" 
+    KOREA_REPUBLIC_OF = "KOR" 
+    KUWAIT = "KWT" 
+    KYRGYZSTAN = "KGZ" 
+    LAO_PEOPLES_DEMOCRATIC_REPUBLIC = "LAO" 
+    LATVIA = "LVA" 
+    LEBANON = "LBN" 
+    LESOTHO = "LSO" 
+    LIBERIA = "LBR" 
+    LIBYA = "LBY" 
+    LIECHTENSTEIN = "LIE" 
+    LITHUANIA = "LTU" 
+    LUXEMBOURG = "LUX" 
+    MACAO = "MAC" 
+    MADAGASCAR = "MDG" 
+    MALAWI = "MWI" 
+    MALAYSIA = "MYS" 
+    MALDIVES = "MDV" 
+    MALI = "MLI" 
+    MALTA = "MLT" 
+    MARSHALL_ISLANDS = "MHL" 
+    MARTINIQUE = "MTQ" 
+    MAURITANIA = "MRT" 
+    MAURITIUS = "MUS" 
+    MAYOTTE = "MYT" 
+    MEXICO = "MEX" 
+    MICRONESIA_FEDERATED_STATES_OF = "FSM" 
+    MOLDOVA_REPUBLIC_OF = "MDA" 
+    MONACO = "MCO" 
+    MONGOLIA = "MNG" 
+    MONTENEGRO = "MNE" 
+    MONTSERRAT = "MSR" 
+    MOROCCO = "MAR" 
+    MOZAMBIQUE = "MOZ" 
+    MYANMAR = "MMR" 
+    NAMIBIA = "NAM" 
+    NAURU = "NRU" 
+    NEPAL = "NPL" 
+    NETHERLANDS = "NLD" 
+    NEW_CALEDONIA = "NCL" 
+    NEW_ZEALAND = "NZL" 
+    NICARAGUA = "NIC" 
+    NIGER = "NER" 
+    NIGERIA = "NGA" 
+    NIUE = "NIU" 
+    NORFOLK_ISLAND = "NFK" 
+    NORTH_MACEDONIA = "MKD" 
+    NORTHERN_MARIANA_ISLANDS = "MNP" 
+    NORWAY = "NOR" 
+    OMAN = "OMN" 
+    PAKISTAN = "PAK" 
+    PALAU = "PLW" 
+    PALESTINE_STATE_OF = "PSE" 
+    PANAMA = "PAN" 
+    PAPUA_NEW_GUINEA = "PNG" 
+    PARAGUAY = "PRY" 
+    PERU = "PER" 
+    PHILIPPINES = "PHL" 
+    PITCAIRN = "PCN" 
+    POLAND = "POL" 
+    PORTUGAL = "PRT" 
+    PUERTO_RICO = "PRI" 
+    QATAR = "QAT" 
+    RÉUNION = "REU" 
+    ROMANIA = "ROU" 
+    RUSSIAN_FEDERATION = "RUS" 
+    RWANDA = "RWA" 
+    SAINT_BARTHÉLEMY = "BLM" 
+    SAINT_HELENA_ASCENSION_AND_TRISTAN_DA_CUNHA = "SHN" 
+    SAINT_KITTS_AND_NEVIS = "KNA" 
+    SAINT_LUCIA = "LCA" 
+    SAINT_MARTIN_FRENCH_PART = "MAF" 
+    SAINT_PIERRE_AND_MIQUELON = "SPM" 
+    SAINT_VINCENT_AND_THE_GRENADINES = "VCT" 
+    SAMOA = "WSM" 
+    SAN_MARINO = "SMR" 
+    SAO_TOME_AND_PRINCIPE = "STP" 
+    SAUDI_ARABIA = "SAU" 
+    SENEGAL = "SEN" 
+    SERBIA = "SRB" 
+    SEYCHELLES = "SYC" 
+    SIERRA_LEONE = "SLE" 
+    SINGAPORE = "SGP" 
+    SINT_MAARTEN_DUTCH_PART = "SXM" 
+    SLOVAKIA = "SVK" 
+    SLOVENIA = "SVN" 
+    SOLOMON_ISLANDS = "SLB" 
+    SOMALIA = "SOM" 
+    SOUTH_AFRICA = "ZAF" 
+    SOUTH_GEORGIA_AND_THE_SOUTH_SANDWICH_ISLANDS = "SGS" 
+    SOUTH_SUDAN = "SSD" 
+    SPAIN = "ESP" 
+    SRI_LANKA = "LKA" 
+    SUDAN = "SDN" 
+    SURINAME = "SUR" 
+    SVALBARD_AND_JAN_MAYEN = "SJM" 
+    SWEDEN = "SWE" 
+    SWITZERLAND = "CHE" 
+    SYRIAN_ARAB_REPUBLIC = "SYR" 
+    TAIWAN_PROVINCE_OF_CHINA = "TWN" 
+    TAJIKISTAN = "TJK" 
+    TANZANIA_UNITED_REPUBLIC_OF = "TZA" 
+    THAILAND = "THA" 
+    TIMORLESTE = "TLS" 
+    TOGO = "TGO" 
+    TOKELAU = "TKL" 
+    TONGA = "TON" 
+    TRINIDAD_AND_TOBAGO = "TTO" 
+    TUNISIA = "TUN" 
+    TURKEY = "TUR" 
+    TURKMENISTAN = "TKM" 
+    TURKS_AND_CAICOS_ISLANDS = "TCA" 
+    TUVALU = "TUV" 
+    UGANDA = "UGA" 
+    UKRAINE = "UKR" 
+    UNITED_ARAB_EMIRATES = "ARE" 
+    UNITED_KINGDOM_OF_GREAT_BRITAIN_AND_NORTHERN_IRELAND = "GBR" 
+    UNITED_STATES_OF_AMERICA = "USA" 
+    UNITED_STATES_MINOR_OUTLYING_ISLANDS = "UMI" 
+    URUGUAY = "URY" 
+    UZBEKISTAN = "UZB" 
+    VANUATU = "VUT" 
+    VENEZUELA_BOLIVARIAN_REPUBLIC_OF = "VEN" 
+    VIET_NAM = "VNM" 
+    VIRGIN_ISLANDS_BRITISH = "VGB" 
+    VIRGIN_ISLANDS_US = "VIR" 
+    WALLIS_AND_FUTUNA = "WLF" 
+    WESTERN_SAHARA = "ESH" 
+    YEMEN = "YEM" 
+    ZAMBIA = "ZMB" 
+    ZIMBABWE = "ZWE"

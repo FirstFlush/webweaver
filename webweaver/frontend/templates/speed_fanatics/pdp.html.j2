@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="/static/css/base.css">
+    <link rel="stylesheet" href="/static/css/speed_fanatics.css">
+
+</head>
+<body>
+    
+    <h4>{{product.product_name}}</h4>
+    <h5>Supplier: {{product.supplier.supplier_enum.value}}</h5>
+    <h5>Brand: {{product.brand.brand_name}}</h5>
+    <div class="box">
+        <h6 class="subtitle">prices</h6>
+        {% for price in prices%}
+        {% if price.is_old %}
+        <div class="{% if price.is_old %}strike-out{%endif%}">$ {{price.msrp}}</div>
+        {% else %}
+        <div>$ {{price.msrp}}</div>
+        {% endif %}
+        {% endfor %}
+    </div>
+
+    <div class="box">
+        <h6 class="subtitle">variations</h6>
+        {% for variation in variations %}
+        <div><span class="b mr-2">{{variation.variation_type.variation_type_name}}</span>{{variation.value}}</div> 
+               
+        {% endfor %}
+    </div>
+
+    <div class="box">
+        <h6 class="subtitle">add-ons</h6>
+        {% for add_on in add_ons %}
+        <div><span class="b mr-2">add-on name</span>{{add_on.name}}</div>
+        <div><span class="b mr-2">add-on detail</span>{{add_on.detail}}</div>
+        <div><span class="b mr-2">price modifier</span>$ {{add_on.price_modifier}}</div>
+               
+        {% endfor %}
+    </div>
+
+    {% if wheel_attribute %}
+    <div class="box">
+        <h6 class="subtitle">wheel attribute</h6>
+        {% for key, attribute in wheel_attribute.attributes.items() %}
+        <div class="attribute-table">
+            <span class="b">{{key}}</span>
+            <span>
+                {% if attribute %}
+                {{attribute}}
+                {% else %}
+                -
+                {% endif %}
+            </span>
+        </div>
+        {% endfor %}
+
+    </div>
+    {% endif %}
+
+    {% if tire_attribute %}
+    <div class="box">
+        <h6 class="subtitle">tire attribute</h6>
+        {% for key, attribute in tire_attribute.attributes.items() %}
+        <div class="attribute-table">
+            <span class="b">{{key}}</span>
+            <span>
+                {% if attribute %}
+                {{attribute}}
+                {% else %}
+                -
+                {% endif %}
+            </span>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+
+    {% if product.description %}
+    <div class="box">
+        <h6 class="subtitle">description</h6>
+        {{product.description}}
+    </div>
+    {% endif %}
+
+    {% if product.description_long %}
+    <div class="box">
+        <h6 class="subtitle">description long</h6>
+        {{product.description_long}}
+    </div>
+    {% endif %}
+
+    {% if images %}
+    <div class="box">
+        <h6 class="subtitle">images</h6>
+        {% for image in images %}
+        <div>
+            {# {{image.src}} #}
+            <img src="{{image.src}}" alt="FAIL - {{image.src}}">
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+
+</body>
+</html>

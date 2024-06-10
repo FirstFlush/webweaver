@@ -1,0 +1,10 @@
+[spider]
+id = 29
+spider_name = "SpeedFanatics"
+domain = "speedfanatics.ca"
+description = "SpeedFanatics crawl spider"
+
+[models]
+table_names = []
+
+[params]

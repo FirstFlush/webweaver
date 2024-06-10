@@ -1,0 +1,40 @@
+{
+    "campaign_name": "AnotherNotherTest",
+    "is_recurring": false,
+    "spiders": [
+        {
+            "spider_name": "GoogleMaps",
+            "domain": "maps.google.com",
+            "is_active": true,
+            "description": "Collects data on companies and their reviews.",
+            "params": [
+                {
+                    "param_name": "search",
+                    "param_type": "input",
+                    "param_description": null,
+                    "param_values": [{ "value": "bakery vancouver" }]
+                }
+            ]
+        },
+        {
+            "spider_name": "Test",
+            "domain": "test.com",
+            "is_active": true,
+            "description": "For testing purposes only.",
+            "params": [
+                {
+                    "param_name": "search",
+                    "param_type": "input",
+                    "param_description": null,
+                    "param_values": [{ "value": "bakery" }]
+                },
+                {
+                    "param_name": "location",
+                    "param_type": "input",
+                    "param_description": null,
+                    "param_values": [{ "value": "vancouver" }]
+                }
+            ]
+        }
+    ]
+}

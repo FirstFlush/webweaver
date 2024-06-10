@@ -1,0 +1,10 @@
+[spider]
+id = 25
+spider_name = "SoulPP"
+domain = "soulpp.com"
+description = "Speed Fanatics supplier"
+
+[models]
+table_names = []
+
+[params]

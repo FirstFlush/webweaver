@@ -1,0 +1,6999 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id>689</id>
+    <venue_name>Sonoma County Fairgrounds</venue_name>
+    <city>Santa Rosa</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>690</id>
+    <venue_name>Hotel Grand Premium Brisa, Salvador - Bahia</venue_name>
+    <city>Salvador da Bahia</city>
+    <state/>
+  </row>
+  <row>
+    <id>691</id>
+    <venue_name>Bossier City Civic Center</venue_name>
+    <city>Bossier City</city>
+    <state>LA</state>
+  </row>
+  <row>
+    <id>692</id>
+    <venue_name>Floyd County 4-H Fairground</venue_name>
+    <city>New Albany</city>
+    <state>IN</state>
+  </row>
+  <row>
+    <id>693</id>
+    <venue_name>Kay Bailey Hutchison - Dallas Convention Center</venue_name>
+    <city>Dallas</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>694</id>
+    <venue_name>Surrey, BC</venue_name>
+    <city>Surrey</city>
+    <state>BC</state>
+  </row>
+  <row>
+    <id>695</id>
+    <venue_name>We-Ko-Pa Resort &amp; Conference Center</venue_name>
+    <city>Scottsdale</city>
+    <state>AZ</state>
+  </row>
+  <row>
+    <id>696</id>
+    <venue_name>American Legion Building, Jacksonville</venue_name>
+    <city>Camp Lejeune</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>697</id>
+    <venue_name>Volusia County Fairgrounds Deland</venue_name>
+    <city>DeLand</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>698</id>
+    <venue_name>Knoxville Expo Center</venue_name>
+    <city>Knoxville</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>699</id>
+    <venue_name>Indiana Convention Center</venue_name>
+    <city>Indianapolis</city>
+    <state>IN</state>
+  </row>
+  <row>
+    <id>700</id>
+    <venue_name>Ozark Empire Fairgrounds &amp; Event Center</venue_name>
+    <city>Springfield</city>
+    <state>MO</state>
+  </row>
+  <row>
+    <id>701</id>
+    <venue_name>Mississippi Trademart Center</venue_name>
+    <city>Jackson</city>
+    <state>MS</state>
+  </row>
+  <row>
+    <id>702</id>
+    <venue_name>Delaware County Fairgrounds</venue_name>
+    <city>Muncie</city>
+    <state>IN</state>
+  </row>
+  <row>
+    <id>703</id>
+    <venue_name>Jim R. Miller Park &amp; Event Center</venue_name>
+    <city>Marietta</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>704</id>
+    <venue_name>Pontchatrain Convention &amp; Civic Center</venue_name>
+    <city>New Orleans</city>
+    <state>LA</state>
+  </row>
+  <row>
+    <id>705</id>
+    <venue_name>Lake County Fairgrounds Eustis</venue_name>
+    <city>Orlando</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>706</id>
+    <venue_name>Marriott Puerto Vallarta Resort &amp; Spa</venue_name>
+    <city>Puerto Vallarta</city>
+    <state/>
+  </row>
+  <row>
+    <id>707</id>
+    <venue_name>Miami Beach Convention Center</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>708</id>
+    <venue_name>Sheraton Atlanta Hotel</venue_name>
+    <city>Atlanta</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>709</id>
+    <venue_name>Municipal Event Center, Marion</venue_name>
+    <city>Marion</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>710</id>
+    <venue_name>Duluth Entertainment Convention Center</venue_name>
+    <city>Duluth</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>711</id>
+    <venue_name>El Hasa Shrine Temple</venue_name>
+    <city>Ashland</city>
+    <state>KY</state>
+  </row>
+  <row>
+    <id>712</id>
+    <venue_name>Thurston County Fairgrounds</venue_name>
+    <city>Lacey</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>713</id>
+    <venue_name>MID-TN Expo Center</venue_name>
+    <city>Murfreesboro</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>714</id>
+    <venue_name>South Carolina State Fairgrounds</venue_name>
+    <city>Columbia</city>
+    <state>SC</state>
+  </row>
+  <row>
+    <id>715</id>
+    <venue_name>Palm Beach County Convention Center</venue_name>
+    <city>Palm Beach</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>716</id>
+    <venue_name>New Orleans, LA</venue_name>
+    <city>New Orleans</city>
+    <state>LA</state>
+  </row>
+  <row>
+    <id>717</id>
+    <venue_name>Las Vegas Motor Speedway</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>718</id>
+    <venue_name>VFW Post 534</venue_name>
+    <city>Joplin</city>
+    <state>MO</state>
+  </row>
+  <row>
+    <id>719</id>
+    <venue_name>Prime Osborn Convention Center</venue_name>
+    <city>Jacksonville</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>720</id>
+    <venue_name>Marymount Event Center</venue_name>
+    <city>Tacoma</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>721</id>
+    <venue_name>National Guard Armory, Wilmington</venue_name>
+    <city>Wilmington</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>722</id>
+    <venue_name>National Guard Armory, Lenoir, TN</venue_name>
+    <city>Lenoir</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>928</id>
+    <venue_name>Atlanta, GA</venue_name>
+    <city>Atlanta</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>723</id>
+    <venue_name>Johnson County Sheriff's Posse</venue_name>
+    <city>Cleburne</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>724</id>
+    <venue_name>Expo Center Shawnee - Heart of Oklahoma Exposition Center</venue_name>
+    <city>Oklahoma City</city>
+    <state>OK</state>
+  </row>
+  <row>
+    <id>725</id>
+    <venue_name>NC State Fairgrounds</venue_name>
+    <city>Raleigh</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>726</id>
+    <venue_name>Aqua Hotel, Miami</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>727</id>
+    <venue_name>Lafayette Event Center</venue_name>
+    <city>Lafayette</city>
+    <state>LA</state>
+  </row>
+  <row>
+    <id>728</id>
+    <venue_name>Kentucky Exposition Center</venue_name>
+    <city>Louisville</city>
+    <state>KY</state>
+  </row>
+  <row>
+    <id>729</id>
+    <venue_name>Faulkner County Fairgrounds</venue_name>
+    <city>Conway</city>
+    <state>AR</state>
+  </row>
+  <row>
+    <id>730</id>
+    <venue_name>Toronto, ON</venue_name>
+    <city>Toronto</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>731</id>
+    <venue_name>Georgia World Congress Center</venue_name>
+    <city>Atlanta</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>732</id>
+    <venue_name>DeChoice Banquet Hall and Events</venue_name>
+    <city>Forest Park</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>733</id>
+    <venue_name>Haywood County Fairgrounds</venue_name>
+    <city>Asheville</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>734</id>
+    <venue_name>Dulles Expo &amp; Conference Center</venue_name>
+    <city>Fairfax</city>
+    <state>VA</state>
+  </row>
+  <row>
+    <id>735</id>
+    <venue_name>Banquets of Minnesota</venue_name>
+    <city>Fridley</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>736</id>
+    <venue_name>Howard County Fairgrounds</venue_name>
+    <city>Baltimore</city>
+    <state>MD</state>
+  </row>
+  <row>
+    <id>737</id>
+    <venue_name>Atlanta Exposition Center</venue_name>
+    <city>Atlanta</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>738</id>
+    <venue_name>Savannah International Trade &amp; Convention Center</venue_name>
+    <city>Savannah</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>739</id>
+    <venue_name>Williamson County Expo Center</venue_name>
+    <city>Georgetown</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>740</id>
+    <venue_name>Kentucky International Convention Center</venue_name>
+    <city>Louisville</city>
+    <state>KY</state>
+  </row>
+  <row>
+    <id>741</id>
+    <venue_name>Hilton San Francisco Union Square</venue_name>
+    <city>San Francisco</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>742</id>
+    <venue_name>Renaissance Schaumburg Hotel</venue_name>
+    <city>Schaumburg</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>743</id>
+    <venue_name>Portland Expo Center</venue_name>
+    <city>Portland</city>
+    <state>OR</state>
+  </row>
+  <row>
+    <id>744</id>
+    <venue_name>Norris-Penrose Event Center</venue_name>
+    <city>Colorado Springs</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>745</id>
+    <venue_name>Charlotte County Fairgrounds</venue_name>
+    <city>Port Charlotte</city>
+    <state>Fl</state>
+  </row>
+  <row>
+    <id>746</id>
+    <venue_name>Austin Convention Center</venue_name>
+    <city>Austin</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>747</id>
+    <venue_name>Western N.C. Agricultural Center</venue_name>
+    <city>Fletcher</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>748</id>
+    <venue_name>Orlando, FL</venue_name>
+    <city>Orlando</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>749</id>
+    <venue_name>Sarasota, FL</venue_name>
+    <city>Sarasota</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>750</id>
+    <venue_name>Monona Terrace Convention Center</venue_name>
+    <city>Madison</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>751</id>
+    <venue_name>Ohio Expo Center &amp; State Fair</venue_name>
+    <city>Columbus</city>
+    <state>OH</state>
+  </row>
+  <row>
+    <id>752</id>
+    <venue_name>Brittlebank Park and Bristol Marina</venue_name>
+    <city>Charleston</city>
+    <state>SC</state>
+  </row>
+  <row>
+    <id>753</id>
+    <venue_name>Iron 23</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>754</id>
+    <venue_name>Columbia Metropolitan Convention Center</venue_name>
+    <city>Columbia</city>
+    <state>SC</state>
+  </row>
+  <row>
+    <id>755</id>
+    <venue_name>Riverside Convention Center</venue_name>
+    <city>Riverside</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>756</id>
+    <venue_name>New Braunfels Civic &amp; Convention Center</venue_name>
+    <city>New Braunfels</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>757</id>
+    <venue_name>Sturbridge Host Hotel &amp; Conference Center</venue_name>
+    <city>Sturbridge</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>758</id>
+    <venue_name>Lee Civic Center</venue_name>
+    <city>Fort Myers</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>759</id>
+    <venue_name>Suburban Collection Showplace</venue_name>
+    <city>Novi</city>
+    <state>MI</state>
+  </row>
+  <row>
+    <id>760</id>
+    <venue_name>Toyota Oakdale Theatre</venue_name>
+    <city>Bristol</city>
+    <state>CT</state>
+  </row>
+  <row>
+    <id>761</id>
+    <venue_name>Baltimore Convention Center</venue_name>
+    <city>Baltimore</city>
+    <state>MD</state>
+  </row>
+  <row>
+    <id>762</id>
+    <venue_name>New Jersey Convention &amp; Exposition Center</venue_name>
+    <city>Edison</city>
+    <state>NJ</state>
+  </row>
+  <row>
+    <id>763</id>
+    <venue_name>Greenville Convention Center</venue_name>
+    <city>Greenville</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>764</id>
+    <venue_name>Boston Convention &amp; Exhibition Center</venue_name>
+    <city>Boston</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>765</id>
+    <venue_name>Best Western Inn At Hunt's Landing</venue_name>
+    <city>Matamoras</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>766</id>
+    <venue_name>Canadian Warplane Heritage Museum</venue_name>
+    <city>Hamilton</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>767</id>
+    <venue_name>Fox Cities Exhibition Center</venue_name>
+    <city>Appleton</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>768</id>
+    <venue_name>Meadow Event Park</venue_name>
+    <city>Richmond</city>
+    <state>VA</state>
+  </row>
+  <row>
+    <id>769</id>
+    <venue_name>Ernst &amp; Young Centre</venue_name>
+    <city>Ottawa</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>770</id>
+    <venue_name>Miami Marine Stadium Park &amp; Basin</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>771</id>
+    <venue_name>Espace Saint-Hyacinthe - Centre BMO</venue_name>
+    <city>Saint-Hyacinthe</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>772</id>
+    <venue_name>Earth Expo &amp; Convention Center</venue_name>
+    <city>Norwich</city>
+    <state>CT</state>
+  </row>
+  <row>
+    <id>773</id>
+    <venue_name>Charlotte Convention Center</venue_name>
+    <city>Charlotte</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>774</id>
+    <venue_name>RBC Convention Centre, Winnipeg</venue_name>
+    <city>Winnipeg</city>
+    <state>MB</state>
+  </row>
+  <row>
+    <id>775</id>
+    <venue_name>Caesars Palace</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>776</id>
+    <venue_name>VFW Fairground Complex</venue_name>
+    <city>Carrollton</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>777</id>
+    <venue_name>Hilton Orlando Bonnet Creek</venue_name>
+    <city>Orlando</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>778</id>
+    <venue_name>Tempe, AZ</venue_name>
+    <city>Tempe</city>
+    <state>AZ</state>
+  </row>
+  <row>
+    <id>779</id>
+    <venue_name>Mahaffey Theater Yacht Basin</venue_name>
+    <city>St. Petersburg</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>780</id>
+    <venue_name>La Fonda Hotel</venue_name>
+    <city>Santa Fe</city>
+    <state>NM</state>
+  </row>
+  <row>
+    <id>781</id>
+    <venue_name>Hyatt Regency Minneapolis</venue_name>
+    <city>Minneapolis</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>782</id>
+    <venue_name>Halifax Exhibition Centre</venue_name>
+    <city>Halifax</city>
+    <state>NS</state>
+  </row>
+  <row>
+    <id>783</id>
+    <venue_name>San Diego, CA</venue_name>
+    <city>San Diego</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>784</id>
+    <venue_name>Expo Guadalajara</venue_name>
+    <city>Guadalajara</city>
+    <state/>
+  </row>
+  <row>
+    <id>785</id>
+    <venue_name>Center 415</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>786</id>
+    <venue_name>Miami, FL</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>787</id>
+    <venue_name>Tacoma Dome</venue_name>
+    <city>Tacoma</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>788</id>
+    <venue_name>Better Living Center</venue_name>
+    <city>Springfield</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>789</id>
+    <venue_name>Sioux Falls Convention Center</venue_name>
+    <city>Sioux Falls</city>
+    <state>SD</state>
+  </row>
+  <row>
+    <id>790</id>
+    <venue_name>Vancouver Convention Centre</venue_name>
+    <city>Vancouver</city>
+    <state>BC</state>
+  </row>
+  <row>
+    <id>791</id>
+    <venue_name>The Ritz-Carlton Golf Resort</venue_name>
+    <city>Naples</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>792</id>
+    <venue_name>Lyon County Fairgrounds</venue_name>
+    <city>Emporia</city>
+    <state>KS</state>
+  </row>
+  <row>
+    <id>793</id>
+    <venue_name>Canterbury Park</venue_name>
+    <city>Shakopee</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>794</id>
+    <venue_name>Charleston Area Convention Center</venue_name>
+    <city>Charleston</city>
+    <state>SC</state>
+  </row>
+  <row>
+    <id>795</id>
+    <venue_name>Gaylord Texan Resort &amp; Convention Center</venue_name>
+    <city>Grapevine</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>796</id>
+    <venue_name>Bloomington Armory</venue_name>
+    <city>Minneapolis</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>797</id>
+    <venue_name>AT&amp;T Hotel and Conference Center</venue_name>
+    <city>Austin</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>798</id>
+    <venue_name>Los Angeles, CA</venue_name>
+    <city>Los Angeles</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>799</id>
+    <venue_name>Sacramento Convention Center</venue_name>
+    <city>Sacramento</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>800</id>
+    <venue_name>San Diego Mission Bay Resort</venue_name>
+    <city>San Diego</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>801</id>
+    <venue_name>Salem Civic Center</venue_name>
+    <city>Salem</city>
+    <state>VA</state>
+  </row>
+  <row>
+    <id>802</id>
+    <venue_name>Extraco Events Center</venue_name>
+    <city>Waco</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>803</id>
+    <venue_name>Anaheim Convention Center</venue_name>
+    <city>Anaheim</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>804</id>
+    <venue_name>Chevy Chase Country Club Wheeling</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>805</id>
+    <venue_name>Montgomery County Event Center</venue_name>
+    <city>Dayton</city>
+    <state>OH</state>
+  </row>
+  <row>
+    <id>806</id>
+    <venue_name>MS Coast Coliseum</venue_name>
+    <city>Biloxi</city>
+    <state>MS</state>
+  </row>
+  <row>
+    <id>807</id>
+    <venue_name>Las Vegas, NV</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>808</id>
+    <venue_name>Cabarrus Arena &amp; Events Center Concord</venue_name>
+    <city>Concord</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>809</id>
+    <venue_name>Best Western Royal Plaza Trade Center Marlborough</venue_name>
+    <city>Worcester</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>810</id>
+    <venue_name>Macon County Recreation Park</venue_name>
+    <city>Franklin</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>811</id>
+    <venue_name>Havana</venue_name>
+    <city>Havana</city>
+    <state/>
+  </row>
+  <row>
+    <id>812</id>
+    <venue_name>Coosa Valley Fairgrounds</venue_name>
+    <city>Rome</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>813</id>
+    <venue_name>Colorado School of Mines</venue_name>
+    <city>Denver</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>814</id>
+    <venue_name>Carapina Centro de Eventos</venue_name>
+    <city>Serra</city>
+    <state>Espírito Santo</state>
+  </row>
+  <row>
+    <id>815</id>
+    <venue_name>Naples Exhibition Center</venue_name>
+    <city>Naples</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>816</id>
+    <venue_name>Charleston Civic Center</venue_name>
+    <city>Charleston</city>
+    <state>WV</state>
+  </row>
+  <row>
+    <id>817</id>
+    <venue_name>Decatur County Fairgrounds</venue_name>
+    <city>Parsons</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>818</id>
+    <venue_name>Boulder, CO</venue_name>
+    <city>Boulder</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>819</id>
+    <venue_name>Greensboro Coliseum Complex</venue_name>
+    <city>Greensboro</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>820</id>
+    <venue_name>BC Place Stadium</venue_name>
+    <city>Vancouver</city>
+    <state>BC</state>
+  </row>
+  <row>
+    <id>821</id>
+    <venue_name>America's Center Convention Complex</venue_name>
+    <city>St. Louis</city>
+    <state>MO</state>
+  </row>
+  <row>
+    <id>822</id>
+    <venue_name>Kansas City Convention Center</venue_name>
+    <city>Kansas City</city>
+    <state>MO</state>
+  </row>
+  <row>
+    <id>823</id>
+    <venue_name>Meadowlands Exposition Center</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>824</id>
+    <venue_name>NRG Park</venue_name>
+    <city>Houston</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>825</id>
+    <venue_name>Garland County Fairgrounds</venue_name>
+    <city>Hot Springs</city>
+    <state>AR</state>
+  </row>
+  <row>
+    <id>826</id>
+    <venue_name>The International Centre, Toronto</venue_name>
+    <city>Toronto</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>827</id>
+    <venue_name>Washington State Fair Events Center</venue_name>
+    <city>Puyallup</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>828</id>
+    <venue_name>Greater Richmond Convention Center</venue_name>
+    <city>Richmond</city>
+    <state>VA</state>
+  </row>
+  <row>
+    <id>829</id>
+    <venue_name>Marine Corps Base - Camp Pendleton</venue_name>
+    <city>Camp Pendleton</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>830</id>
+    <venue_name>Pooler-Cottonwood Conference Center</venue_name>
+    <city>Pooler</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>831</id>
+    <venue_name>The Ranch - Larimer County Fairgrounds</venue_name>
+    <city>Loveland</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>832</id>
+    <venue_name>WNC Agricultural Center</venue_name>
+    <city>Asheville</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>833</id>
+    <venue_name>National GuardArmy, Maryville</venue_name>
+    <city>Maryville</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>834</id>
+    <venue_name>Moscone Convention Center</venue_name>
+    <city>San Francisco</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>835</id>
+    <venue_name>Cintermex</venue_name>
+    <city>Monterrey</city>
+    <state/>
+  </row>
+  <row>
+    <id>836</id>
+    <venue_name>Houston, TX</venue_name>
+    <city>Houston</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>837</id>
+    <venue_name>Lancaster Event Center</venue_name>
+    <city>Lincoln</city>
+    <state>NE</state>
+  </row>
+  <row>
+    <id>838</id>
+    <venue_name>Dripping Springs Ranch Park and Event Center</venue_name>
+    <city>Austin</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>839</id>
+    <venue_name>Ector County Coliseum Complex</venue_name>
+    <city>Odessa</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>840</id>
+    <venue_name>Tampa, FL</venue_name>
+    <city>Tampa</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>841</id>
+    <venue_name>Rogers Convention Center</venue_name>
+    <city>Rogers</city>
+    <state>AR</state>
+  </row>
+  <row>
+    <id>842</id>
+    <venue_name>Royal Plaza Hotel &amp; Trade Center</venue_name>
+    <city>Marlborough</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>843</id>
+    <venue_name>Heinz Field</venue_name>
+    <city>Pittsburgh</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>844</id>
+    <venue_name>Westland Mall</venue_name>
+    <city>Columbus</city>
+    <state>OH</state>
+  </row>
+  <row>
+    <id>845</id>
+    <venue_name>Seatle Convention Center</venue_name>
+    <city>Seattle</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>846</id>
+    <venue_name>The Madison Hotel, Washington, DC</venue_name>
+    <city>Washington D.C.</city>
+    <state/>
+  </row>
+  <row>
+    <id>847</id>
+    <venue_name>The Mart</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>848</id>
+    <venue_name>Palm Springs Convention Center</venue_name>
+    <city>Palm Springs</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>849</id>
+    <venue_name>Exchange Club Fairgrounds</venue_name>
+    <city>Brunswick</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>850</id>
+    <venue_name>La Crosse Center</venue_name>
+    <city>La Crosse</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>851</id>
+    <venue_name>Jacksonville Fairgrounds - Expo Center</venue_name>
+    <city>Jacksonville</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>852</id>
+    <venue_name>The INK 48 Hotel</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>853</id>
+    <venue_name>Bayfield Community Centre</venue_name>
+    <city>Barrie</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>854</id>
+    <venue_name>Dallas Market Center</venue_name>
+    <city>Dallas</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>855</id>
+    <venue_name>Station 1 Event Center</venue_name>
+    <city>Zimmerman</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>856</id>
+    <venue_name>Crown Expo Center, Fayetteville</venue_name>
+    <city>Fayetteville</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>857</id>
+    <venue_name>Stade Olympique, Montréal</venue_name>
+    <city>Montreal</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>858</id>
+    <venue_name>U.S. Bank Stadium, Minneapolis</venue_name>
+    <city>Minneapolis</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>859</id>
+    <venue_name>Montreal, QC</venue_name>
+    <city>Montreal</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>860</id>
+    <venue_name>American Royal Center</venue_name>
+    <city>Kansas City</city>
+    <state>MO</state>
+  </row>
+  <row>
+    <id>861</id>
+    <venue_name>Dayton Airport Expo Center</venue_name>
+    <city>Dayton</city>
+    <state>OH</state>
+  </row>
+  <row>
+    <id>862</id>
+    <venue_name>Furniture and Things Event Center</venue_name>
+    <city>Elk River</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>863</id>
+    <venue_name>Seattle Center</venue_name>
+    <city>Seattle</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>864</id>
+    <venue_name>The Venetian Resort and Hotel</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>865</id>
+    <venue_name>Birmingham-Jefferson Convention Complex</venue_name>
+    <city>Birmingham</city>
+    <state>AL</state>
+  </row>
+  <row>
+    <id>866</id>
+    <venue_name>Event Center at Twin River Casino</venue_name>
+    <city>Lincoln</city>
+    <state>RI</state>
+  </row>
+  <row>
+    <id>867</id>
+    <venue_name>Raleigh Convention Center</venue_name>
+    <city>Raleigh</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>868</id>
+    <venue_name>Douglas County Fairgrounds</venue_name>
+    <city>Castle Rock</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>869</id>
+    <venue_name>Metropolitan Pavilion</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>870</id>
+    <venue_name>Wynwood Arts District</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>871</id>
+    <venue_name>International Agri-Center</venue_name>
+    <city>Tulare</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>872</id>
+    <venue_name>Earth Expo &amp; Covention Center at Mohegan Sun</venue_name>
+    <city>Uncasville</city>
+    <state>CT</state>
+  </row>
+  <row>
+    <id>873</id>
+    <venue_name>NYS Fairgrounds - Syracuse, NY</venue_name>
+    <city>Syracuse</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>874</id>
+    <venue_name>Wisconsin Center</venue_name>
+    <city>Milwaukee</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>875</id>
+    <venue_name>Intercontinental Miami</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>876</id>
+    <venue_name>Centro de Congresos Queretaro</venue_name>
+    <city>Querétaro</city>
+    <state/>
+  </row>
+  <row>
+    <id>877</id>
+    <venue_name>Nashville, TN</venue_name>
+    <city>Nashville</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>878</id>
+    <venue_name>Hyatt Regency, Indian Wells Resort &amp; Spa</venue_name>
+    <city>Indian Wells</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>879</id>
+    <venue_name>DCU Center</venue_name>
+    <city>Worcester</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>880</id>
+    <venue_name>Hotel Bonaventure, Montréal</venue_name>
+    <city>Montreal</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>881</id>
+    <venue_name>Hasin Shrine Temple</venue_name>
+    <city>Albany</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>882</id>
+    <venue_name>Kern County Fair</venue_name>
+    <city>Bakersfield</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>883</id>
+    <venue_name>Eastlink Centre</venue_name>
+    <city>Charlottetown</city>
+    <state>PE</state>
+  </row>
+  <row>
+    <id>884</id>
+    <venue_name>Reno-Sparks Convention Center</venue_name>
+    <city>Reno</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>885</id>
+    <venue_name>EAA Wearhouse</venue_name>
+    <city>Oshkosh</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>886</id>
+    <venue_name>Calgary, AB</venue_name>
+    <city>Calgary</city>
+    <state>AB</state>
+  </row>
+  <row>
+    <id>887</id>
+    <venue_name>Palm Harbor, FL</venue_name>
+    <city>Palm Harbor</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>888</id>
+    <venue_name>Western Fair, Canada Building</venue_name>
+    <city>London</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>889</id>
+    <venue_name>Conexus Arts Centre</venue_name>
+    <city>Regina</city>
+    <state>SK</state>
+  </row>
+  <row>
+    <id>890</id>
+    <venue_name>The Alamodome</venue_name>
+    <city>San Antonio</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>891</id>
+    <venue_name>San Diego Convention Center</venue_name>
+    <city>San Diego</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>892</id>
+    <venue_name>Town and Country Resort &amp; Convention Center</venue_name>
+    <city>San Diego</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>893</id>
+    <venue_name>Atlantic City Convention Center</venue_name>
+    <city>Atlantic City</city>
+    <state>NJ</state>
+  </row>
+  <row>
+    <id>894</id>
+    <venue_name>San Jose McEnery Convention Center</venue_name>
+    <city>San Jose</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>895</id>
+    <venue_name>Feria Exposicion de Santa Cruz</venue_name>
+    <city>Santa Cruz de la Sierra</city>
+    <state/>
+  </row>
+  <row>
+    <id>896</id>
+    <venue_name>The Westin Cleveland Downtown</venue_name>
+    <city>Cleveland</city>
+    <state>OH</state>
+  </row>
+  <row>
+    <id>897</id>
+    <venue_name>Ottawa, ON</venue_name>
+    <city>Ottawa</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>898</id>
+    <venue_name>Fredericton, NB</venue_name>
+    <city>Fredericton</city>
+    <state>NB</state>
+  </row>
+  <row>
+    <id>899</id>
+    <venue_name>The Bonita Springs Poker Room</venue_name>
+    <city>Bonita Springs</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>900</id>
+    <venue_name>JW Marriott Turnberry, Miami, FL</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>901</id>
+    <venue_name>Mississauga, ON</venue_name>
+    <city>Mississauga</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>902</id>
+    <venue_name>Catamaran Resort Hotel &amp; Spa</venue_name>
+    <city>San Diego</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>903</id>
+    <venue_name>Marriott Marquis Hotel</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>904</id>
+    <venue_name>Campo de exposición Agrobaja</venue_name>
+    <city>Mexicali</city>
+    <state/>
+  </row>
+  <row>
+    <id>905</id>
+    <venue_name>Polo Caruaru</venue_name>
+    <city>Caruaru</city>
+    <state/>
+  </row>
+  <row>
+    <id>906</id>
+    <venue_name>Henry B. Gonzalez Convention Center</venue_name>
+    <city>San Antonio</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>907</id>
+    <venue_name>Wahabi Shriners Center</venue_name>
+    <city>Jackson</city>
+    <state>MS</state>
+  </row>
+  <row>
+    <id>908</id>
+    <venue_name>Hilton Raleigh North Hills</venue_name>
+    <city>Raleigh</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>909</id>
+    <venue_name>Palacio de Convenciones de la Habana</venue_name>
+    <city>Havana</city>
+    <state/>
+  </row>
+  <row>
+    <id>910</id>
+    <venue_name>Del Mar Fairgrounds</venue_name>
+    <city>Del Mar</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>911</id>
+    <venue_name>Cox Convention Center</venue_name>
+    <city>Oklahoma City</city>
+    <state>OK</state>
+  </row>
+  <row>
+    <id>912</id>
+    <venue_name>Club Xochimilco Acalli</venue_name>
+    <city>Mexico City</city>
+    <state/>
+  </row>
+  <row>
+    <id>913</id>
+    <venue_name>Mobile Civic Center</venue_name>
+    <city>Mobile</city>
+    <state>AL</state>
+  </row>
+  <row>
+    <id>914</id>
+    <venue_name>Texas Motor Speedway</venue_name>
+    <city>Fort Worth</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>915</id>
+    <venue_name>Predio Ferial y Autódromo de San Nicolás</venue_name>
+    <city>San Nicolás de los Arroyos</city>
+    <state/>
+  </row>
+  <row>
+    <id>916</id>
+    <venue_name>Bend Xpo</venue_name>
+    <city>East Moline</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>917</id>
+    <venue_name>Pasadena Convention Center</venue_name>
+    <city>Pasadena</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>918</id>
+    <venue_name>Winnipeg, MB</venue_name>
+    <city>Winnipeg</city>
+    <state>MB</state>
+  </row>
+  <row>
+    <id>919</id>
+    <venue_name>Prairieland Park</venue_name>
+    <city>Saskatoon</city>
+    <state>SK</state>
+  </row>
+  <row>
+    <id>920</id>
+    <venue_name>Fort Worth Convention Center</venue_name>
+    <city>Fort Worth</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>921</id>
+    <venue_name>Greater Tacoma Convention &amp; Trade Center</venue_name>
+    <city>Tacoma</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>922</id>
+    <venue_name>Onalaska OmniCenter</venue_name>
+    <city>Onalaska</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>923</id>
+    <venue_name>Arapahoe County Fairgrounds and Event Center</venue_name>
+    <city>Denver</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>924</id>
+    <venue_name>Richmond Raceway Complex</venue_name>
+    <city>Richmond</city>
+    <state>VA</state>
+  </row>
+  <row>
+    <id>925</id>
+    <venue_name>The Westin Santa Fe, Mexico City</venue_name>
+    <city>Mexico City</city>
+    <state/>
+  </row>
+  <row>
+    <id>926</id>
+    <venue_name>Missouri State Fairgrounds Publicity</venue_name>
+    <city>Sedalia</city>
+    <state>MO</state>
+  </row>
+  <row>
+    <id>927</id>
+    <venue_name>Industry City, Brooklyn</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>929</id>
+    <venue_name>Haddad's Inc.</venue_name>
+    <city>Pittsburgh</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>930</id>
+    <venue_name>Holiday Inn Hotel, Dedham, MA</venue_name>
+    <city>Dedham</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>931</id>
+    <venue_name>Panama Convention Center</venue_name>
+    <city>Panama City</city>
+    <state/>
+  </row>
+  <row>
+    <id>932</id>
+    <venue_name>Ferndale Events Center</venue_name>
+    <city>Bellingham</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>933</id>
+    <venue_name>Fenac Exhibition grounds</venue_name>
+    <city>Novo Hamburgo</city>
+    <state/>
+  </row>
+  <row>
+    <id>934</id>
+    <venue_name>Ontario Convention Center</venue_name>
+    <city>Riverside</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>935</id>
+    <venue_name>Chippewa Valley Expo</venue_name>
+    <city>Eau Claire</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>936</id>
+    <venue_name>Deschutes County Fair &amp; Expo Center</venue_name>
+    <city>Redmond</city>
+    <state>OR</state>
+  </row>
+  <row>
+    <id>937</id>
+    <venue_name>Georgia International Convention Center - GICC</venue_name>
+    <city>Atlanta</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>938</id>
+    <venue_name>Miami Airport &amp; Convention Center</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>939</id>
+    <venue_name>The Westin Houston, Memorial City</venue_name>
+    <city>Houston</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>940</id>
+    <venue_name>Eastern States Exposition Grounds</venue_name>
+    <city>West Springfield</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>941</id>
+    <venue_name>Bogotá</venue_name>
+    <city>Bogotá</city>
+    <state/>
+  </row>
+  <row>
+    <id>942</id>
+    <venue_name>World Equestrian Center, Ocala, FL</venue_name>
+    <city>Ocala</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>943</id>
+    <venue_name>Querétaro Centro de Congresos</venue_name>
+    <city>Querétaro</city>
+    <state/>
+  </row>
+  <row>
+    <id>944</id>
+    <venue_name>Hilton Stamford Hotel &amp; Executive Meeting Center</venue_name>
+    <city>Stamford</city>
+    <state>CT</state>
+  </row>
+  <row>
+    <id>945</id>
+    <venue_name>Moncton Coliseum Complex</venue_name>
+    <city>Moncton</city>
+    <state>NB</state>
+  </row>
+  <row>
+    <id>946</id>
+    <venue_name>Buffalo Nigara Convention Center</venue_name>
+    <city>Buffalo</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>947</id>
+    <venue_name>Kitchener, ON</venue_name>
+    <city>Kitchener</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>948</id>
+    <venue_name>Hickory Metro Convention Center</venue_name>
+    <city>Lenoir</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>949</id>
+    <venue_name>Lewis &amp; Clark County Fairgrounds</venue_name>
+    <city>Helena</city>
+    <state>MT</state>
+  </row>
+  <row>
+    <id>950</id>
+    <venue_name>Sheraton Bogotá</venue_name>
+    <city>Bogotá</city>
+    <state/>
+  </row>
+  <row>
+    <id>951</id>
+    <venue_name>Harbour Station, Saint  John</venue_name>
+    <city>Saint John</city>
+    <state>NB</state>
+  </row>
+  <row>
+    <id>952</id>
+    <venue_name>Jackson County Fairgrounds &amp; Ariculture Center</venue_name>
+    <city>Jefferson</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>953</id>
+    <venue_name>Industry City</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>954</id>
+    <venue_name>The Westin Lombard Yorktown Center</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>955</id>
+    <venue_name>Egon Júlio Goelzer Exhibition Park</venue_name>
+    <city>Três Passos</city>
+    <state/>
+  </row>
+  <row>
+    <id>956</id>
+    <venue_name>Clyde Muse Center</venue_name>
+    <city>Pearl</city>
+    <state>MS</state>
+  </row>
+  <row>
+    <id>957</id>
+    <venue_name>Hotel Riu Plaza, Panama</venue_name>
+    <city>Panama City</city>
+    <state/>
+  </row>
+  <row>
+    <id>958</id>
+    <venue_name>Colorado Springs, CO</venue_name>
+    <city>Colorado Springs</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>959</id>
+    <venue_name>Transamérica Expo Center</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>960</id>
+    <venue_name>Centre des Congrès de Québec</venue_name>
+    <city>Quebec City</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>961</id>
+    <venue_name>Santiago</venue_name>
+    <city>Santiago</city>
+    <state/>
+  </row>
+  <row>
+    <id>962</id>
+    <venue_name>The Westin Rancho Mirage Golf Resort &amp; Spa</venue_name>
+    <city>Palm Springs</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>963</id>
+    <venue_name>San Francisco Marriott Marquis</venue_name>
+    <city>San Francisco</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>964</id>
+    <venue_name>Parque de exposições, Rio Pardo</venue_name>
+    <city>Rio Pardo</city>
+    <state/>
+  </row>
+  <row>
+    <id>965</id>
+    <venue_name>El Dorado International Airport</venue_name>
+    <city>Bogotá</city>
+    <state/>
+  </row>
+  <row>
+    <id>966</id>
+    <venue_name>Las Américas Resort and Convention Center</venue_name>
+    <city>Cartagena</city>
+    <state/>
+  </row>
+  <row>
+    <id>967</id>
+    <venue_name>Courtyard by Marriott Boston Downtown</venue_name>
+    <city>Boston</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>968</id>
+    <venue_name>Maple Grove Community Center</venue_name>
+    <city>Maple Grove</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>969</id>
+    <venue_name>Shopping RioMar</venue_name>
+    <city>Recife</city>
+    <state/>
+  </row>
+  <row>
+    <id>970</id>
+    <venue_name>Lima</venue_name>
+    <city>Lima</city>
+    <state/>
+  </row>
+  <row>
+    <id>971</id>
+    <venue_name>Hastings Armory</venue_name>
+    <city>Hastings</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>972</id>
+    <venue_name>Calle de servicio 200</venue_name>
+    <city>Puerto Montt</city>
+    <state/>
+  </row>
+  <row>
+    <id>973</id>
+    <venue_name>Washington County Fair Grounds</venue_name>
+    <city>West Bend</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>974</id>
+    <venue_name>Pennsylvania Convention Center</venue_name>
+    <city>Philadelphia</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>975</id>
+    <venue_name>MSU Pavilion</venue_name>
+    <city>Lansing</city>
+    <state>MI</state>
+  </row>
+  <row>
+    <id>976</id>
+    <venue_name>Irving Convention Center</venue_name>
+    <city>Irving</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>977</id>
+    <venue_name>Madison Marriott West</venue_name>
+    <city>Madison</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>978</id>
+    <venue_name>Empower Field House</venue_name>
+    <city>Foxborough</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>979</id>
+    <venue_name>Renaissance São Paulo Hotel</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>980</id>
+    <venue_name>Hilton Long Beach</venue_name>
+    <city>Long Beach</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>981</id>
+    <venue_name>Danbury Sports Dome</venue_name>
+    <city>Danbury</city>
+    <state>CT</state>
+  </row>
+  <row>
+    <id>982</id>
+    <venue_name>Palmer Events Center</venue_name>
+    <city>Austin</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>983</id>
+    <venue_name>Eagan Community Center</venue_name>
+    <city>Eagan</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>984</id>
+    <venue_name>Carney Island Recreation &amp; Conservation Area</venue_name>
+    <city>Ocala</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>985</id>
+    <venue_name>Findlay Toyota Center</venue_name>
+    <city>Prescott Valley</city>
+    <state>AZ</state>
+  </row>
+  <row>
+    <id>986</id>
+    <venue_name>Gaylord Palms Resort &amp; Convention Center</venue_name>
+    <city>Orlando</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>987</id>
+    <venue_name>Medellin</venue_name>
+    <city>Medellin</city>
+    <state/>
+  </row>
+  <row>
+    <id>988</id>
+    <venue_name>National Western Complex</venue_name>
+    <city>Denver</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>989</id>
+    <venue_name>Chicago Marriott O'Hare</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>990</id>
+    <venue_name>Rosen Plaza Hotel</venue_name>
+    <city>Orlando</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>991</id>
+    <venue_name>Downtown Flagler Drive</venue_name>
+    <city>Palm Beach</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>992</id>
+    <venue_name>Whipp Farm</venue_name>
+    <city>Cleburne</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>993</id>
+    <venue_name>Putah Canyon Recreation Area</venue_name>
+    <city>Napa</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>994</id>
+    <venue_name>Hartford XL Center</venue_name>
+    <city>Hartford</city>
+    <state>CT</state>
+  </row>
+  <row>
+    <id>995</id>
+    <venue_name>Renasant Convention Center, Memphis</venue_name>
+    <city>Memphis</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>996</id>
+    <venue_name>Pictou County Wellness Centre</venue_name>
+    <city>New Glasgow</city>
+    <state>NS</state>
+  </row>
+  <row>
+    <id>997</id>
+    <venue_name>Minneapolis, MN</venue_name>
+    <city>Minneapolis</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>998</id>
+    <venue_name>Charles E. Smith Center</venue_name>
+    <city>Washington D.C.</city>
+    <state/>
+  </row>
+  <row>
+    <id>999</id>
+    <venue_name>NYSE - New York Stock Exchange</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1000</id>
+    <venue_name>Hotel Arts, Calgary</venue_name>
+    <city>Calgary</city>
+    <state>AB</state>
+  </row>
+  <row>
+    <id>1001</id>
+    <venue_name>Central Bank Center</venue_name>
+    <city>Lexington</city>
+    <state>KY</state>
+  </row>
+  <row>
+    <id>1002</id>
+    <venue_name>Capital Exhibit Centre</venue_name>
+    <city>Fredericton</city>
+    <state>NB</state>
+  </row>
+  <row>
+    <id>1003</id>
+    <venue_name>Hynes Convention Center</venue_name>
+    <city>Boston</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>1004</id>
+    <venue_name>Hasse Arena</venue_name>
+    <city>Lakeville</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>1005</id>
+    <venue_name>Portland, OR</venue_name>
+    <city>Portland</city>
+    <state>OR</state>
+  </row>
+  <row>
+    <id>1006</id>
+    <venue_name>Cal Expo, Sacramento</venue_name>
+    <city>Sacramento</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1007</id>
+    <venue_name>Ice Arena Antigo</venue_name>
+    <city>Antigo</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>1008</id>
+    <venue_name>Aeropuerto Internacional Arturo Merino Benítez</venue_name>
+    <city>Santiago</city>
+    <state/>
+  </row>
+  <row>
+    <id>1009</id>
+    <venue_name>Kossiakoff Center at Johns Hopkins University</venue_name>
+    <city>Laurel</city>
+    <state>MD</state>
+  </row>
+  <row>
+    <id>1010</id>
+    <venue_name>Victoria Recreation Center</venue_name>
+    <city>Victoria</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>1011</id>
+    <venue_name>Hyatt Regency Coconut Point</venue_name>
+    <city>Bonita Springs</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1012</id>
+    <venue_name>Orange County Convention Center</venue_name>
+    <city>Baltimore</city>
+    <state>MD</state>
+  </row>
+  <row>
+    <id>1013</id>
+    <venue_name>Stewart Hotel New York</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1014</id>
+    <venue_name>Chicago Marriott Oak Brook</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1015</id>
+    <venue_name>Bay Bridge Marina Stevensville</venue_name>
+    <city>Annapolis</city>
+    <state>MD</state>
+  </row>
+  <row>
+    <id>1016</id>
+    <venue_name>Batesville Civic Center</venue_name>
+    <city>Batesville</city>
+    <state>MS</state>
+  </row>
+  <row>
+    <id>1017</id>
+    <venue_name>Hyatt Regency San Francisco Airport</venue_name>
+    <city>San Francisco</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1018</id>
+    <venue_name>Hyatt Regency Mission Bay Spa and Marina Hyatt Regency Mission Bay Spa and Marina</venue_name>
+    <city>San Diego</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1019</id>
+    <venue_name>Mana Wynwood Convention Center</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1020</id>
+    <venue_name>Huntington Place Convention Center</venue_name>
+    <city>Detroit</city>
+    <state>MI</state>
+  </row>
+  <row>
+    <id>1021</id>
+    <venue_name>Grapevine, TX</venue_name>
+    <city>Grapevine</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1022</id>
+    <venue_name>Better Living Centre</venue_name>
+    <city>Toronto</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>1023</id>
+    <venue_name>Meadowlands Expo Center Secaucus</venue_name>
+    <city>Jersey City</city>
+    <state>NJ</state>
+  </row>
+  <row>
+    <id>1024</id>
+    <venue_name>Fort Worth, TX</venue_name>
+    <city>Fort Worth</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1025</id>
+    <venue_name>UF Scripps Biomedical Research - University of Florida</venue_name>
+    <city>Jupiter</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1026</id>
+    <venue_name>Rosen Shingle Creek Resort</venue_name>
+    <city>Orlando</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1027</id>
+    <venue_name>Centrexpo Cogeco Drummondville</venue_name>
+    <city>Drummondville</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1028</id>
+    <venue_name>Central Wisconsin Convention &amp; Expo Center</venue_name>
+    <city>Wausau</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>1029</id>
+    <venue_name>Hippodrome Ice Arena</venue_name>
+    <city>White Bear Lake</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>1030</id>
+    <venue_name>Marina Jack's</venue_name>
+    <city>Sarasota</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1031</id>
+    <venue_name>Centro Internacional de Ferias y Convenciones</venue_name>
+    <city>San Salvador</city>
+    <state/>
+  </row>
+  <row>
+    <id>1032</id>
+    <venue_name>Gaylord National Resort and Convention Center</venue_name>
+    <city>National Harbor</city>
+    <state>MD</state>
+  </row>
+  <row>
+    <id>1033</id>
+    <venue_name>The Wanamaker Building</venue_name>
+    <city>Philadelphia</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>1034</id>
+    <venue_name>Waukesha County Expo Center</venue_name>
+    <city>Milwaukee</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>1035</id>
+    <venue_name>Parque Municipal de Exposições Alfredo Leandro Carlson</venue_name>
+    <city>Santa Rosa</city>
+    <state/>
+  </row>
+  <row>
+    <id>1036</id>
+    <venue_name>Live! Casino &amp; Hotel Philadelphia</venue_name>
+    <city>Philadelphia</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>1037</id>
+    <venue_name>Park Hyatt Chicago</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1038</id>
+    <venue_name>Fundaparque</venue_name>
+    <city>Bento Gonçalves</city>
+    <state/>
+  </row>
+  <row>
+    <id>1039</id>
+    <venue_name>Annapolis City Dock</venue_name>
+    <city>Annapolis</city>
+    <state>MD</state>
+  </row>
+  <row>
+    <id>1040</id>
+    <venue_name>Mazatlán International Center</venue_name>
+    <city>Mazatlán</city>
+    <state/>
+  </row>
+  <row>
+    <id>1041</id>
+    <venue_name>Ontario International Airport</venue_name>
+    <city>Ontario</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1042</id>
+    <venue_name>Topsfield Fairgrounds</venue_name>
+    <city>Topsfield</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>1043</id>
+    <venue_name>Fairmont San Francisco Hotel</venue_name>
+    <city>San Francisco</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1044</id>
+    <venue_name>Fort Mason Center</venue_name>
+    <city>San Francisco</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1045</id>
+    <venue_name>Fontainebleau Resort Las Vegas</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1046</id>
+    <venue_name>Rath Eastlink Community Centre</venue_name>
+    <city>Truro</city>
+    <state>NS</state>
+  </row>
+  <row>
+    <id>1047</id>
+    <venue_name>Von Braun Center</venue_name>
+    <city>Huntsville</city>
+    <state>AL</state>
+  </row>
+  <row>
+    <id>1048</id>
+    <venue_name>Spruce Meadows</venue_name>
+    <city>Calgary</city>
+    <state>AB</state>
+  </row>
+  <row>
+    <id>1049</id>
+    <venue_name>Fazenda Sol Nascente</venue_name>
+    <city>Balsas</city>
+    <state/>
+  </row>
+  <row>
+    <id>1050</id>
+    <venue_name>Centro Tecnológico Vandeci Rack</venue_name>
+    <city>Ji-Paraná</city>
+    <state/>
+  </row>
+  <row>
+    <id>1051</id>
+    <venue_name>Parc 55 Hotel</venue_name>
+    <city>San Francisco</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1052</id>
+    <venue_name>Sheraton Philadelphia Downtown Hotel</venue_name>
+    <city>Philadelphia</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>1053</id>
+    <venue_name>Mukwonago Field Park</venue_name>
+    <city>Mukwonago</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>1054</id>
+    <venue_name>World Market Center, Las Vegas</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1055</id>
+    <venue_name>Omni Frisco Hotel</venue_name>
+    <city>Frisco TX</city>
+    <state/>
+  </row>
+  <row>
+    <id>1056</id>
+    <venue_name>Fort Pontchartrain a Wyndham Hotel</venue_name>
+    <city>Detroit</city>
+    <state>MI</state>
+  </row>
+  <row>
+    <id>1057</id>
+    <venue_name>Poliforum Leon</venue_name>
+    <city>León</city>
+    <state/>
+  </row>
+  <row>
+    <id>1058</id>
+    <venue_name>HealthEast Sports Center</venue_name>
+    <city>Woodbury</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>1059</id>
+    <venue_name>Meydenbauer Center</venue_name>
+    <city>Bellevue</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>1060</id>
+    <venue_name>New York Pier 90</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1061</id>
+    <venue_name>Expo Unimed Curitiba</venue_name>
+    <city>Curitiba</city>
+    <state/>
+  </row>
+  <row>
+    <id>1062</id>
+    <venue_name>Centre Jean-Daigle</venue_name>
+    <city>Edmundston</city>
+    <state>NB</state>
+  </row>
+  <row>
+    <id>1063</id>
+    <venue_name>UQAC pavillon sportif</venue_name>
+    <city>Saguenay</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1064</id>
+    <venue_name>The Westin Copley Place, Boston</venue_name>
+    <city>Boston</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>1065</id>
+    <venue_name>National Guard Armory, Covington</venue_name>
+    <city>Covington</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>1066</id>
+    <venue_name>Westin Boston Seaport District</venue_name>
+    <city>Boston</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>1067</id>
+    <venue_name>Commissioners Park</venue_name>
+    <city>Ottawa</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>1068</id>
+    <venue_name>Park Avenue Armory</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1069</id>
+    <venue_name>The Westin Arlington Gateway</venue_name>
+    <city>Washington D.C.</city>
+    <state/>
+  </row>
+  <row>
+    <id>1070</id>
+    <venue_name>Seaport Hotel, Boston</venue_name>
+    <city>Boston</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>1071</id>
+    <venue_name>Mexico World Trade Center</venue_name>
+    <city>Mexico City</city>
+    <state/>
+  </row>
+  <row>
+    <id>1072</id>
+    <venue_name>World Trade Center São Paulo</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>1073</id>
+    <venue_name>White Oaks Conference Resort</venue_name>
+    <city>Niagara Falls</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>1074</id>
+    <venue_name>Ibirapuera Park</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>1075</id>
+    <venue_name>San Jose, CA</venue_name>
+    <city>San Jose</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1076</id>
+    <venue_name>Denver Merchandise Mart</venue_name>
+    <city>Denver</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>1077</id>
+    <venue_name>JW Marriott Desert Springs Resort &amp; Spa</venue_name>
+    <city>Palm Springs</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1078</id>
+    <venue_name>Chicago Journeyman Plumbers Union Hall</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1079</id>
+    <venue_name>Hilton Toronto</venue_name>
+    <city>Toronto</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>1080</id>
+    <venue_name>Morgan MFG</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1081</id>
+    <venue_name>NRG Center</venue_name>
+    <city>Houston</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1082</id>
+    <venue_name>Norris Conference Centers - Houston CityCentre</venue_name>
+    <city>Houston</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1083</id>
+    <venue_name>South Point Hotel, Casino and Spa</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1084</id>
+    <venue_name>The Studios at Paramount</venue_name>
+    <city>Los Angeles</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1085</id>
+    <venue_name>El Paso Convention and Performing Art Center</venue_name>
+    <city>El Paso</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1086</id>
+    <venue_name>Parque Vila Germanica</venue_name>
+    <city>Blumenau</city>
+    <state/>
+  </row>
+  <row>
+    <id>1087</id>
+    <venue_name>Eagle River Stadium</venue_name>
+    <city>Eagle River</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>1088</id>
+    <venue_name>Cool Springs Galleria</venue_name>
+    <city>Franklin</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>1089</id>
+    <venue_name>Gare Windsor</venue_name>
+    <city>Montreal</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1090</id>
+    <venue_name>Racine Zoo on Lake Michigan</venue_name>
+    <city>Racine</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>1091</id>
+    <venue_name>Wynn Las Vegas Resort</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1092</id>
+    <venue_name>Hyatt Regency Orlando</venue_name>
+    <city>Orlando</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1093</id>
+    <venue_name>Anaheim, CA</venue_name>
+    <city>Anaheim</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1094</id>
+    <venue_name>Recinto Ferial y de Actividades Comunitarias AIA</venue_name>
+    <city>Antofagasta</city>
+    <state/>
+  </row>
+  <row>
+    <id>1095</id>
+    <venue_name>Pacific National Exhibition</venue_name>
+    <city>Vancouver</city>
+    <state>BC</state>
+  </row>
+  <row>
+    <id>1096</id>
+    <venue_name>Orange County Convention Center</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1097</id>
+    <venue_name>Iowa State Fairgrounds</venue_name>
+    <city>Des Moines</city>
+    <state>IA</state>
+  </row>
+  <row>
+    <id>1098</id>
+    <venue_name>Greater Ft. Lauderdale - Broward County Convention Center</venue_name>
+    <city>Fort Lauderdale</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1099</id>
+    <venue_name>Aréna Jacques-Laperrière et Réjean Houle</venue_name>
+    <city>Rouyn-Noranda</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1100</id>
+    <venue_name>Fort Lauderdale War Memorial Auditorium</venue_name>
+    <city>Fort Lauderdale</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1101</id>
+    <venue_name>Chicago Marriott Schaumburg</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1102</id>
+    <venue_name>Intercontinental Chicago Magnificent Mile, Chicago</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1103</id>
+    <venue_name>Hilton Washington DC National Mall The Wharf</venue_name>
+    <city>Washington D.C.</city>
+    <state/>
+  </row>
+  <row>
+    <id>1104</id>
+    <venue_name>Expo Santa Fe México CDMX</venue_name>
+    <city>Mexico City</city>
+    <state/>
+  </row>
+  <row>
+    <id>1105</id>
+    <venue_name>Intercontinental Santiago</venue_name>
+    <city>Santiago</city>
+    <state/>
+  </row>
+  <row>
+    <id>1106</id>
+    <venue_name>Mirage Event Center</venue_name>
+    <city>Indianapolis</city>
+    <state>IN</state>
+  </row>
+  <row>
+    <id>1107</id>
+    <venue_name>Marriott Hotel, Schaumburg</venue_name>
+    <city>Schaumburg</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1108</id>
+    <venue_name>CenturyLink Field Event Center</venue_name>
+    <city>Seattle</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>1109</id>
+    <venue_name>The Westin Lake Las Vegas Resort &amp; Spa</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1110</id>
+    <venue_name>Fairmont Century Plaza, Los Angeles</venue_name>
+    <city>Los Angeles</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1111</id>
+    <venue_name>São Paulo</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>1112</id>
+    <venue_name>Sunbridge Hotel and Conference Center</venue_name>
+    <city>Sarnia</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>1113</id>
+    <venue_name>Reno, NV</venue_name>
+    <city>Reno</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1114</id>
+    <venue_name>Aéroport de Montréal Saint-Hubert Longueuil</venue_name>
+    <city>Montreal</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1115</id>
+    <venue_name>Parque Anhembi</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>1116</id>
+    <venue_name>Cancún Center</venue_name>
+    <city>Cancún</city>
+    <state/>
+  </row>
+  <row>
+    <id>1117</id>
+    <venue_name>Hilton Mexico City Reforma</venue_name>
+    <city>Mexico City</city>
+    <state/>
+  </row>
+  <row>
+    <id>1118</id>
+    <venue_name>Salt Palace Convention Center</venue_name>
+    <city>Salt Lake City</city>
+    <state>UT</state>
+  </row>
+  <row>
+    <id>1119</id>
+    <venue_name>UIC Forum</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1120</id>
+    <venue_name>Westin Atlanta Perimeter North</venue_name>
+    <city>Atlanta</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>1121</id>
+    <venue_name>Sheraton Vancouver Wall Centre</venue_name>
+    <city>Vancouver</city>
+    <state>BC</state>
+  </row>
+  <row>
+    <id>1122</id>
+    <venue_name>Cancún-Riviera Maya, México</venue_name>
+    <city>Cancún</city>
+    <state/>
+  </row>
+  <row>
+    <id>1123</id>
+    <venue_name>Caroline Country Fairgrounds</venue_name>
+    <city>Richmond</city>
+    <state>VA</state>
+  </row>
+  <row>
+    <id>1124</id>
+    <venue_name>Renaissance Dallas Richardson Hotel</venue_name>
+    <city>Dallas</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1125</id>
+    <venue_name>Gaylord National Hotel &amp; Convention Center</venue_name>
+    <city>Washington D.C.</city>
+    <state/>
+  </row>
+  <row>
+    <id>1126</id>
+    <venue_name>Twin Lakes Park Westmoreland</venue_name>
+    <city>Pittsburgh</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>1127</id>
+    <venue_name>Ludington's Rotary Park</venue_name>
+    <city>Ludington</city>
+    <state>MI</state>
+  </row>
+  <row>
+    <id>1128</id>
+    <venue_name>Mystic Seaport</venue_name>
+    <city>Norwich</city>
+    <state>CT</state>
+  </row>
+  <row>
+    <id>1129</id>
+    <venue_name>Buenos Aires</venue_name>
+    <city>Buenos Aires</city>
+    <state/>
+  </row>
+  <row>
+    <id>1130</id>
+    <venue_name>Allen County War Memorial Coliseum</venue_name>
+    <city>Fort Wayne</city>
+    <state>IN</state>
+  </row>
+  <row>
+    <id>1131</id>
+    <venue_name>Kutztown Fairgrounds</venue_name>
+    <city>Reading</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>1132</id>
+    <venue_name>Cedar City, UT</venue_name>
+    <city>Cedar City</city>
+    <state>UT</state>
+  </row>
+  <row>
+    <id>1133</id>
+    <venue_name>West Grand Traverse Bay, Lake Michigan</venue_name>
+    <city>Traverse City</city>
+    <state>MI</state>
+  </row>
+  <row>
+    <id>1134</id>
+    <venue_name>Nathan Phillips Square</venue_name>
+    <city>Toronto</city>
+    <state>ON</state>
+  </row>
+  <row>
+    <id>1135</id>
+    <venue_name>Muskegon, MI</venue_name>
+    <city>Muskegon</city>
+    <state>MI</state>
+  </row>
+  <row>
+    <id>1136</id>
+    <venue_name>Hotel Van Zandt</venue_name>
+    <city>Austin</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1137</id>
+    <venue_name>Weld County Fairgrounds, Greeley</venue_name>
+    <city>Greeley</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>1138</id>
+    <venue_name>Cedar Creek Lake</venue_name>
+    <city>Corsicana</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1139</id>
+    <venue_name>Weatherford, TX</venue_name>
+    <city>Weatherford</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1140</id>
+    <venue_name>Williams Lake, Hudson Valley</venue_name>
+    <city>Kingston</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1141</id>
+    <venue_name>Marriott Tampa Westshore</venue_name>
+    <city>Tampa</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1142</id>
+    <venue_name>Penn State University Campus</venue_name>
+    <city>State College</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>1143</id>
+    <venue_name>Eden Roc Hotel, Miami Beach</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1144</id>
+    <venue_name>The Lakeland Center</venue_name>
+    <city>Lakeland</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1145</id>
+    <venue_name>Indianapolis Marriott East</venue_name>
+    <city>Indianapolis</city>
+    <state>IN</state>
+  </row>
+  <row>
+    <id>1146</id>
+    <venue_name>Schoenecker Arena</venue_name>
+    <city>St. Paul</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>1147</id>
+    <venue_name>Pioneer Park</venue_name>
+    <city>Brookings</city>
+    <state>SD</state>
+  </row>
+  <row>
+    <id>1148</id>
+    <venue_name>Rabun County Civic Center</venue_name>
+    <city>Clayton</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>1149</id>
+    <venue_name>Burning Man Gathering</venue_name>
+    <city>Reno</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1150</id>
+    <venue_name>Monterey Conference Center</venue_name>
+    <city>Monterey</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1151</id>
+    <venue_name>Iola Old Car Show - Show Grounds</venue_name>
+    <city>Iola</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>1152</id>
+    <venue_name>Diplomat Resort &amp; Spa Hollywood</venue_name>
+    <city>Hollywood</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1153</id>
+    <venue_name>Gaylord Palms Resort and Convention Center</venue_name>
+    <city>Kissimmee</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1154</id>
+    <venue_name>Terranea Resor</venue_name>
+    <city>Rancho Palos Verdes</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1155</id>
+    <venue_name>Genesee Park / Lac Washington</venue_name>
+    <city>Seattle</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>1156</id>
+    <venue_name>Palo Alto Art Center</venue_name>
+    <city>Palo Alto</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1157</id>
+    <venue_name>Museum Hill</venue_name>
+    <city>Santa Fe</city>
+    <state>NM</state>
+  </row>
+  <row>
+    <id>1158</id>
+    <venue_name>Haddonfield, NJ</venue_name>
+    <city>Haddonfield</city>
+    <state>NJ</state>
+  </row>
+  <row>
+    <id>1159</id>
+    <venue_name>Novotel Sao Paulo, Center Norte</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>1160</id>
+    <venue_name>Guilford Art Center</venue_name>
+    <city>Farmington</city>
+    <state>CT</state>
+  </row>
+  <row>
+    <id>1161</id>
+    <venue_name>Keystone Conference Center</venue_name>
+    <city>Dillon</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>1162</id>
+    <venue_name>Aspen Ice Garden</venue_name>
+    <city>Aspen</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>1163</id>
+    <venue_name>Gaylord Rockies Resort &amp; Convention Center</venue_name>
+    <city>Denver</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>1164</id>
+    <venue_name>DoubleTree By Hilton Bogota Salitre AR</venue_name>
+    <city>Bogotá</city>
+    <state/>
+  </row>
+  <row>
+    <id>1165</id>
+    <venue_name>Bridgehampton Museum</venue_name>
+    <city>Bridgehampton</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1166</id>
+    <venue_name>Esther Short Park</venue_name>
+    <city>Vancouver</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>1167</id>
+    <venue_name>Centro de Eventos Valle del Pacifico</venue_name>
+    <city>Cali</city>
+    <state/>
+  </row>
+  <row>
+    <id>1168</id>
+    <venue_name>Redwood Falls, MN</venue_name>
+    <city>Redwood Falls</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>1169</id>
+    <venue_name>WestWorld of Scottsdale Phoenix</venue_name>
+    <city>Phoenix</city>
+    <state>AZ</state>
+  </row>
+  <row>
+    <id>1170</id>
+    <venue_name>Springdale Holiday Inn Convention Center</venue_name>
+    <city>Springdale</city>
+    <state>AR</state>
+  </row>
+  <row>
+    <id>1171</id>
+    <venue_name>Anoka Area Ice Arena</venue_name>
+    <city>Roseville</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>1172</id>
+    <venue_name>Green Bay Austin Straubel International Airport</venue_name>
+    <city>Green Bay</city>
+    <state>WI</state>
+  </row>
+  <row>
+    <id>1173</id>
+    <venue_name>Schaumburg Convention Center</venue_name>
+    <city>Schaumburg</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1174</id>
+    <venue_name>Espace 400e</venue_name>
+    <city>Quebec City</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1175</id>
+    <venue_name>Castlewood Country Club Pleasanton</venue_name>
+    <city>Pleasanton</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1176</id>
+    <venue_name>Centro de Eventos Zanini</venue_name>
+    <city>Sertãozinho</city>
+    <state/>
+  </row>
+  <row>
+    <id>1177</id>
+    <venue_name>Breckenridge, CO</venue_name>
+    <city>Breckenridge</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>1178</id>
+    <venue_name>Agricenter International</venue_name>
+    <city>Memphis</city>
+    <state>TN</state>
+  </row>
+  <row>
+    <id>1179</id>
+    <venue_name>Duggal Greenhouse</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1180</id>
+    <venue_name>ExpoMag</venue_name>
+    <city>Rio de Janeiro</city>
+    <state/>
+  </row>
+  <row>
+    <id>1181</id>
+    <venue_name>Abbington Banquets Glen Ellyn</venue_name>
+    <city>Chicago</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1182</id>
+    <venue_name>Saint-Liboire, QC</venue_name>
+    <city>Saint-Liboire</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1183</id>
+    <venue_name>Raleigh, NC</venue_name>
+    <city>Raleigh</city>
+    <state>NC</state>
+  </row>
+  <row>
+    <id>1184</id>
+    <venue_name>Westin Denver Downtown Hotel</venue_name>
+    <city>Denver</city>
+    <state>CO</state>
+  </row>
+  <row>
+    <id>1185</id>
+    <venue_name>Villa Ciudad Ferial</venue_name>
+    <city>Lima</city>
+    <state/>
+  </row>
+  <row>
+    <id>1186</id>
+    <venue_name>Lake George, NY</venue_name>
+    <city>Lake George</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1187</id>
+    <venue_name>Place des Festivals</venue_name>
+    <city>Montreal</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1188</id>
+    <venue_name>Farm Progress Show Gathering, Decatur, IL</venue_name>
+    <city>Boone</city>
+    <state>IA</state>
+  </row>
+  <row>
+    <id>1189</id>
+    <venue_name>Parque de Exposição Carlos Caiado Barbosa</venue_name>
+    <city>Cachoeiro de Itapemirim</city>
+    <state/>
+  </row>
+  <row>
+    <id>1190</id>
+    <venue_name>Tucson, AZ</venue_name>
+    <city>Tucson</city>
+    <state>AZ</state>
+  </row>
+  <row>
+    <id>1191</id>
+    <venue_name>Cartagena de Indias Convention Center</venue_name>
+    <city>Cartagena</city>
+    <state/>
+  </row>
+  <row>
+    <id>1192</id>
+    <venue_name>June Lake, CA</venue_name>
+    <city>June Lake</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1193</id>
+    <venue_name>Watters Creek Convention Center</venue_name>
+    <city>Allen</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1194</id>
+    <venue_name>Universidad Nacional de San Agustin de Arequipa</venue_name>
+    <city>Arequipa</city>
+    <state/>
+  </row>
+  <row>
+    <id>1195</id>
+    <venue_name>Delta Trois-Rivieres Hotel &amp; Conference Centre</venue_name>
+    <city>Trois-Rivières</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1196</id>
+    <venue_name>TCF Center - formely COBO Center</venue_name>
+    <city>Detroit</city>
+    <state>MI</state>
+  </row>
+  <row>
+    <id>1197</id>
+    <venue_name>Hyatt Regency, Boston</venue_name>
+    <city>San Diego</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1198</id>
+    <venue_name>Nassau Veterans Memorial Coliseum</venue_name>
+    <city>Uniondale</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1199</id>
+    <venue_name>Pittsburgh, PA</venue_name>
+    <city>Pittsburgh</city>
+    <state>PA</state>
+  </row>
+  <row>
+    <id>1200</id>
+    <venue_name>Saugerties, NY</venue_name>
+    <city>Saugerties</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1201</id>
+    <venue_name>Paradisus Hotel</venue_name>
+    <city>Playa del Carmen</city>
+    <state/>
+  </row>
+  <row>
+    <id>1202</id>
+    <venue_name>Newport Harbor</venue_name>
+    <city>Newport</city>
+    <state>RI</state>
+  </row>
+  <row>
+    <id>1203</id>
+    <venue_name>Frank S. Farley State Marina</venue_name>
+    <city>Atlantic City</city>
+    <state>NJ</state>
+  </row>
+  <row>
+    <id>1204</id>
+    <venue_name>Hilton Houston Post Oak by the Galleria</venue_name>
+    <city>Houston</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1205</id>
+    <venue_name>Grand Island, NE</venue_name>
+    <city>Grand Island</city>
+    <state>NE</state>
+  </row>
+  <row>
+    <id>1206</id>
+    <venue_name>New York Pier 36</venue_name>
+    <city>New York</city>
+    <state>NY</state>
+  </row>
+  <row>
+    <id>1207</id>
+    <venue_name>Ketchikan, AK</venue_name>
+    <city>Ketchikan</city>
+    <state>AK</state>
+  </row>
+  <row>
+    <id>1208</id>
+    <venue_name>Suncor Community Leisure Centre</venue_name>
+    <city>Fort McMurray - Wood Buffalo</city>
+    <state>AB</state>
+  </row>
+  <row>
+    <id>1209</id>
+    <venue_name>Schaumburg, IL</venue_name>
+    <city>Schaumburg</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1210</id>
+    <venue_name>The Fairmont Hotel, Dallas</venue_name>
+    <city>Dallas</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1211</id>
+    <venue_name>Laurel Fairgrounds</venue_name>
+    <city>Laurel</city>
+    <state>MS</state>
+  </row>
+  <row>
+    <id>1212</id>
+    <venue_name>FisrtEnergy Park</venue_name>
+    <city>Lakewood</city>
+    <state>NJ</state>
+  </row>
+  <row>
+    <id>1213</id>
+    <venue_name>Hilton Post Oak</venue_name>
+    <city>Houston</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1214</id>
+    <venue_name>Greater Columbus Convention Center</venue_name>
+    <city>Columbus</city>
+    <state>OH</state>
+  </row>
+  <row>
+    <id>1215</id>
+    <venue_name>Georgia World Congress Center</venue_name>
+    <city>Los Angeles</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1216</id>
+    <venue_name>Baha Mar</venue_name>
+    <city>Nassau</city>
+    <state/>
+  </row>
+  <row>
+    <id>1217</id>
+    <venue_name>Hilton Lac-Leamy</venue_name>
+    <city>Gatineau</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1218</id>
+    <venue_name>Drury Lane Theatre</venue_name>
+    <city>Oak Brook</city>
+    <state>IL</state>
+  </row>
+  <row>
+    <id>1219</id>
+    <venue_name>Statler Hotel, Dallas</venue_name>
+    <city>Dallas</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1220</id>
+    <venue_name>Norwalk Cove Marina</venue_name>
+    <city>Norwalk</city>
+    <state>CT</state>
+  </row>
+  <row>
+    <id>1221</id>
+    <venue_name>Rio de Janeiro</venue_name>
+    <city>Rio de Janeiro</city>
+    <state/>
+  </row>
+  <row>
+    <id>1222</id>
+    <venue_name>Buenos Aires Marriott Hotel</venue_name>
+    <city>Buenos Aires</city>
+    <state/>
+  </row>
+  <row>
+    <id>1223</id>
+    <venue_name>Corpus Christi American Bank Center</venue_name>
+    <city>Corpus Christi</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1224</id>
+    <venue_name>C. Baldwin, Houston</venue_name>
+    <city>Houston</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1225</id>
+    <venue_name>Centro de Exposiciones Quito</venue_name>
+    <city>Quito</city>
+    <state/>
+  </row>
+  <row>
+    <id>1226</id>
+    <venue_name>Fargodome</venue_name>
+    <city>Fargo</city>
+    <state>ND</state>
+  </row>
+  <row>
+    <id>1227</id>
+    <venue_name>Ventura County Fairgrounds</venue_name>
+    <city>Ventura</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1228</id>
+    <venue_name>Stillwater Armory</venue_name>
+    <city>Woodbury</city>
+    <state>MN</state>
+  </row>
+  <row>
+    <id>1229</id>
+    <venue_name>National Cattle Congress Hippodrome Auditorium</venue_name>
+    <city>Waterloo</city>
+    <state>IA</state>
+  </row>
+  <row>
+    <id>1230</id>
+    <venue_name>Hotel Albuquerque at Old Town</venue_name>
+    <city>Albuquerque</city>
+    <state>NM</state>
+  </row>
+  <row>
+    <id>1231</id>
+    <venue_name>Centro Eventos Puente Verde</venue_name>
+    <city>Santiago</city>
+    <state/>
+  </row>
+  <row>
+    <id>1232</id>
+    <venue_name>Parque de Exposições Conta Dinheiro</venue_name>
+    <city>Lages</city>
+    <state/>
+  </row>
+  <row>
+    <id>1233</id>
+    <venue_name>Embassy Suites By Hilton, Seattle</venue_name>
+    <city>Seattle</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>1234</id>
+    <venue_name>Boston Marriott Burlington</venue_name>
+    <city>Boston</city>
+    <state>MA</state>
+  </row>
+  <row>
+    <id>1235</id>
+    <venue_name>Pavilhoes da Festa da Uva</venue_name>
+    <city>Caxias do Sul</city>
+    <state/>
+  </row>
+  <row>
+    <id>1236</id>
+    <venue_name>Hotel CCT, Caracas</venue_name>
+    <city>Caracas</city>
+    <state/>
+  </row>
+  <row>
+    <id>1237</id>
+    <venue_name>Recanto da Cascata</venue_name>
+    <city>São Roque - SP</city>
+    <state/>
+  </row>
+  <row>
+    <id>1238</id>
+    <venue_name>Grand Quai du Port de Montréal</venue_name>
+    <city>Montreal</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1239</id>
+    <venue_name>Bell Harbor International Conference Center</venue_name>
+    <city>Seattle</city>
+    <state>WA</state>
+  </row>
+  <row>
+    <id>1240</id>
+    <venue_name>Hawaii Convention Center</venue_name>
+    <city>Honolulu</city>
+    <state>HI</state>
+  </row>
+  <row>
+    <id>1241</id>
+    <venue_name>Moody Gardens Convention Center</venue_name>
+    <city>Galveston</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1242</id>
+    <venue_name>Trilith Studios</venue_name>
+    <city>Atlanta</city>
+    <state>GA</state>
+  </row>
+  <row>
+    <id>1243</id>
+    <venue_name>Roland E. Powell Convention Center</venue_name>
+    <city>Ocean City</city>
+    <state>MD</state>
+  </row>
+  <row>
+    <id>1244</id>
+    <venue_name>Peppermill Resort Spa Casino</venue_name>
+    <city>Reno</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1245</id>
+    <venue_name>Loews Miami Beach Hotel</venue_name>
+    <city>Miami</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1246</id>
+    <venue_name>Austin, TX</venue_name>
+    <city>Austin</city>
+    <state>TX</state>
+  </row>
+  <row>
+    <id>1247</id>
+    <venue_name>South San Francisco Conference Center</venue_name>
+    <city>San Francisco</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1248</id>
+    <venue_name>Kansas City Marriott Downtown</venue_name>
+    <city>Kansas City</city>
+    <state>MO</state>
+  </row>
+  <row>
+    <id>1249</id>
+    <venue_name>Clearwater, FL</venue_name>
+    <city>Clearwater</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1250</id>
+    <venue_name>Pro Magno Centro de Eventos</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>1251</id>
+    <venue_name>Boardwalk Beach Resort</venue_name>
+    <city>Panama City</city>
+    <state>FL</state>
+  </row>
+  <row>
+    <id>1252</id>
+    <venue_name>Museo de la Nacion</venue_name>
+    <city>Lima</city>
+    <state/>
+  </row>
+  <row>
+    <id>1253</id>
+    <venue_name>Paradox Hotel, Vancouver</venue_name>
+    <city>Vancouver</city>
+    <state>BC</state>
+  </row>
+  <row>
+    <id>1254</id>
+    <venue_name>Centro de Convenções Frei Caneca</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>1255</id>
+    <venue_name>Plaza Hotel &amp; Casino</venue_name>
+    <city>Las Vegas</city>
+    <state>NV</state>
+  </row>
+  <row>
+    <id>1256</id>
+    <venue_name>Lake Cahuilla Park Palm Springs</venue_name>
+    <city>La Quinta</city>
+    <state>CA</state>
+  </row>
+  <row>
+    <id>1257</id>
+    <venue_name>Yarmouth Mariners Centre</venue_name>
+    <city>Yarmouth</city>
+    <state>NS</state>
+  </row>
+  <row>
+    <id>1258</id>
+    <venue_name>Hôtel Rimouski and Rimouski convention centre</venue_name>
+    <city>Rimouski</city>
+    <state>QC</state>
+  </row>
+  <row>
+    <id>1259</id>
+    <venue_name>Centro de Eventos Sur Activo</venue_name>
+    <city>Concepción</city>
+    <state/>
+  </row>
+  <row>
+    <id>1260</id>
+    <venue_name>Base Aeronaval Viña del Mar</venue_name>
+    <city>Valparaiso</city>
+    <state/>
+  </row>
+  <row>
+    <id>1261</id>
+    <venue_name>Clube Hebraica SP</venue_name>
+    <city>São Paulo</city>
+    <state/>
+  </row>
+  <row>
+    <id>1262</id>
+    <venue_name>Mexico Military Airbase</venue_name>
+    <city>Mexico City</city>
+    <state/>
+  </row>
+  <row>
+    <id>1263</id>
+    <venue_name>Rionegro</venue_name>
+    <city>Rionegro</city>
+    <state/>
+  </row>
+  <row>
+    <id>1264</id>
+    <venue_name>FIDAM (Feira Industrial de Americana)</venue_name>
+    <city>Americana</city>
+    <state/>
+  </row>
+  <row>
+    <id>1265</id>
+    <venue_name>Macaé Centro</venue_name>
+    <city>Macaé</city>
+    <state/>
+  </row>
+  <row>
+    <id>1266</id>
+    <venue_name>CN Centre</venue_name>
+    <city>Prince George</city>
+    <state>BC</state>
+  </row>
+  <row>
+    <id>1943</id>
+    <venue_name>Palais Brongniart</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>1944</id>
+    <venue_name>Parc des expositions de Vitré</venue_name>
+    <city>Vitré</city>
+    <state/>
+  </row>
+  <row>
+    <id>1945</id>
+    <venue_name>Tüyap Damsun Fair and Congress Center</venue_name>
+    <city>Samsun</city>
+    <state/>
+  </row>
+  <row>
+    <id>1946</id>
+    <venue_name>Instituto Ferial de Vigo</venue_name>
+    <city>Vigo</city>
+    <state/>
+  </row>
+  <row>
+    <id>1947</id>
+    <venue_name>Orleans</venue_name>
+    <city>Orleans</city>
+    <state/>
+  </row>
+  <row>
+    <id>1948</id>
+    <venue_name>Trixxo Arena</venue_name>
+    <city>Hasselt</city>
+    <state/>
+  </row>
+  <row>
+    <id>1949</id>
+    <venue_name>Brandboxx Salzburg</venue_name>
+    <city>Salzburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>1950</id>
+    <venue_name>Zeelandhallen</venue_name>
+    <city>Goes</city>
+    <state/>
+  </row>
+  <row>
+    <id>1951</id>
+    <venue_name>DeLaMar Theater</venue_name>
+    <city>Amsterdam</city>
+    <state/>
+  </row>
+  <row>
+    <id>1952</id>
+    <venue_name>Castellana 81</venue_name>
+    <city>Madrid</city>
+    <state/>
+  </row>
+  <row>
+    <id>1953</id>
+    <venue_name>Salle des Fêtes, L'Isle-sur-la-Sorgue</venue_name>
+    <city>L'Isle-sur-la-Sorgue</city>
+    <state/>
+  </row>
+  <row>
+    <id>1954</id>
+    <venue_name>Pivdennyy-Expo</venue_name>
+    <city>Lviv</city>
+    <state/>
+  </row>
+  <row>
+    <id>1955</id>
+    <venue_name>Radisson Blu Daugava Hotel</venue_name>
+    <city>Riga</city>
+    <state/>
+  </row>
+  <row>
+    <id>1956</id>
+    <venue_name>IJsselhallen</venue_name>
+    <city>Zwolle</city>
+    <state/>
+  </row>
+  <row>
+    <id>1957</id>
+    <venue_name>CarraraFiere</venue_name>
+    <city>Carrara</city>
+    <state/>
+  </row>
+  <row>
+    <id>1958</id>
+    <venue_name>Stuttgart</venue_name>
+    <city>Stuttgart</city>
+    <state/>
+  </row>
+  <row>
+    <id>1959</id>
+    <venue_name>Dusseldorf</venue_name>
+    <city>Dusseldorf</city>
+    <state/>
+  </row>
+  <row>
+    <id>1960</id>
+    <venue_name>Radisson Blu Royal Hotel, Bergen</venue_name>
+    <city>Bergen</city>
+    <state/>
+  </row>
+  <row>
+    <id>1961</id>
+    <venue_name>Royal Cornwall Showground</venue_name>
+    <city>Wadebridge</city>
+    <state/>
+  </row>
+  <row>
+    <id>1962</id>
+    <venue_name>Messe Wels</venue_name>
+    <city>Wels</city>
+    <state/>
+  </row>
+  <row>
+    <id>1963</id>
+    <venue_name>Waregem Expo</venue_name>
+    <city>Waregem</city>
+    <state/>
+  </row>
+  <row>
+    <id>1964</id>
+    <venue_name>InterContinental Istanbul</venue_name>
+    <city>Istanbul</city>
+    <state/>
+  </row>
+  <row>
+    <id>1965</id>
+    <venue_name>CPH Conference</venue_name>
+    <city>Copenhagen</city>
+    <state/>
+  </row>
+  <row>
+    <id>1966</id>
+    <venue_name>Motorwerk Berlin</venue_name>
+    <city>Berlin</city>
+    <state/>
+  </row>
+  <row>
+    <id>1967</id>
+    <venue_name>Milano Convention Centre - Fiera Milano Congressi</venue_name>
+    <city>Milan</city>
+    <state/>
+  </row>
+  <row>
+    <id>1968</id>
+    <venue_name>RheinMain CongressCenter</venue_name>
+    <city>Wiesbaden</city>
+    <state/>
+  </row>
+  <row>
+    <id>1969</id>
+    <venue_name>Halle Tony Garnier</venue_name>
+    <city>Lyon</city>
+    <state/>
+  </row>
+  <row>
+    <id>1970</id>
+    <venue_name>MEC Millenium Event Center</venue_name>
+    <city>Braunschweig</city>
+    <state/>
+  </row>
+  <row>
+    <id>1971</id>
+    <venue_name>Exhibition Center Innsbruck</venue_name>
+    <city>Innsbruck</city>
+    <state/>
+  </row>
+  <row>
+    <id>1972</id>
+    <venue_name>Palais de Beaulieu</venue_name>
+    <city>Lausanne</city>
+    <state/>
+  </row>
+  <row>
+    <id>1973</id>
+    <venue_name>Île des Impressionnistes</venue_name>
+    <city>Chatou</city>
+    <state/>
+  </row>
+  <row>
+    <id>1974</id>
+    <venue_name>Trieste Old Port Warehouses</venue_name>
+    <city>Trieste</city>
+    <state/>
+  </row>
+  <row>
+    <id>1975</id>
+    <venue_name>Parc des expositions de Mâcon</venue_name>
+    <city>Mâcon</city>
+    <state/>
+  </row>
+  <row>
+    <id>1976</id>
+    <venue_name>Lahti Sports and Trade Fair Centre</venue_name>
+    <city>Lahti</city>
+    <state/>
+  </row>
+  <row>
+    <id>1977</id>
+    <venue_name>Centre Expo Congrès - Mandelieu-la-Napoule</venue_name>
+    <city>Mandelieu-La Napoule</city>
+    <state/>
+  </row>
+  <row>
+    <id>1978</id>
+    <venue_name>Lotte Hotel, Moscow</venue_name>
+    <city>Moscow</city>
+    <state/>
+  </row>
+  <row>
+    <id>1979</id>
+    <venue_name>Place Miot</venue_name>
+    <city>Ajaccio</city>
+    <state/>
+  </row>
+  <row>
+    <id>1980</id>
+    <venue_name>Recinte Firal de Girona</venue_name>
+    <city>Girona</city>
+    <state/>
+  </row>
+  <row>
+    <id>1981</id>
+    <venue_name>Hall 622 - Eventhalle</venue_name>
+    <city>Zurich</city>
+    <state/>
+  </row>
+  <row>
+    <id>1982</id>
+    <venue_name>WTC Barcelona</venue_name>
+    <city>Barcelona</city>
+    <state/>
+  </row>
+  <row>
+    <id>1983</id>
+    <venue_name>Bastia</venue_name>
+    <city>Bastia</city>
+    <state/>
+  </row>
+  <row>
+    <id>1984</id>
+    <venue_name>Espace Dollfus &amp; Noack</venue_name>
+    <city>Mulhouse</city>
+    <state/>
+  </row>
+  <row>
+    <id>1985</id>
+    <venue_name>Expo Houten</venue_name>
+    <city>Utrecht</city>
+    <state/>
+  </row>
+  <row>
+    <id>1986</id>
+    <venue_name>Espace des Trois Provinces</venue_name>
+    <city>Brive-la-Gaillarde</city>
+    <state/>
+  </row>
+  <row>
+    <id>1987</id>
+    <venue_name>ICC - International Convention Center Ghent</venue_name>
+    <city>Ghent</city>
+    <state/>
+  </row>
+  <row>
+    <id>1988</id>
+    <venue_name>Hilton London Bankside</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>1989</id>
+    <venue_name>Brasov Business Park</venue_name>
+    <city>Brasov</city>
+    <state/>
+  </row>
+  <row>
+    <id>1990</id>
+    <venue_name>Waterfront Congress Centre</venue_name>
+    <city>Stockholm</city>
+    <state/>
+  </row>
+  <row>
+    <id>1991</id>
+    <venue_name>Exhibition Complex 'Expocentre'</venue_name>
+    <city>Volgograd</city>
+    <state/>
+  </row>
+  <row>
+    <id>1992</id>
+    <venue_name>Disneyland Resort Paris</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>1993</id>
+    <venue_name>Main Stage, Moscow</venue_name>
+    <city>Moscow</city>
+    <state/>
+  </row>
+  <row>
+    <id>1994</id>
+    <venue_name>Universitat de Barcelona</venue_name>
+    <city>Barcelona</city>
+    <state/>
+  </row>
+  <row>
+    <id>1995</id>
+    <venue_name>Vaidilos Theater</venue_name>
+    <city>Vilnius</city>
+    <state/>
+  </row>
+  <row>
+    <id>1996</id>
+    <venue_name>O2 Universum, Praha</venue_name>
+    <city>Prague</city>
+    <state/>
+  </row>
+  <row>
+    <id>1997</id>
+    <venue_name>Rittal Arena Wetzlar</venue_name>
+    <city>Wetzlar</city>
+    <state/>
+  </row>
+  <row>
+    <id>1998</id>
+    <venue_name>Clayton Hotel Burlington Road</venue_name>
+    <city>Dublin</city>
+    <state/>
+  </row>
+  <row>
+    <id>1999</id>
+    <venue_name>Parc Expo du Breil</venue_name>
+    <city>Saumur</city>
+    <state/>
+  </row>
+  <row>
+    <id>2000</id>
+    <venue_name>Espace Mendès France</venue_name>
+    <city>Saintes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2001</id>
+    <venue_name>Espace Culturel et de Congrès René-Cassin</venue_name>
+    <city>Fontenay-le-Comte</city>
+    <state/>
+  </row>
+  <row>
+    <id>2002</id>
+    <venue_name>Salle de sport des Gayeulles</venue_name>
+    <city>Rennes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2003</id>
+    <venue_name>PAMexpo</venue_name>
+    <city>Court-Saint-Étienne</city>
+    <state/>
+  </row>
+  <row>
+    <id>2004</id>
+    <venue_name>EcoCenter Sokolniki</venue_name>
+    <city>Moscow</city>
+    <state/>
+  </row>
+  <row>
+    <id>2005</id>
+    <venue_name>Royal Highland Centre</venue_name>
+    <city>Edinburgh</city>
+    <state/>
+  </row>
+  <row>
+    <id>2006</id>
+    <venue_name>Kameha Grand Hotel Bonn</venue_name>
+    <city>Bonn</city>
+    <state/>
+  </row>
+  <row>
+    <id>2007</id>
+    <venue_name>Mahón (Balearic Islands)</venue_name>
+    <city>Mahón</city>
+    <state/>
+  </row>
+  <row>
+    <id>2008</id>
+    <venue_name>Bilbao</venue_name>
+    <city>Bilbao</city>
+    <state/>
+  </row>
+  <row>
+    <id>2009</id>
+    <venue_name>Tottenham Hotspur Stadium</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2010</id>
+    <venue_name>The Truman Brewery</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2011</id>
+    <venue_name>AMA Aargauer Messe Aarau - Messegelände</venue_name>
+    <city>Aarau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2012</id>
+    <venue_name>Hôtel Intercontinental, Marseille</venue_name>
+    <city>Marseille</city>
+    <state/>
+  </row>
+  <row>
+    <id>2013</id>
+    <venue_name>Schloss Diedersdorf</venue_name>
+    <city>Großbeeren</city>
+    <state/>
+  </row>
+  <row>
+    <id>2014</id>
+    <venue_name>Parc des expositions Île l'Aumône</venue_name>
+    <city>Mantes-la-Jolie</city>
+    <state/>
+  </row>
+  <row>
+    <id>2015</id>
+    <venue_name>Cercle Royal Gaulois</venue_name>
+    <city>Brussels</city>
+    <state/>
+  </row>
+  <row>
+    <id>2016</id>
+    <venue_name>Hilton Stockholm Slussen</venue_name>
+    <city>Stockholm</city>
+    <state/>
+  </row>
+  <row>
+    <id>2017</id>
+    <venue_name>Ege Palas Business Hotel</venue_name>
+    <city>Izmir</city>
+    <state/>
+  </row>
+  <row>
+    <id>2018</id>
+    <venue_name>ZooParc de Beauval</venue_name>
+    <city>Saint-Aignan</city>
+    <state/>
+  </row>
+  <row>
+    <id>2019</id>
+    <venue_name>Messegelände Nordpark</venue_name>
+    <city>Mönchengladbach</city>
+    <state/>
+  </row>
+  <row>
+    <id>2020</id>
+    <venue_name>Parc des expositions de la Meilleraie - Cholet</venue_name>
+    <city>Cholet</city>
+    <state/>
+  </row>
+  <row>
+    <id>2021</id>
+    <venue_name>Paris La Défense Arena</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2022</id>
+    <venue_name>Valencia Conference Centre</venue_name>
+    <city>Valencia</city>
+    <state/>
+  </row>
+  <row>
+    <id>2023</id>
+    <venue_name>Spazio Villa Erba</venue_name>
+    <city>Como</city>
+    <state/>
+  </row>
+  <row>
+    <id>2024</id>
+    <venue_name>Schloss Mondsee</venue_name>
+    <city>Mondsee</city>
+    <state/>
+  </row>
+  <row>
+    <id>2025</id>
+    <venue_name>Cambridge Innovation Center, Warsaw</venue_name>
+    <city>Warsaw</city>
+    <state/>
+  </row>
+  <row>
+    <id>2026</id>
+    <venue_name>Alte Kelter</venue_name>
+    <city>Fellbach</city>
+    <state/>
+  </row>
+  <row>
+    <id>2027</id>
+    <venue_name>Ateliers des Capucins</venue_name>
+    <city>Brest</city>
+    <state/>
+  </row>
+  <row>
+    <id>2028</id>
+    <venue_name>Arena MK</venue_name>
+    <city>Milton Keynes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2029</id>
+    <venue_name>Centre Sportif, Les Rousses</venue_name>
+    <city>Les Rousses</city>
+    <state/>
+  </row>
+  <row>
+    <id>2030</id>
+    <venue_name>Maison de la Mécanique</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2031</id>
+    <venue_name>Lviv Palace of Arts</venue_name>
+    <city>Lviv</city>
+    <state/>
+  </row>
+  <row>
+    <id>2032</id>
+    <venue_name>Expo Georgia Exhibition Center</venue_name>
+    <city>Tbilisi</city>
+    <state/>
+  </row>
+  <row>
+    <id>2033</id>
+    <venue_name>Monaco</venue_name>
+    <city>Monaco</city>
+    <state/>
+  </row>
+  <row>
+    <id>2034</id>
+    <venue_name>La Cité du Design</venue_name>
+    <city>Saint-Étienne</city>
+    <state/>
+  </row>
+  <row>
+    <id>2035</id>
+    <venue_name>Casino Bellevue</venue_name>
+    <city>Biarritz</city>
+    <state/>
+  </row>
+  <row>
+    <id>2036</id>
+    <venue_name>Halle Samexpo</venue_name>
+    <city>St-Amand-Montrond</city>
+    <state/>
+  </row>
+  <row>
+    <id>2037</id>
+    <venue_name>Domaine de Chaumont-sur-Loire</venue_name>
+    <city>Chaumont-sur-Loire</city>
+    <state/>
+  </row>
+  <row>
+    <id>2038</id>
+    <venue_name>Foire du Dauphiné</venue_name>
+    <city>Romans-sur-Isère</city>
+    <state/>
+  </row>
+  <row>
+    <id>2039</id>
+    <venue_name>Ancona, Corso Garibaldi</venue_name>
+    <city>Ancona</city>
+    <state/>
+  </row>
+  <row>
+    <id>2040</id>
+    <venue_name>Odessa Sea Commercial Port Exhibition Complex</venue_name>
+    <city>Odessa</city>
+    <state/>
+  </row>
+  <row>
+    <id>2041</id>
+    <venue_name>Hotel Novotel Warszawa Airport</venue_name>
+    <city>Warsaw</city>
+    <state/>
+  </row>
+  <row>
+    <id>2042</id>
+    <venue_name>Intercontinental Hotel Moscow - Tverskaya</venue_name>
+    <city>Moscow</city>
+    <state/>
+  </row>
+  <row>
+    <id>2043</id>
+    <venue_name>Palacio de Congresos Euskalduna</venue_name>
+    <city>Bilbao</city>
+    <state/>
+  </row>
+  <row>
+    <id>2044</id>
+    <venue_name>Galopprennbahn Weidenpesch  Racecourse</venue_name>
+    <city>Cologne</city>
+    <state/>
+  </row>
+  <row>
+    <id>2045</id>
+    <venue_name>Venaco</venue_name>
+    <city>Venaco</city>
+    <state/>
+  </row>
+  <row>
+    <id>2046</id>
+    <venue_name>Ukrainian Chamber of Commerce &amp; Industry</venue_name>
+    <city>Kiev</city>
+    <state/>
+  </row>
+  <row>
+    <id>2047</id>
+    <venue_name>Belexpo - 14, Pobediteley ave.</venue_name>
+    <city>Minsk</city>
+    <state/>
+  </row>
+  <row>
+    <id>2048</id>
+    <venue_name>Fiera di Foggia</venue_name>
+    <city>Foggia</city>
+    <state/>
+  </row>
+  <row>
+    <id>2049</id>
+    <venue_name>Inntalhalle</venue_name>
+    <city>Rosenheim</city>
+    <state/>
+  </row>
+  <row>
+    <id>2050</id>
+    <venue_name>Parque de Feiras e Exposições de Beja</venue_name>
+    <city>Beja</city>
+    <state/>
+  </row>
+  <row>
+    <id>2051</id>
+    <venue_name>Bécherel</venue_name>
+    <city>Bécherel</city>
+    <state/>
+  </row>
+  <row>
+    <id>2052</id>
+    <venue_name>Corso Giuseppe Garibaldi</venue_name>
+    <city>Fossombrone</city>
+    <state/>
+  </row>
+  <row>
+    <id>2053</id>
+    <venue_name>Leipzig</venue_name>
+    <city>Leipzig</city>
+    <state/>
+  </row>
+  <row>
+    <id>2054</id>
+    <venue_name>Luri</venue_name>
+    <city>Luri</city>
+    <state/>
+  </row>
+  <row>
+    <id>2055</id>
+    <venue_name>Palais Beaumont (Centre de Congrès de Pau)</venue_name>
+    <city>Pau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2056</id>
+    <venue_name>Foyer Jean Guéhenno</venue_name>
+    <city>Montolieu</city>
+    <state/>
+  </row>
+  <row>
+    <id>2057</id>
+    <venue_name>JW Marriott Bucharest Grand Hotel</venue_name>
+    <city>Bucharest</city>
+    <state/>
+  </row>
+  <row>
+    <id>2058</id>
+    <venue_name>Dolby Screening Room London Soho</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2059</id>
+    <venue_name>Galaxie Amneville</venue_name>
+    <city>Metz</city>
+    <state/>
+  </row>
+  <row>
+    <id>2060</id>
+    <venue_name>Parc Expo Niort</venue_name>
+    <city>Niort</city>
+    <state/>
+  </row>
+  <row>
+    <id>2061</id>
+    <venue_name>Pavillon Baltard</venue_name>
+    <city>Nogent-sur-Marne</city>
+    <state/>
+  </row>
+  <row>
+    <id>2062</id>
+    <venue_name>Sportica - Gravelines</venue_name>
+    <city>Calais</city>
+    <state/>
+  </row>
+  <row>
+    <id>2063</id>
+    <venue_name>WTC Expo</venue_name>
+    <city>Leeuwarden</city>
+    <state/>
+  </row>
+  <row>
+    <id>2064</id>
+    <venue_name>Espace Rencontre, Annecy-le-vieux</venue_name>
+    <city>Annecy</city>
+    <state/>
+  </row>
+  <row>
+    <id>2065</id>
+    <venue_name>IJssportcentrum Eindhoven</venue_name>
+    <city>Eindhoven</city>
+    <state/>
+  </row>
+  <row>
+    <id>2066</id>
+    <venue_name>Centre culturel Una Volta</venue_name>
+    <city>Bastia</city>
+    <state/>
+  </row>
+  <row>
+    <id>2067</id>
+    <venue_name>Messplatz Darmstadt</venue_name>
+    <city>Darmstadt</city>
+    <state/>
+  </row>
+  <row>
+    <id>2068</id>
+    <venue_name>X Meeting Point Norway</venue_name>
+    <city>Lillestrøm</city>
+    <state/>
+  </row>
+  <row>
+    <id>2069</id>
+    <venue_name>Caveau Castelnau</venue_name>
+    <city>Reims</city>
+    <state/>
+  </row>
+  <row>
+    <id>2070</id>
+    <venue_name>Hotel Das Central</venue_name>
+    <city>Sölden</city>
+    <state/>
+  </row>
+  <row>
+    <id>2071</id>
+    <venue_name>Agora d'Aubagne</venue_name>
+    <city>Aubagne</city>
+    <state/>
+  </row>
+  <row>
+    <id>2072</id>
+    <venue_name>Grote Markt</venue_name>
+    <city>Gorinchem</city>
+    <state/>
+  </row>
+  <row>
+    <id>2073</id>
+    <venue_name>Fira d'Igualada</venue_name>
+    <city>Igualada</city>
+    <state/>
+  </row>
+  <row>
+    <id>2074</id>
+    <venue_name>Esplanade du Pré aux Pêcheurs</venue_name>
+    <city>Antibes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2075</id>
+    <venue_name>Centralvaerkstedet</venue_name>
+    <city>Aarhus</city>
+    <state/>
+  </row>
+  <row>
+    <id>2076</id>
+    <venue_name>HEAD – Genève</venue_name>
+    <city>Geneve</city>
+    <state/>
+  </row>
+  <row>
+    <id>2077</id>
+    <venue_name>Les Prés du Hem</venue_name>
+    <city>Lille</city>
+    <state/>
+  </row>
+  <row>
+    <id>2078</id>
+    <venue_name>Pallati i Rinise, Kultures dhe i Sporteve</venue_name>
+    <city>Prishtina</city>
+    <state/>
+  </row>
+  <row>
+    <id>2079</id>
+    <venue_name>Pomorze &amp; Kujawy Fair Centre</venue_name>
+    <city>Bydgoszcz</city>
+    <state/>
+  </row>
+  <row>
+    <id>2080</id>
+    <venue_name>Flughafen Tempelhof</venue_name>
+    <city>Berlin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2081</id>
+    <venue_name>The Hague Marriott Hotel</venue_name>
+    <city>The Hague</city>
+    <state/>
+  </row>
+  <row>
+    <id>2082</id>
+    <venue_name>Messecongress Graz</venue_name>
+    <city>Graz</city>
+    <state/>
+  </row>
+  <row>
+    <id>2083</id>
+    <venue_name>Hyatt Regency Paris Etoile</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2084</id>
+    <venue_name>International Congress Centre in Katowice</venue_name>
+    <city>Katowice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2085</id>
+    <venue_name>Schloss Hundisburg</venue_name>
+    <city>Haldensleben</city>
+    <state/>
+  </row>
+  <row>
+    <id>2086</id>
+    <venue_name>Vega Parco Scientifico Tecnologico di Venezia</venue_name>
+    <city>Venice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2087</id>
+    <venue_name>Forum de l'Arc</venue_name>
+    <city>Moutier</city>
+    <state/>
+  </row>
+  <row>
+    <id>2088</id>
+    <venue_name>Sporthalle Oberwerth / Conlog Arena</venue_name>
+    <city>Koblenz</city>
+    <state/>
+  </row>
+  <row>
+    <id>2089</id>
+    <venue_name>Pordenone</venue_name>
+    <city>Pordenone</city>
+    <state/>
+  </row>
+  <row>
+    <id>2090</id>
+    <venue_name>Manade de l'étrier</venue_name>
+    <city>Saint-Gilles</city>
+    <state/>
+  </row>
+  <row>
+    <id>2091</id>
+    <venue_name>Parcul Industrial Tetarom III</venue_name>
+    <city>Cluj-Napoca</city>
+    <state/>
+  </row>
+  <row>
+    <id>2092</id>
+    <venue_name>Aarhus Airport</venue_name>
+    <city>Aarhus</city>
+    <state/>
+  </row>
+  <row>
+    <id>2093</id>
+    <venue_name>Schloss Kartzow</venue_name>
+    <city>Potsdam</city>
+    <state/>
+  </row>
+  <row>
+    <id>2094</id>
+    <venue_name>Plage de Berck</venue_name>
+    <city>Berck</city>
+    <state/>
+  </row>
+  <row>
+    <id>2095</id>
+    <venue_name>Schloss Laxenburg</venue_name>
+    <city>Vienna</city>
+    <state/>
+  </row>
+  <row>
+    <id>2096</id>
+    <venue_name>IEC 'Ekaterinburg-Expo'</venue_name>
+    <city>Yekaterinburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2097</id>
+    <venue_name>Mole Vanvitelliana</venue_name>
+    <city>Ancona</city>
+    <state/>
+  </row>
+  <row>
+    <id>2098</id>
+    <venue_name>Olympic Fencing Center</venue_name>
+    <city>Athens</city>
+    <state/>
+  </row>
+  <row>
+    <id>2099</id>
+    <venue_name>Alexandra Palace</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2100</id>
+    <venue_name>Giardini di Castello</venue_name>
+    <city>Venice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2101</id>
+    <venue_name>Tägi Wettingen</venue_name>
+    <city>Wettingen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2102</id>
+    <venue_name>Lenexpo Fairgrounds</venue_name>
+    <city>St. Petersburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2103</id>
+    <venue_name>Aerospace Bristol</venue_name>
+    <city>Bristol</city>
+    <state/>
+  </row>
+  <row>
+    <id>2104</id>
+    <venue_name>St. Petersburg</venue_name>
+    <city>St. Petersburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2105</id>
+    <venue_name>Tivoli Marina Vilamoura Algarve Resort</venue_name>
+    <city>Loulé</city>
+    <state/>
+  </row>
+  <row>
+    <id>2106</id>
+    <venue_name>Lichtenau</venue_name>
+    <city>Lichtenau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2107</id>
+    <venue_name>Technopolis City of Athens</venue_name>
+    <city>Athens</city>
+    <state/>
+  </row>
+  <row>
+    <id>2108</id>
+    <venue_name>Courtyard by Marriott Gdynia Waterfront</venue_name>
+    <city>Gdynia</city>
+    <state/>
+  </row>
+  <row>
+    <id>2109</id>
+    <venue_name>Stadthalle Graz</venue_name>
+    <city>Graz</city>
+    <state/>
+  </row>
+  <row>
+    <id>2110</id>
+    <venue_name>Sainte Lucie de Tallano</venue_name>
+    <city>Sainte Lucie de Tallano</city>
+    <state/>
+  </row>
+  <row>
+    <id>2111</id>
+    <venue_name>Palau Sant Jordi</venue_name>
+    <city>Barcelona</city>
+    <state/>
+  </row>
+  <row>
+    <id>2112</id>
+    <venue_name>Holiday Inn, St. Petersburg</venue_name>
+    <city>St. Petersburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2113</id>
+    <venue_name>Madrid</venue_name>
+    <city>Madrid</city>
+    <state/>
+  </row>
+  <row>
+    <id>2114</id>
+    <venue_name>CityCube Berlin</venue_name>
+    <city>Berlin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2115</id>
+    <venue_name>Albi Expo</venue_name>
+    <city>Albi</city>
+    <state/>
+  </row>
+  <row>
+    <id>2116</id>
+    <venue_name>Simmonscourt</venue_name>
+    <city>Dublin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2117</id>
+    <venue_name>Palacio de Exposiciones y Congresos</venue_name>
+    <city>Almería</city>
+    <state/>
+  </row>
+  <row>
+    <id>2118</id>
+    <venue_name>Paradise Center</venue_name>
+    <city>Sofia</city>
+    <state/>
+  </row>
+  <row>
+    <id>2119</id>
+    <venue_name>Fürstlich Fürstenbergischen Parkanlage</venue_name>
+    <city>Donaueschingen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2120</id>
+    <venue_name>Palais du Grand Large</venue_name>
+    <city>Saint-Malo</city>
+    <state/>
+  </row>
+  <row>
+    <id>2121</id>
+    <venue_name>Evagoras Lanitis Center</venue_name>
+    <city>Limassol</city>
+    <state/>
+  </row>
+  <row>
+    <id>2122</id>
+    <venue_name>Museum of Architecture and Design</venue_name>
+    <city>Yekaterinburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2123</id>
+    <venue_name>Cervia</venue_name>
+    <city>Cervia</city>
+    <state/>
+  </row>
+  <row>
+    <id>2124</id>
+    <venue_name>Ancona</venue_name>
+    <city>Ancona</city>
+    <state/>
+  </row>
+  <row>
+    <id>2125</id>
+    <venue_name>Royal Marine Hotel</venue_name>
+    <city>Dublin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2126</id>
+    <venue_name>Parc de La Pépinière - Gap</venue_name>
+    <city>Gap</city>
+    <state/>
+  </row>
+  <row>
+    <id>2127</id>
+    <venue_name>L'Hexagone</venue_name>
+    <city>Autun</city>
+    <state/>
+  </row>
+  <row>
+    <id>2128</id>
+    <venue_name>Schloss Virnsberg</venue_name>
+    <city>Ansbach</city>
+    <state/>
+  </row>
+  <row>
+    <id>2129</id>
+    <venue_name>Rutland Showground</venue_name>
+    <city>Oakham</city>
+    <state/>
+  </row>
+  <row>
+    <id>2130</id>
+    <venue_name>InterContinental Hotel, Kiev</venue_name>
+    <city>Kiev</city>
+    <state/>
+  </row>
+  <row>
+    <id>2131</id>
+    <venue_name>Murzo</venue_name>
+    <city>Murzo</city>
+    <state/>
+  </row>
+  <row>
+    <id>2132</id>
+    <venue_name>Parc des expositions d'Agen</venue_name>
+    <city>Agen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2133</id>
+    <venue_name>Christchurch, Dorset</venue_name>
+    <city>Christchurch</city>
+    <state>Dorset</state>
+  </row>
+  <row>
+    <id>2134</id>
+    <venue_name>Nivy centrum</venue_name>
+    <city>Bratislava</city>
+    <state/>
+  </row>
+  <row>
+    <id>2135</id>
+    <venue_name>Forte Marghera</venue_name>
+    <city>Venice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2136</id>
+    <venue_name>The Royal Mews - Windsor Castle</venue_name>
+    <city>Windsor</city>
+    <state/>
+  </row>
+  <row>
+    <id>2137</id>
+    <venue_name>Ciney Expo</venue_name>
+    <city>Ciney</city>
+    <state/>
+  </row>
+  <row>
+    <id>2138</id>
+    <venue_name>InterContinental Warsaw</venue_name>
+    <city>Warsaw</city>
+    <state/>
+  </row>
+  <row>
+    <id>2139</id>
+    <venue_name>ACCC - Ataturk Congress Culture Center</venue_name>
+    <city>Bursa</city>
+    <state/>
+  </row>
+  <row>
+    <id>2140</id>
+    <venue_name>TCC - Trieste Convention Center</venue_name>
+    <city>Trieste</city>
+    <state/>
+  </row>
+  <row>
+    <id>2141</id>
+    <venue_name>Twickenham Stadium</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2142</id>
+    <venue_name>Hippodrome de Strasbourg - Hoerdt</venue_name>
+    <city>Strasbourg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2143</id>
+    <venue_name>Sant'Ambrogio di Valpolicella</venue_name>
+    <city>Sant'Ambrogio di Valpolicella</city>
+    <state/>
+  </row>
+  <row>
+    <id>2144</id>
+    <venue_name>La Seine musicale</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2145</id>
+    <venue_name>Markt Kerkrade</venue_name>
+    <city>Kerkrade</city>
+    <state/>
+  </row>
+  <row>
+    <id>2146</id>
+    <venue_name>Hotel Le Plaza, Brussels</venue_name>
+    <city>Brussels</city>
+    <state/>
+  </row>
+  <row>
+    <id>2147</id>
+    <venue_name>Reims Champagne Congrès</venue_name>
+    <city>Reims</city>
+    <state/>
+  </row>
+  <row>
+    <id>2148</id>
+    <venue_name>Hampstead Heath</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2149</id>
+    <venue_name>Pabellón de Cristal de la Casa de Campo</venue_name>
+    <city>Madrid</city>
+    <state/>
+  </row>
+  <row>
+    <id>2150</id>
+    <venue_name>Messe Erfurt</venue_name>
+    <city>Erfurt</city>
+    <state/>
+  </row>
+  <row>
+    <id>2151</id>
+    <venue_name>Berlin ExpoCenter City</venue_name>
+    <city>Berlin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2152</id>
+    <venue_name>Beaulieu (Hampshire)</venue_name>
+    <city>Beaulieu</city>
+    <state/>
+  </row>
+  <row>
+    <id>2153</id>
+    <venue_name>Congress Center Leipzig</venue_name>
+    <city>Leipzig</city>
+    <state/>
+  </row>
+  <row>
+    <id>2154</id>
+    <venue_name>Stade Paul Giacobbi</venue_name>
+    <city>Venaco</city>
+    <state/>
+  </row>
+  <row>
+    <id>2155</id>
+    <venue_name>Linslerhof</venue_name>
+    <city>Überherrn</city>
+    <state/>
+  </row>
+  <row>
+    <id>2156</id>
+    <venue_name>Oslo</venue_name>
+    <city>Oslo</city>
+    <state/>
+  </row>
+  <row>
+    <id>2157</id>
+    <venue_name>San Sebastian</venue_name>
+    <city>San Sebastian</city>
+    <state/>
+  </row>
+  <row>
+    <id>2158</id>
+    <venue_name>Ballsbridge Hotel</venue_name>
+    <city>Dublin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2159</id>
+    <venue_name>Fundação Dr. António Cupertino de Miranda</venue_name>
+    <city>Porto</city>
+    <state/>
+  </row>
+  <row>
+    <id>2160</id>
+    <venue_name>Hannover</venue_name>
+    <city>Hannover</city>
+    <state/>
+  </row>
+  <row>
+    <id>2161</id>
+    <venue_name>Hilton Manchester Deansgate</venue_name>
+    <city>Manchester</city>
+    <state/>
+  </row>
+  <row>
+    <id>2162</id>
+    <venue_name>Schloss Wilhelmsthal</venue_name>
+    <city>Kassel</city>
+    <state/>
+  </row>
+  <row>
+    <id>2163</id>
+    <venue_name>Cologne</venue_name>
+    <city>Cologne</city>
+    <state/>
+  </row>
+  <row>
+    <id>2164</id>
+    <venue_name>Macdonald Aviemore Resort</venue_name>
+    <city>Aviemore</city>
+    <state/>
+  </row>
+  <row>
+    <id>2165</id>
+    <venue_name>Stara Zagora Airport</venue_name>
+    <city>Stara Zagora</city>
+    <state/>
+  </row>
+  <row>
+    <id>2166</id>
+    <venue_name>Messe- und Ausstellungszentrum Mühlengeez</venue_name>
+    <city>Gülzow-Prüzen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2167</id>
+    <venue_name>Arezzo Fiere e Congressi</venue_name>
+    <city>Arezzo</city>
+    <state/>
+  </row>
+  <row>
+    <id>2168</id>
+    <venue_name>Domaine de la Chabotterie en Vendée</venue_name>
+    <city>Montréverd</city>
+    <state/>
+  </row>
+  <row>
+    <id>2169</id>
+    <venue_name>Lenin Stadium</venue_name>
+    <city>Khabarovsk</city>
+    <state/>
+  </row>
+  <row>
+    <id>2170</id>
+    <venue_name>University of applied Sciences and Arts Northwestern Switzerland - Olten</venue_name>
+    <city>Olten</city>
+    <state/>
+  </row>
+  <row>
+    <id>2171</id>
+    <venue_name>Galaxie Amnéville</venue_name>
+    <city>Amnéville</city>
+    <state/>
+  </row>
+  <row>
+    <id>2172</id>
+    <venue_name>Redblue Messehalle</venue_name>
+    <city>Heilbronn</city>
+    <state/>
+  </row>
+  <row>
+    <id>2173</id>
+    <venue_name>Charlottehaven</venue_name>
+    <city>Copenhagen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2174</id>
+    <venue_name>Herrenhäuser Gärten</venue_name>
+    <city>Hannover</city>
+    <state/>
+  </row>
+  <row>
+    <id>2175</id>
+    <venue_name>Scandic Star hotel, Lund</venue_name>
+    <city>Lund</city>
+    <state/>
+  </row>
+  <row>
+    <id>2176</id>
+    <venue_name>Panoramadeck of the Emporio Tower</venue_name>
+    <city>Hamburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2177</id>
+    <venue_name>Somerset House</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2178</id>
+    <venue_name>Fiera di Ferrara</venue_name>
+    <city>Ferrara</city>
+    <state/>
+  </row>
+  <row>
+    <id>2179</id>
+    <venue_name>Stade Allianz Riviera</venue_name>
+    <city>Nice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2180</id>
+    <venue_name>Centre d'affaires Terra Botanica</venue_name>
+    <city>Angers</city>
+    <state/>
+  </row>
+  <row>
+    <id>2181</id>
+    <venue_name>Palermo</venue_name>
+    <city>Palermo</city>
+    <state/>
+  </row>
+  <row>
+    <id>2182</id>
+    <venue_name>Europarque</venue_name>
+    <city>Porto</city>
+    <state/>
+  </row>
+  <row>
+    <id>2183</id>
+    <venue_name>Place du Champ de Foire</venue_name>
+    <city>Lignieres</city>
+    <state/>
+  </row>
+  <row>
+    <id>2184</id>
+    <venue_name>Burg Hülshoff</venue_name>
+    <city>Münster</city>
+    <state/>
+  </row>
+  <row>
+    <id>2185</id>
+    <venue_name>Aérodrome Salis</venue_name>
+    <city>La Ferté-Alais</city>
+    <state/>
+  </row>
+  <row>
+    <id>2186</id>
+    <venue_name>The Plant Cph</venue_name>
+    <city>Copenhagen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2187</id>
+    <venue_name>Royal Hospital Chelsea</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2188</id>
+    <venue_name>Tivoli Congress Center</venue_name>
+    <city>Copenhagen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2189</id>
+    <venue_name>Magazine London</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2190</id>
+    <venue_name>Coulée Verte, Place Masséna</venue_name>
+    <city>Nice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2191</id>
+    <venue_name>Coventry Building Society Arena</venue_name>
+    <city>Coventry</city>
+    <state/>
+  </row>
+  <row>
+    <id>2192</id>
+    <venue_name>Fundulea</venue_name>
+    <city>Fundulea</city>
+    <state/>
+  </row>
+  <row>
+    <id>2193</id>
+    <venue_name>Messe Pirmasens</venue_name>
+    <city>Pirmasens</city>
+    <state/>
+  </row>
+  <row>
+    <id>2194</id>
+    <venue_name>Savoia Excelsior Palace</venue_name>
+    <city>Trieste</city>
+    <state/>
+  </row>
+  <row>
+    <id>2195</id>
+    <venue_name>Landgestüt Redefin</venue_name>
+    <city>Redefin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2196</id>
+    <venue_name>Kurhaus Teatro Puccini</venue_name>
+    <city>Merano</city>
+    <state/>
+  </row>
+  <row>
+    <id>2197</id>
+    <venue_name>Skellefteå Kraft Arena</venue_name>
+    <city>Skellefteå</city>
+    <state/>
+  </row>
+  <row>
+    <id>2198</id>
+    <venue_name>The Westin Paris - Vendôme</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2199</id>
+    <venue_name>Izmir Park</venue_name>
+    <city>Izmir</city>
+    <state/>
+  </row>
+  <row>
+    <id>2200</id>
+    <venue_name>Haliç Congress Center</venue_name>
+    <city>Istanbul</city>
+    <state/>
+  </row>
+  <row>
+    <id>2201</id>
+    <venue_name>Sheraton Brussels - Airport Hotel</venue_name>
+    <city>Brussels</city>
+    <state/>
+  </row>
+  <row>
+    <id>2202</id>
+    <venue_name>National Complex 'Expocentre of Ukraine'</venue_name>
+    <city>Kiev</city>
+    <state/>
+  </row>
+  <row>
+    <id>2203</id>
+    <venue_name>Phoenix Park, Dublin</venue_name>
+    <city>Dublin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2204</id>
+    <venue_name>Musée de la Régence</venue_name>
+    <city>Ensisheim</city>
+    <state/>
+  </row>
+  <row>
+    <id>2205</id>
+    <venue_name>Arsenale di Venezia</venue_name>
+    <city>Venice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2206</id>
+    <venue_name>Bismarck-Schloss Döbbelin</venue_name>
+    <city>Stendal</city>
+    <state/>
+  </row>
+  <row>
+    <id>2207</id>
+    <venue_name>Foire de Morteau</venue_name>
+    <city>Morteau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2208</id>
+    <venue_name>Quai TCD - Lanester / Port de Lorient</venue_name>
+    <city>Lorient</city>
+    <state/>
+  </row>
+  <row>
+    <id>2209</id>
+    <venue_name>Parc Jourdan</venue_name>
+    <city>Aix-en-Provence</city>
+    <state/>
+  </row>
+  <row>
+    <id>2210</id>
+    <venue_name>Ancora Marina, Neustadt in Holstein</venue_name>
+    <city>Neustadt in Holstein</city>
+    <state/>
+  </row>
+  <row>
+    <id>2211</id>
+    <venue_name>Feira Internacional de Galicia</venue_name>
+    <city>Silleda</city>
+    <state/>
+  </row>
+  <row>
+    <id>2212</id>
+    <venue_name>Parkpromenade 4</venue_name>
+    <city>Hanau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2213</id>
+    <venue_name>Apollo Théatre</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2214</id>
+    <venue_name>Schloss Eicks</venue_name>
+    <city>Mechernich</city>
+    <state/>
+  </row>
+  <row>
+    <id>2215</id>
+    <venue_name>ENSAM Aix-en-Provence</venue_name>
+    <city>Aix-en-Provence</city>
+    <state/>
+  </row>
+  <row>
+    <id>2216</id>
+    <venue_name>Lumio</venue_name>
+    <city>Lumio</city>
+    <state/>
+  </row>
+  <row>
+    <id>2217</id>
+    <venue_name>W Hotel Barcelona</venue_name>
+    <city>Barcelona</city>
+    <state/>
+  </row>
+  <row>
+    <id>2218</id>
+    <venue_name>Saint-Nazaire</venue_name>
+    <city>Saint-Nazaire</city>
+    <state/>
+  </row>
+  <row>
+    <id>2219</id>
+    <venue_name>Hôtel Fleur d'Épée</venue_name>
+    <city>Le Gosier</city>
+    <state/>
+  </row>
+  <row>
+    <id>2220</id>
+    <venue_name>Impérial Palace</venue_name>
+    <city>Annecy</city>
+    <state/>
+  </row>
+  <row>
+    <id>2221</id>
+    <venue_name>Ashton Gate Stadium</venue_name>
+    <city>Bristol</city>
+    <state/>
+  </row>
+  <row>
+    <id>2222</id>
+    <venue_name>Chemnitz</venue_name>
+    <city>Chemnitz</city>
+    <state/>
+  </row>
+  <row>
+    <id>2223</id>
+    <venue_name>Neumünster</venue_name>
+    <city>Neumünster</city>
+    <state/>
+  </row>
+  <row>
+    <id>2224</id>
+    <venue_name>Place des Marronniers</venue_name>
+    <city>Saint-Maur</city>
+    <state/>
+  </row>
+  <row>
+    <id>2225</id>
+    <venue_name>Hotel Moskovskaya Gorka</venue_name>
+    <city>Yekaterinburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2226</id>
+    <venue_name>Malta Fairs and Convention Centre</venue_name>
+    <city>Naxxar</city>
+    <state/>
+  </row>
+  <row>
+    <id>2227</id>
+    <venue_name>Palace of Sport 'Spartak'</venue_name>
+    <city>Lviv</city>
+    <state/>
+  </row>
+  <row>
+    <id>2228</id>
+    <venue_name>Meliá Milano</venue_name>
+    <city>Milan</city>
+    <state/>
+  </row>
+  <row>
+    <id>2229</id>
+    <venue_name>Wolsingham Showground</venue_name>
+    <city>Wolsingham</city>
+    <state/>
+  </row>
+  <row>
+    <id>2230</id>
+    <venue_name>Florence</venue_name>
+    <city>Florence</city>
+    <state/>
+  </row>
+  <row>
+    <id>2231</id>
+    <venue_name>Berlin</venue_name>
+    <city>Berlin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2232</id>
+    <venue_name>Cannes</venue_name>
+    <city>Cannes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2233</id>
+    <venue_name>Prague Congress Center</venue_name>
+    <city>Prague</city>
+    <state/>
+  </row>
+  <row>
+    <id>2234</id>
+    <venue_name>Lille</venue_name>
+    <city>Lille</city>
+    <state/>
+  </row>
+  <row>
+    <id>2235</id>
+    <venue_name>Gut Hesterberg</venue_name>
+    <city>Neuruppin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2236</id>
+    <venue_name>Forte Village, Sardinia</venue_name>
+    <city>Pula</city>
+    <state/>
+  </row>
+  <row>
+    <id>2237</id>
+    <venue_name>Pôle Universitaire Léonard-de-Vinci</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2238</id>
+    <venue_name>Park Plaza Victoria, London</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2239</id>
+    <venue_name>Kurpark Bad Neuenahr</venue_name>
+    <city>Bad Neuenahr-Ahrweiler</city>
+    <state/>
+  </row>
+  <row>
+    <id>2240</id>
+    <venue_name>Lotnisko Kamien Slaski - Hotel Aviator</venue_name>
+    <city>Opole</city>
+    <state/>
+  </row>
+  <row>
+    <id>2241</id>
+    <venue_name>Rennbahn Hoppegarten</venue_name>
+    <city>Berlin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2242</id>
+    <venue_name>The Hall, Zurich</venue_name>
+    <city>Zurich</city>
+    <state/>
+  </row>
+  <row>
+    <id>2243</id>
+    <venue_name>Tilloy-lès-Mofflaines</venue_name>
+    <city>Tilloy-lès-Mofflaines</city>
+    <state/>
+  </row>
+  <row>
+    <id>2244</id>
+    <venue_name>Aéroport Lyon Bron</venue_name>
+    <city>Lyon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2245</id>
+    <venue_name>Gothenburg</venue_name>
+    <city>Gothenburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2246</id>
+    <venue_name>East Midlands Conference Centre</venue_name>
+    <city>Nottingham</city>
+    <state/>
+  </row>
+  <row>
+    <id>2247</id>
+    <venue_name>Mayflower Park / Town Quay</venue_name>
+    <city>Southampton</city>
+    <state/>
+  </row>
+  <row>
+    <id>2248</id>
+    <venue_name>Rive Montparnasse</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2249</id>
+    <venue_name>Geneve</venue_name>
+    <city>Geneve</city>
+    <state/>
+  </row>
+  <row>
+    <id>2250</id>
+    <venue_name>Palazzo di Varignana</venue_name>
+    <city>Bologna</city>
+    <state/>
+  </row>
+  <row>
+    <id>2251</id>
+    <venue_name>Schlosspark</venue_name>
+    <city>Großharthau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2252</id>
+    <venue_name>Kirschgartshausen Experimental Farm</venue_name>
+    <city>Mannheim</city>
+    <state/>
+  </row>
+  <row>
+    <id>2253</id>
+    <venue_name>Zurich</venue_name>
+    <city>Zurich</city>
+    <state/>
+  </row>
+  <row>
+    <id>2254</id>
+    <venue_name>Congress Center, Essen</venue_name>
+    <city>Essen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2255</id>
+    <venue_name>Parc Équestre Fédéral</venue_name>
+    <city>Lamotte-Beuvron</city>
+    <state/>
+  </row>
+  <row>
+    <id>2256</id>
+    <venue_name>Landgestüt Dillenburg</venue_name>
+    <city>Dillenburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2257</id>
+    <venue_name>Saumur</venue_name>
+    <city>Saumur</city>
+    <state/>
+  </row>
+  <row>
+    <id>2258</id>
+    <venue_name>CongressCentrum Pforzheim</venue_name>
+    <city>Pforzheim</city>
+    <state/>
+  </row>
+  <row>
+    <id>2259</id>
+    <venue_name>Nantes</venue_name>
+    <city>Nantes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2260</id>
+    <venue_name>Malaga</venue_name>
+    <city>Malaga</city>
+    <state/>
+  </row>
+  <row>
+    <id>2261</id>
+    <venue_name>Stadtpark</venue_name>
+    <city>Aschersleben</city>
+    <state/>
+  </row>
+  <row>
+    <id>2262</id>
+    <venue_name>Théâtre Antique de Vienne</venue_name>
+    <city>Vienne</city>
+    <state/>
+  </row>
+  <row>
+    <id>2263</id>
+    <venue_name>Clisson</venue_name>
+    <city>Clisson</city>
+    <state/>
+  </row>
+  <row>
+    <id>2264</id>
+    <venue_name>Kap Europa Congress Centre</venue_name>
+    <city>Frankfurt</city>
+    <state/>
+  </row>
+  <row>
+    <id>2265</id>
+    <venue_name>Handelskammer Hamburg</venue_name>
+    <city>Hamburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2266</id>
+    <venue_name>Manchester</venue_name>
+    <city>Manchester</city>
+    <state/>
+  </row>
+  <row>
+    <id>2267</id>
+    <venue_name>Tórshavn (Faroe Islands)</venue_name>
+    <city>Tórshavn</city>
+    <state/>
+  </row>
+  <row>
+    <id>2268</id>
+    <venue_name>Waldrennbahn Mannheim-Seckenheim</venue_name>
+    <city>Mannheim</city>
+    <state/>
+  </row>
+  <row>
+    <id>2269</id>
+    <venue_name>Cathédrale Sainte-Réparate</venue_name>
+    <city>Nice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2270</id>
+    <venue_name>Punchestown Event Centre</venue_name>
+    <city>Punchestown</city>
+    <state/>
+  </row>
+  <row>
+    <id>2271</id>
+    <venue_name>Parc des expositions du Bourget</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2272</id>
+    <venue_name>Aix-en-Provence</venue_name>
+    <city>Aix-en-Provence</city>
+    <state/>
+  </row>
+  <row>
+    <id>2273</id>
+    <venue_name>Aullène</venue_name>
+    <city>Aullène</city>
+    <state/>
+  </row>
+  <row>
+    <id>2274</id>
+    <venue_name>Montegrosso</venue_name>
+    <city>Montegrosso</city>
+    <state/>
+  </row>
+  <row>
+    <id>2275</id>
+    <venue_name>Auditorium du Parc du Château de Florans</venue_name>
+    <city>La Roque-d'Anthéron</city>
+    <state/>
+  </row>
+  <row>
+    <id>2276</id>
+    <venue_name>Riventosa</venue_name>
+    <city>Riventosa</city>
+    <state/>
+  </row>
+  <row>
+    <id>2277</id>
+    <venue_name>Palais des Papes d'Avignon</venue_name>
+    <city>Avignon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2278</id>
+    <venue_name>Vezzani</venue_name>
+    <city>Vezzani</city>
+    <state/>
+  </row>
+  <row>
+    <id>2279</id>
+    <venue_name>Casino de Madrid</venue_name>
+    <city>Madrid</city>
+    <state/>
+  </row>
+  <row>
+    <id>2280</id>
+    <venue_name>Aleria</venue_name>
+    <city>Aleria</city>
+    <state/>
+  </row>
+  <row>
+    <id>2281</id>
+    <venue_name>Madrid Marriott Auditorium Hotel</venue_name>
+    <city>Madrid</city>
+    <state/>
+  </row>
+  <row>
+    <id>2282</id>
+    <venue_name>Agrotech Sp. z o.o.</venue_name>
+    <city>Bydgoszcz</city>
+    <state/>
+  </row>
+  <row>
+    <id>2283</id>
+    <venue_name>Salzburg</venue_name>
+    <city>Salzburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2284</id>
+    <venue_name>Cathédrale Saint-Vincent</venue_name>
+    <city>Saint-Malo</city>
+    <state/>
+  </row>
+  <row>
+    <id>2285</id>
+    <venue_name>Grimsthorpe Castle Park &amp; Gardens</venue_name>
+    <city>Bourne</city>
+    <state/>
+  </row>
+  <row>
+    <id>2286</id>
+    <venue_name>Palais des congrès d'Arles</venue_name>
+    <city>Arles</city>
+    <state/>
+  </row>
+  <row>
+    <id>2287</id>
+    <venue_name>Albena Resort &amp; SPA</venue_name>
+    <city>Albena</city>
+    <state/>
+  </row>
+  <row>
+    <id>2288</id>
+    <venue_name>Gaziantep Middle East Fair Center</venue_name>
+    <city>Gaziantep</city>
+    <state/>
+  </row>
+  <row>
+    <id>2289</id>
+    <venue_name>Carhaix</venue_name>
+    <city>Carhaix</city>
+    <state/>
+  </row>
+  <row>
+    <id>2290</id>
+    <venue_name>Isara Agrapole Lyon</venue_name>
+    <city>Lyon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2291</id>
+    <venue_name>Pinède Gould</venue_name>
+    <city>Juan-les-Pins</city>
+    <state/>
+  </row>
+  <row>
+    <id>2292</id>
+    <venue_name>Meisdorf</venue_name>
+    <city>Meisdorf</city>
+    <state/>
+  </row>
+  <row>
+    <id>2293</id>
+    <venue_name>Stiftung Schloss Eutin</venue_name>
+    <city>Eutin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2294</id>
+    <venue_name>Three Counties Showground</venue_name>
+    <city>Malvern</city>
+    <state/>
+  </row>
+  <row>
+    <id>2295</id>
+    <venue_name>Newbury Showground</venue_name>
+    <city>Newbury</city>
+    <state/>
+  </row>
+  <row>
+    <id>2296</id>
+    <venue_name>Farnborough Airport</venue_name>
+    <city>Farnborough</city>
+    <state/>
+  </row>
+  <row>
+    <id>2297</id>
+    <venue_name>Scandic Fornebu</venue_name>
+    <city>Oslo</city>
+    <state/>
+  </row>
+  <row>
+    <id>2298</id>
+    <venue_name>Gutsgelände</venue_name>
+    <city>Kalkhorst</city>
+    <state/>
+  </row>
+  <row>
+    <id>2299</id>
+    <venue_name>Montreux</venue_name>
+    <city>Montreux</city>
+    <state/>
+  </row>
+  <row>
+    <id>2300</id>
+    <venue_name>Filitosa</venue_name>
+    <city>Filitosa</city>
+    <state/>
+  </row>
+  <row>
+    <id>2301</id>
+    <venue_name>Schlossinsel</venue_name>
+    <city>Lübben</city>
+    <state/>
+  </row>
+  <row>
+    <id>2302</id>
+    <venue_name>Cayeux-sur-Mer</venue_name>
+    <city>Cayeux-sur-Mer</city>
+    <state/>
+  </row>
+  <row>
+    <id>2303</id>
+    <venue_name>Palais de l’Europe, Menton</venue_name>
+    <city>Menton</city>
+    <state/>
+  </row>
+  <row>
+    <id>2304</id>
+    <venue_name>Bertrix</venue_name>
+    <city>Bertrix</city>
+    <state/>
+  </row>
+  <row>
+    <id>2305</id>
+    <venue_name>Hippodrome de Châtelaillon-Plage</venue_name>
+    <city>La Rochelle</city>
+    <state/>
+  </row>
+  <row>
+    <id>2306</id>
+    <venue_name>Olmeto</venue_name>
+    <city>Olmeto</city>
+    <state/>
+  </row>
+  <row>
+    <id>2307</id>
+    <venue_name>Théâtre de la Mer</venue_name>
+    <city>Sète</city>
+    <state/>
+  </row>
+  <row>
+    <id>2308</id>
+    <venue_name>Hilton Brighton Metropole</venue_name>
+    <city>Brighton</city>
+    <state/>
+  </row>
+  <row>
+    <id>2309</id>
+    <venue_name>Schlosspark Putbus</venue_name>
+    <city>Putbus</city>
+    <state/>
+  </row>
+  <row>
+    <id>2310</id>
+    <venue_name>Aregno</venue_name>
+    <city>Aregno</city>
+    <state/>
+  </row>
+  <row>
+    <id>2311</id>
+    <venue_name>Chateau d'Ars</venue_name>
+    <city>La Châtre</city>
+    <state/>
+  </row>
+  <row>
+    <id>2312</id>
+    <venue_name>Delft</venue_name>
+    <city>Delft</city>
+    <state/>
+  </row>
+  <row>
+    <id>2313</id>
+    <venue_name>Kurpark</venue_name>
+    <city>Bad Liebenzell</city>
+    <state/>
+  </row>
+  <row>
+    <id>2314</id>
+    <venue_name>RAF Fairford</venue_name>
+    <city>Fairford</city>
+    <state/>
+  </row>
+  <row>
+    <id>2315</id>
+    <venue_name>Cuttoli-Corticchiato</venue_name>
+    <city>Cuttoli-Corticchiato</city>
+    <state/>
+  </row>
+  <row>
+    <id>2316</id>
+    <venue_name>Fleurance</venue_name>
+    <city>Fleurance</city>
+    <state/>
+  </row>
+  <row>
+    <id>2317</id>
+    <venue_name>Tatton Park</venue_name>
+    <city>Knutsford</city>
+    <state/>
+  </row>
+  <row>
+    <id>2318</id>
+    <venue_name>Hude</venue_name>
+    <city>Hude</city>
+    <state/>
+  </row>
+  <row>
+    <id>2319</id>
+    <venue_name>Locarno</venue_name>
+    <city>Locarno</city>
+    <state/>
+  </row>
+  <row>
+    <id>2320</id>
+    <venue_name>Lido di Venezia</venue_name>
+    <city>Venice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2321</id>
+    <venue_name>Wernesgrüner Brauerei Gutshof</venue_name>
+    <city>Steinberg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2322</id>
+    <venue_name>Schloss Corvey</venue_name>
+    <city>Höxter</city>
+    <state/>
+  </row>
+  <row>
+    <id>2323</id>
+    <venue_name>Kloster Schinna</venue_name>
+    <city>Stolzenau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2324</id>
+    <venue_name>Tele2 Arena</venue_name>
+    <city>Stockholm</city>
+    <state/>
+  </row>
+  <row>
+    <id>2325</id>
+    <venue_name>Gut Deinster Mühle</venue_name>
+    <city>Deinste</city>
+    <state/>
+  </row>
+  <row>
+    <id>2326</id>
+    <venue_name>Piteå</venue_name>
+    <city>Piteå</city>
+    <state/>
+  </row>
+  <row>
+    <id>2327</id>
+    <venue_name>Royal Garden Hotel, London</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2328</id>
+    <venue_name>Chelyabinsk ParkCity Hotel</venue_name>
+    <city>Chelyabinsk</city>
+    <state/>
+  </row>
+  <row>
+    <id>2329</id>
+    <venue_name>Schlosspark Schkopau</venue_name>
+    <city>Schkopau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2330</id>
+    <venue_name>Troyes</venue_name>
+    <city>Troyes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2331</id>
+    <venue_name>Marienberg</venue_name>
+    <city>Brandenburg an der Havel</city>
+    <state/>
+  </row>
+  <row>
+    <id>2332</id>
+    <venue_name>Espace Fontvieille</venue_name>
+    <city>Monaco</city>
+    <state/>
+  </row>
+  <row>
+    <id>2333</id>
+    <venue_name>Schlosspark Lütetsburg</venue_name>
+    <city>Aurich</city>
+    <state/>
+  </row>
+  <row>
+    <id>2334</id>
+    <venue_name>Oktogon Zeche Zollverein</venue_name>
+    <city>Essen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2335</id>
+    <venue_name>Boden Energi Arena</venue_name>
+    <city>Boden</city>
+    <state/>
+  </row>
+  <row>
+    <id>2336</id>
+    <venue_name>Grand Casino Knokke</venue_name>
+    <city>Knokke-Heist</city>
+    <state/>
+  </row>
+  <row>
+    <id>2337</id>
+    <venue_name>Batavia Haven</venue_name>
+    <city>Lelystad</city>
+    <state/>
+  </row>
+  <row>
+    <id>2338</id>
+    <venue_name>Ankara Gölbasi Fairground</venue_name>
+    <city>Ankara</city>
+    <state/>
+  </row>
+  <row>
+    <id>2339</id>
+    <venue_name>Dinard</venue_name>
+    <city>Dinard</city>
+    <state/>
+  </row>
+  <row>
+    <id>2340</id>
+    <venue_name>Expo Lodz</venue_name>
+    <city>Lodz</city>
+    <state/>
+  </row>
+  <row>
+    <id>2341</id>
+    <venue_name>Cankarjev dom</venue_name>
+    <city>Ljubljana</city>
+    <state/>
+  </row>
+  <row>
+    <id>2342</id>
+    <venue_name>La Commanderie, Dole</venue_name>
+    <city>Dole</city>
+    <state/>
+  </row>
+  <row>
+    <id>2343</id>
+    <venue_name>Piazza della Repubblica, Foligno</venue_name>
+    <city>Foligno</city>
+    <state/>
+  </row>
+  <row>
+    <id>2344</id>
+    <venue_name>Malatesta Fortress</venue_name>
+    <city>Fano</city>
+    <state/>
+  </row>
+  <row>
+    <id>2345</id>
+    <venue_name>MAMU Multicentre Mantova</venue_name>
+    <city>Mantua</city>
+    <state/>
+  </row>
+  <row>
+    <id>2346</id>
+    <venue_name>Le Mans</venue_name>
+    <city>Le Mans</city>
+    <state/>
+  </row>
+  <row>
+    <id>2347</id>
+    <venue_name>Dock Pullman, Docks de Paris</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2348</id>
+    <venue_name>Centro de Congressos de Lisboa</venue_name>
+    <city>Lisbon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2349</id>
+    <venue_name>Verdun Expo Meuse</venue_name>
+    <city>Verdun</city>
+    <state/>
+  </row>
+  <row>
+    <id>2350</id>
+    <venue_name>Foire de Béré</venue_name>
+    <city>Châteaubriant</city>
+    <state/>
+  </row>
+  <row>
+    <id>2351</id>
+    <venue_name>Stazione Leopolda</venue_name>
+    <city>Florence</city>
+    <state/>
+  </row>
+  <row>
+    <id>2352</id>
+    <venue_name>Peri</venue_name>
+    <city>Peri</city>
+    <state/>
+  </row>
+  <row>
+    <id>2353</id>
+    <venue_name>Espace Aumaillerie</venue_name>
+    <city>Fougères</city>
+    <state/>
+  </row>
+  <row>
+    <id>2354</id>
+    <venue_name>Altinpark Ankara</venue_name>
+    <city>Ankara</city>
+    <state/>
+  </row>
+  <row>
+    <id>2355</id>
+    <venue_name>Schloss Oelber</venue_name>
+    <city>Baddeckenstedt</city>
+    <state/>
+  </row>
+  <row>
+    <id>2356</id>
+    <venue_name>Salle des Costières</venue_name>
+    <city>Nîmes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2357</id>
+    <venue_name>Quai des Savoirs</venue_name>
+    <city>Toulouse</city>
+    <state/>
+  </row>
+  <row>
+    <id>2358</id>
+    <venue_name>Pôle International du Cheval - Longines</venue_name>
+    <city>Deauville</city>
+    <state/>
+  </row>
+  <row>
+    <id>2359</id>
+    <venue_name>Nancy</venue_name>
+    <city>Nancy</city>
+    <state/>
+  </row>
+  <row>
+    <id>2360</id>
+    <venue_name>Schloß Wotersen</venue_name>
+    <city>Büchen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2361</id>
+    <venue_name>XPOST Köln</venue_name>
+    <city>Cologne</city>
+    <state/>
+  </row>
+  <row>
+    <id>2362</id>
+    <venue_name>Piazza Lucio Dalla</venue_name>
+    <city>Bologna</city>
+    <state/>
+  </row>
+  <row>
+    <id>2363</id>
+    <venue_name>Exhibition centre Shuvar</venue_name>
+    <city>Lviv</city>
+    <state/>
+  </row>
+  <row>
+    <id>2364</id>
+    <venue_name>Le Palio</venue_name>
+    <city>Périgueux</city>
+    <state/>
+  </row>
+  <row>
+    <id>2365</id>
+    <venue_name>Stade Rouge de Rochefort</venue_name>
+    <city>Rochefort</city>
+    <state/>
+  </row>
+  <row>
+    <id>2366</id>
+    <venue_name>Châtellerault - Parc des Expositions</venue_name>
+    <city>Châtellerault</city>
+    <state/>
+  </row>
+  <row>
+    <id>2367</id>
+    <venue_name>Salle A. Lejeune</venue_name>
+    <city>Guéret</city>
+    <state/>
+  </row>
+  <row>
+    <id>2368</id>
+    <venue_name>Salle Cassiopée, Veigné</venue_name>
+    <city>Veigné</city>
+    <state/>
+  </row>
+  <row>
+    <id>2369</id>
+    <venue_name>Holiday Inn, Zilina</venue_name>
+    <city>Zilina</city>
+    <state/>
+  </row>
+  <row>
+    <id>2370</id>
+    <venue_name>Bugeat</venue_name>
+    <city>Bugeat</city>
+    <state/>
+  </row>
+  <row>
+    <id>2371</id>
+    <venue_name>Almagià arteficieries</venue_name>
+    <city>Ravenna</city>
+    <state/>
+  </row>
+  <row>
+    <id>2372</id>
+    <venue_name>Novotel, Barcelona City</venue_name>
+    <city>Barcelona</city>
+    <state/>
+  </row>
+  <row>
+    <id>2373</id>
+    <venue_name>Fredenhagen Spaces</venue_name>
+    <city>Frankfurt</city>
+    <state/>
+  </row>
+  <row>
+    <id>2374</id>
+    <venue_name>Sala Palatului Cultural Center</venue_name>
+    <city>Bucharest</city>
+    <state/>
+  </row>
+  <row>
+    <id>2375</id>
+    <venue_name>Marineland Antibes</venue_name>
+    <city>Antibes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2376</id>
+    <venue_name>Tirana</venue_name>
+    <city>Tirana</city>
+    <state/>
+  </row>
+  <row>
+    <id>2377</id>
+    <venue_name>Tekirdag</venue_name>
+    <city>Tekirdag</city>
+    <state/>
+  </row>
+  <row>
+    <id>2378</id>
+    <venue_name>Werkspoorkathedraal</venue_name>
+    <city>Utrecht</city>
+    <state/>
+  </row>
+  <row>
+    <id>2379</id>
+    <venue_name>Unibet Arena</venue_name>
+    <city>Tallinn</city>
+    <state/>
+  </row>
+  <row>
+    <id>2380</id>
+    <venue_name>Zagreb</venue_name>
+    <city>Zagreb</city>
+    <state/>
+  </row>
+  <row>
+    <id>2381</id>
+    <venue_name>Centre Sportif du Hall du Paire</venue_name>
+    <city>Pepinster</city>
+    <state/>
+  </row>
+  <row>
+    <id>2382</id>
+    <venue_name>Sywell Aerodrome</venue_name>
+    <city>Northampton</city>
+    <state/>
+  </row>
+  <row>
+    <id>2383</id>
+    <venue_name>Four Oaks Nurseries</venue_name>
+    <city>Macclesfield</city>
+    <state/>
+  </row>
+  <row>
+    <id>2384</id>
+    <venue_name>Hotel Petrarca, Montegrotto Terme</venue_name>
+    <city>Padua</city>
+    <state/>
+  </row>
+  <row>
+    <id>2385</id>
+    <venue_name>Tüyap Eskisehir Fair Center</venue_name>
+    <city>Eskisehir</city>
+    <state/>
+  </row>
+  <row>
+    <id>2386</id>
+    <venue_name>Ondes</venue_name>
+    <city>Ondes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2387</id>
+    <venue_name>Wetzikon Messehallen</venue_name>
+    <city>Wetzikon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2388</id>
+    <venue_name>MIN d'Azur</venue_name>
+    <city>Nice</city>
+    <state/>
+  </row>
+  <row>
+    <id>2389</id>
+    <venue_name>Messe Kassel</venue_name>
+    <city>Kassel</city>
+    <state/>
+  </row>
+  <row>
+    <id>2390</id>
+    <venue_name>Burggelände</venue_name>
+    <city>Burg Stargard</city>
+    <state/>
+  </row>
+  <row>
+    <id>2391</id>
+    <venue_name>Belvoir Castle</venue_name>
+    <city>Grantham</city>
+    <state/>
+  </row>
+  <row>
+    <id>2392</id>
+    <venue_name>Port de Cannes</venue_name>
+    <city>Cannes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2393</id>
+    <venue_name>Villers-Saint-christophe</venue_name>
+    <city>Villers-Saint-christophe</city>
+    <state/>
+  </row>
+  <row>
+    <id>2394</id>
+    <venue_name>Schloss Brandis</venue_name>
+    <city>Brandis</city>
+    <state/>
+  </row>
+  <row>
+    <id>2395</id>
+    <venue_name>Espace Saint Mamet</venue_name>
+    <city>Saint-Estève</city>
+    <state/>
+  </row>
+  <row>
+    <id>2396</id>
+    <venue_name>Cheshire Showground</venue_name>
+    <city>Knutsford</city>
+    <state/>
+  </row>
+  <row>
+    <id>2397</id>
+    <venue_name>Napoli</venue_name>
+    <city>Napoli</city>
+    <state/>
+  </row>
+  <row>
+    <id>2398</id>
+    <venue_name>Rimini</venue_name>
+    <city>Rimini</city>
+    <state/>
+  </row>
+  <row>
+    <id>2399</id>
+    <venue_name>Edinburgh</venue_name>
+    <city>Edinburgh</city>
+    <state/>
+  </row>
+  <row>
+    <id>2400</id>
+    <venue_name>Park Ratheniska</venue_name>
+    <city>Port Laoise</city>
+    <state/>
+  </row>
+  <row>
+    <id>2401</id>
+    <venue_name>Smarinn Sports &amp; Convention Centre</venue_name>
+    <city>Kópavogur</city>
+    <state/>
+  </row>
+  <row>
+    <id>2402</id>
+    <venue_name>Bednary-Kolonia</venue_name>
+    <city>Bednary-Kolonia</city>
+    <state/>
+  </row>
+  <row>
+    <id>2403</id>
+    <venue_name>Istanbul Atatürk Airport</venue_name>
+    <city>Istanbul</city>
+    <state/>
+  </row>
+  <row>
+    <id>2404</id>
+    <venue_name>Dessau-Roßlau Stadtpark</venue_name>
+    <city>Dessau-Roßlau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2405</id>
+    <venue_name>Waidsee</venue_name>
+    <city>Weinheim</city>
+    <state/>
+  </row>
+  <row>
+    <id>2406</id>
+    <venue_name>Agra Leipzig</venue_name>
+    <city>Leipzig</city>
+    <state/>
+  </row>
+  <row>
+    <id>2407</id>
+    <venue_name>Espace Argence</venue_name>
+    <city>Troyes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2408</id>
+    <venue_name>Aéroport de Bordeaux-Mérignac</venue_name>
+    <city>Mérignac</city>
+    <state/>
+  </row>
+  <row>
+    <id>2409</id>
+    <venue_name>Port Hercule</venue_name>
+    <city>Monaco</city>
+    <state/>
+  </row>
+  <row>
+    <id>2410</id>
+    <venue_name>Palacio de Congresos de Girona</venue_name>
+    <city>Girona</city>
+    <state/>
+  </row>
+  <row>
+    <id>2411</id>
+    <venue_name>Futuroscope</venue_name>
+    <city>Poitiers</city>
+    <state/>
+  </row>
+  <row>
+    <id>2412</id>
+    <venue_name>Hilton Istanbul Bosphorus</venue_name>
+    <city>Istanbul</city>
+    <state/>
+  </row>
+  <row>
+    <id>2413</id>
+    <venue_name>Messplatz, Pforzheim</venue_name>
+    <city>Pforzheim</city>
+    <state/>
+  </row>
+  <row>
+    <id>2414</id>
+    <venue_name>Messe Idar-Oberstein</venue_name>
+    <city>Idar-Oberstein</city>
+    <state/>
+  </row>
+  <row>
+    <id>2415</id>
+    <venue_name>Ester Limoges Technopole</venue_name>
+    <city>Limoges</city>
+    <state/>
+  </row>
+  <row>
+    <id>2416</id>
+    <venue_name>Augsburger Kongresshalle</venue_name>
+    <city>Augsburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2417</id>
+    <venue_name>Simson-Gewerbepark</venue_name>
+    <city>Suhl</city>
+    <state/>
+  </row>
+  <row>
+    <id>2418</id>
+    <venue_name>Kiev</venue_name>
+    <city>Kiev</city>
+    <state/>
+  </row>
+  <row>
+    <id>2419</id>
+    <venue_name>St. Regis Hotel, Rome</venue_name>
+    <city>Rome</city>
+    <state/>
+  </row>
+  <row>
+    <id>2420</id>
+    <venue_name>Stockholm City Conference Centre</venue_name>
+    <city>Stockholm</city>
+    <state/>
+  </row>
+  <row>
+    <id>2421</id>
+    <venue_name>Aalborg</venue_name>
+    <city>Aalborg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2422</id>
+    <venue_name>Salle R. Patenôtre</venue_name>
+    <city>Rambouillet</city>
+    <state/>
+  </row>
+  <row>
+    <id>2423</id>
+    <venue_name>Espace de l'Ouest Lyonnais</venue_name>
+    <city>Lyon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2424</id>
+    <venue_name>CongressPark Wolfsburg</venue_name>
+    <city>Wolfsburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2425</id>
+    <venue_name>Nivki-hall</venue_name>
+    <city>Kiev</city>
+    <state/>
+  </row>
+  <row>
+    <id>2426</id>
+    <venue_name>Rovigo Fiere</venue_name>
+    <city>Rovigo</city>
+    <state/>
+  </row>
+  <row>
+    <id>2427</id>
+    <venue_name>Schuppen 52</venue_name>
+    <city>Hamburg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2428</id>
+    <venue_name>Oktoberhallen</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2429</id>
+    <venue_name>Spoleto</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2430</id>
+    <venue_name>SYMA Hall Budapest</venue_name>
+    <city>Budapest</city>
+    <state/>
+  </row>
+  <row>
+    <id>2431</id>
+    <venue_name>Palafiere</venue_name>
+    <city>Casale Monferrato</city>
+    <state/>
+  </row>
+  <row>
+    <id>2432</id>
+    <venue_name>Splendid Hotel La Torre</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2433</id>
+    <venue_name>30 Euston Square, London</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2434</id>
+    <venue_name>Maison de la Chimie</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2435</id>
+    <venue_name>Stadthalle Tuttlingen</venue_name>
+    <city>Tuttlingen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2436</id>
+    <venue_name>Port des Minimes</venue_name>
+    <city>La Rochelle</city>
+    <state/>
+  </row>
+  <row>
+    <id>2437</id>
+    <venue_name>Redon</venue_name>
+    <city>Redon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2438</id>
+    <venue_name>Borodino Hotel</venue_name>
+    <city>Moscow</city>
+    <state/>
+  </row>
+  <row>
+    <id>2439</id>
+    <venue_name>Lisbon</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2440</id>
+    <venue_name>GRASSI Museum für Angewandte Kunst</venue_name>
+    <city>Leipzig</city>
+    <state/>
+  </row>
+  <row>
+    <id>2441</id>
+    <venue_name>Parc des Expositions - Monev</venue_name>
+    <city>Montluçon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2442</id>
+    <venue_name>Ifema - Parque Ferial Juan Carlos I</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2443</id>
+    <venue_name>Orange Vélodrome</venue_name>
+    <city>Marseille</city>
+    <state/>
+  </row>
+  <row>
+    <id>2444</id>
+    <venue_name>Carmen Würth Forum</venue_name>
+    <city>Künzelsau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2445</id>
+    <venue_name>Fira de Barcelona - Recinto Gran Via</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2446</id>
+    <venue_name>Auditorium Le Monde</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2447</id>
+    <venue_name>Messegelände Berlin</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2448</id>
+    <venue_name>Nürnberg Convention Center</venue_name>
+    <city>Nuremberg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2449</id>
+    <venue_name>Nuremberg</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2450</id>
+    <venue_name>Fairmont Grand Hotel, Kiev</venue_name>
+    <city>Kiev</city>
+    <state/>
+  </row>
+  <row>
+    <id>2451</id>
+    <venue_name>Centre de Congrès de Lyon (Cité Internationale)</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2452</id>
+    <venue_name>Milan Marriott Hotel</venue_name>
+    <city>Milan</city>
+    <state/>
+  </row>
+  <row>
+    <id>2453</id>
+    <venue_name>Berkeley Square</venue_name>
+    <city>London</city>
+    <state/>
+  </row>
+  <row>
+    <id>2454</id>
+    <venue_name>Lario Fiere</venue_name>
+    <city>Erba</city>
+    <state/>
+  </row>
+  <row>
+    <id>2455</id>
+    <venue_name>Kuspo Bruckfeld</venue_name>
+    <city>Basel</city>
+    <state/>
+  </row>
+  <row>
+    <id>2456</id>
+    <venue_name>RAI International Exhibition and Congress Centre</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2457</id>
+    <venue_name>The Hague</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2458</id>
+    <venue_name>Auditorium Niccolò Paganini</venue_name>
+    <city>Parma</city>
+    <state/>
+  </row>
+  <row>
+    <id>2459</id>
+    <venue_name>Glasgow</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2460</id>
+    <venue_name>Old Trafford Stadium</venue_name>
+    <city>Manchester</city>
+    <state/>
+  </row>
+  <row>
+    <id>2461</id>
+    <venue_name>Villa Berloni, Pesaro</venue_name>
+    <city>Pesaro</city>
+    <state/>
+  </row>
+  <row>
+    <id>2462</id>
+    <venue_name>Meliá Sitges, Barcelona</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2463</id>
+    <venue_name>Kozak-Palace Exhibition Center</venue_name>
+    <city>Zaporizhia</city>
+    <state/>
+  </row>
+  <row>
+    <id>2464</id>
+    <venue_name>Palace of Culture &amp; Science</venue_name>
+    <city>Warsaw</city>
+    <state/>
+  </row>
+  <row>
+    <id>2465</id>
+    <venue_name>NAEC Stoneleigh</venue_name>
+    <city>Coventry</city>
+    <state/>
+  </row>
+  <row>
+    <id>2466</id>
+    <venue_name>Palazzo del Turismo, Riccione</venue_name>
+    <city>Riccione</city>
+    <state/>
+  </row>
+  <row>
+    <id>2467</id>
+    <venue_name>Zénith de Pau</venue_name>
+    <city>Pau</city>
+    <state/>
+  </row>
+  <row>
+    <id>2468</id>
+    <venue_name>Anova Parc des Expositions</venue_name>
+    <city>Alencon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2469</id>
+    <venue_name>Base de sous-marins</venue_name>
+    <city>Saint-Nazaire</city>
+    <state/>
+  </row>
+  <row>
+    <id>2470</id>
+    <venue_name>Complexe Coubertin - Calais</venue_name>
+    <city>Calais</city>
+    <state/>
+  </row>
+  <row>
+    <id>2471</id>
+    <venue_name>Paris</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2472</id>
+    <venue_name>Salle du Colisée</venue_name>
+    <city>Meaux</city>
+    <state/>
+  </row>
+  <row>
+    <id>2473</id>
+    <venue_name>Palazzo dei Congressi</venue_name>
+    <city>Rome</city>
+    <state/>
+  </row>
+  <row>
+    <id>2474</id>
+    <venue_name>Hall Polyvalent Arlon</venue_name>
+    <city>Arlon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2475</id>
+    <venue_name>Zénith de Limoges</venue_name>
+    <city>Limoges</city>
+    <state/>
+  </row>
+  <row>
+    <id>2476</id>
+    <venue_name>Musée des Arts Forains</venue_name>
+    <city>Paris</city>
+    <state/>
+  </row>
+  <row>
+    <id>2477</id>
+    <venue_name>Halle aux grains</venue_name>
+    <city>Issoire</city>
+    <state/>
+  </row>
+  <row>
+    <id>2478</id>
+    <venue_name>Marina Port Vell</venue_name>
+    <city>Barcelona</city>
+    <state/>
+  </row>
+  <row>
+    <id>2479</id>
+    <venue_name>Centre Orléans Métropole (CO'Met)</venue_name>
+    <city>Orleans</city>
+    <state/>
+  </row>
+  <row>
+    <id>2480</id>
+    <venue_name>Spaladium Arena</venue_name>
+    <city>Split</city>
+    <state/>
+  </row>
+  <row>
+    <id>2481</id>
+    <venue_name>Hotel Canopy Hilton, Cannes</venue_name>
+    <city>Cannes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2482</id>
+    <venue_name>Hanzehal</venue_name>
+    <city>Zutphen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2483</id>
+    <venue_name>Halle 550</venue_name>
+    <city>Zurich</city>
+    <state/>
+  </row>
+  <row>
+    <id>2484</id>
+    <venue_name>UNAHOTELS Hotel, Varese</venue_name>
+    <city>Varese</city>
+    <state/>
+  </row>
+  <row>
+    <id>2485</id>
+    <venue_name>Fortezza del Priamar</venue_name>
+    <city>Savona</city>
+    <state/>
+  </row>
+  <row>
+    <id>2486</id>
+    <venue_name>Hotel International, Iasi</venue_name>
+    <city>Iasi</city>
+    <state/>
+  </row>
+  <row>
+    <id>2487</id>
+    <venue_name>Odessa</venue_name>
+    <city>Odessa</city>
+    <state/>
+  </row>
+  <row>
+    <id>2488</id>
+    <venue_name>Villa Curti, Sovizzo</venue_name>
+    <city>Vicenza</city>
+    <state/>
+  </row>
+  <row>
+    <id>2489</id>
+    <venue_name>Centro Congressi Interbrennero Trento</venue_name>
+    <city/>
+    <state/>
+  </row>
+  <row>
+    <id>2490</id>
+    <venue_name>Ilulissat Sports Hall</venue_name>
+    <city>Ilulissat</city>
+    <state>Greenland</state>
+  </row>
+  <row>
+    <id>2491</id>
+    <venue_name>Parc des Expositions de Béziers</venue_name>
+    <city>Béziers</city>
+    <state/>
+  </row>
+  <row>
+    <id>2492</id>
+    <venue_name>Wiener Stadthalle</venue_name>
+    <city>Vienna</city>
+    <state/>
+  </row>
+  <row>
+    <id>2493</id>
+    <venue_name>arena Berlin</venue_name>
+    <city>Berlin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2494</id>
+    <venue_name>Parc Astérix</venue_name>
+    <city>Senlis</city>
+    <state/>
+  </row>
+  <row>
+    <id>2495</id>
+    <venue_name>Rieder Messe</venue_name>
+    <city>Ried</city>
+    <state/>
+  </row>
+  <row>
+    <id>2496</id>
+    <venue_name>Rostock</venue_name>
+    <city>Rostock</city>
+    <state/>
+  </row>
+  <row>
+    <id>2497</id>
+    <venue_name>Palais du Pharo</venue_name>
+    <city>Marseille</city>
+    <state/>
+  </row>
+  <row>
+    <id>2498</id>
+    <venue_name>Le Comptoir Delémontain</venue_name>
+    <city>Delémont</city>
+    <state/>
+  </row>
+  <row>
+    <id>2499</id>
+    <venue_name>Alberthafen Dresden-Friedrichstadt</venue_name>
+    <city>Dresden</city>
+    <state/>
+  </row>
+  <row>
+    <id>2500</id>
+    <venue_name>JW Marriott Cannes</venue_name>
+    <city>Cannes</city>
+    <state/>
+  </row>
+  <row>
+    <id>2501</id>
+    <venue_name>Pfingstwiese</venue_name>
+    <city>Bad Kreuznach</city>
+    <state/>
+  </row>
+  <row>
+    <id>2502</id>
+    <venue_name>Messe Kalkar</venue_name>
+    <city>Kalkar</city>
+    <state/>
+  </row>
+  <row>
+    <id>2503</id>
+    <venue_name>Port du Crouesty</venue_name>
+    <city>Arzon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2504</id>
+    <venue_name>Centre des Expositions Les Oudairies</venue_name>
+    <city>La Roche-sur-Yon</city>
+    <state/>
+  </row>
+  <row>
+    <id>2505</id>
+    <venue_name>Kortrijk</venue_name>
+    <city>Kortrijk</city>
+    <state/>
+  </row>
+  <row>
+    <id>2506</id>
+    <venue_name>Palazzo Albergati</venue_name>
+    <city>Bologna</city>
+    <state/>
+  </row>
+  <row>
+    <id>2507</id>
+    <venue_name>Aula Medica</venue_name>
+    <city>Stockholm</city>
+    <state/>
+  </row>
+  <row>
+    <id>2508</id>
+    <venue_name>Villa Copenhagen</venue_name>
+    <city>Copenhagen</city>
+    <state/>
+  </row>
+  <row>
+    <id>2509</id>
+    <venue_name>Nürnberg Meistersingerhalle</venue_name>
+    <city>Nuremberg</city>
+    <state/>
+  </row>
+  <row>
+    <id>2510</id>
+    <venue_name>Belexpo - 27, Yanka Kupala str.</venue_name>
+    <city>Minsk</city>
+    <state/>
+  </row>
+  <row>
+    <id>2511</id>
+    <venue_name>Espace Gruyère</venue_name>
+    <city>Bulle</city>
+    <state/>
+  </row>
+  <row>
+    <id>2512</id>
+    <venue_name>The Radisson Blu Scandinavia Hotel, Dusseldorf</venue_name>
+    <city>Dusseldorf</city>
+    <state/>
+  </row>
+  <row>
+    <id>2513</id>
+    <venue_name>Exhibition and Congress Center (G2A Arena)</venue_name>
+    <city>Rzeszow</city>
+    <state/>
+  </row>
+  <row>
+    <id>2514</id>
+    <venue_name>Clarion Congress Hotel</venue_name>
+    <city>Prague</city>
+    <state/>
+  </row>
+  <row>
+    <id>2515</id>
+    <venue_name>Le Signe - Centre National du Graphisme</venue_name>
+    <city>Chaumont</city>
+    <state/>
+  </row>
+  <row>
+    <id>2516</id>
+    <venue_name>National Oceanography Centre</venue_name>
+    <city>Southampton</city>
+    <state/>
+  </row>
+  <row>
+    <id>2517</id>
+    <venue_name>Tepekule Congress and Exhibition Center</venue_name>
+    <city>Izmir</city>
+    <state/>
+  </row>
+  <row>
+    <id>2518</id>
+    <venue_name>Dublin</venue_name>
+    <city>Dublin</city>
+    <state/>
+  </row>
+  <row>
+    <id>2519</id>
+    <venue_name>Hilton Tallinn Park</venue_name>
+    <city>Tallinn</city>
+    <state/>
+  </row>
+  <row>
+    <id>2520</id>
+    <venue_name>Gdynia Maritime University</venue_name>
+    <city>Gdynia</city>
+    <state/>
+  </row>
+  <row>
+    <id>2521</id>
+    <venue_name>Porto antico di Genova</venue_name>
+    <city>Genoa</city>
+    <state/>
+  </row>
+  <row>
+    <id>2522</id>
+    <venue_name>Paphos</venue_name>
+    <city>Paphos</city>
+    <state/>
+  </row>
+  <row>
+    <id>2523</id>
+    <venue_name>Zhukovsky Airport (Gromov Flight Research Institute)</venue_name>
+    <city>Moscow</city>
+    <state/>
+  </row>
+  <row>
+    <id>2524</id>
+    <venue_name>Oslo Kongressenter - Mulighetenes arena</venue_name>
+    <city>Oslo</city>
+    <state/>
+  </row>
+  <row>
+    <id>2525</id>
+    <venue_name>Hyvinkää Airfield</venue_name>
+    <city>Hyvinkää</city>
+    <state/>
+  </row>
+  <row>
+    <id>2526</id>
+    <venue_name>Cannstatter Wasen</venue_name>
+    <city>Stuttgart</city>
+    <state/>
+  </row>
+  <row>
+    <id>2527</id>
+    <venue_name>Rittergut Bockerode</venue_name>
+    <city>Hannover</city>
+    <state/>
+  </row>
+  <row>
+    <id>2528</id>
+    <venue_name>Emmeloord</venue_name>
+    <city>Emmeloord</city>
+    <state/>
+  </row>
+  <row>
+    <id>2529</id>
+    <venue_name>Almere</venue_name>
+    <city>Almere</city>
+    <state/>
+  </row>
+  <row>
+    <id>2530</id>
+    <venue_name>Centro Congressi di Venezia</venue_name>
+    <city>Venice</city>
+    <state/>
+  </row>
+</data>

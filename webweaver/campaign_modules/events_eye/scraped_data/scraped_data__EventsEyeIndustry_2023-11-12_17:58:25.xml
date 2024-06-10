@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <id>319</id>
+    <industry_name>Inventors</industry_name>
+  </row>
+  <row>
+    <id>320</id>
+    <industry_name>Electric &amp; Hybrid Vehicles</industry_name>
+  </row>
+  <row>
+    <id>321</id>
+    <industry_name>Knowledge Based Systems &amp; Artificial Intelligence</industry_name>
+  </row>
+  <row>
+    <id>322</id>
+    <industry_name>Natural &amp; Organic Food</industry_name>
+  </row>
+  <row>
+    <id>323</id>
+    <industry_name>Micro &amp; Nanotechnologies</industry_name>
+  </row>
+  <row>
+    <id>324</id>
+    <industry_name>Stone, Marble &amp; Ceramics</industry_name>
+  </row>
+  <row>
+    <id>325</id>
+    <industry_name>Clothing Machines</industry_name>
+  </row>
+  <row>
+    <id>326</id>
+    <industry_name>Minerals, Gemstones, Fossils</industry_name>
+  </row>
+  <row>
+    <id>327</id>
+    <industry_name>Assembly and Handling Technology</industry_name>
+  </row>
+  <row>
+    <id>328</id>
+    <industry_name>Spatial Information Systems</industry_name>
+  </row>
+  <row>
+    <id>329</id>
+    <industry_name>Software Engineering</industry_name>
+  </row>
+  <row>
+    <id>330</id>
+    <industry_name>Mining Technologies</industry_name>
+  </row>
+  <row>
+    <id>331</id>
+    <industry_name>Horse, Pony and Donkey</industry_name>
+  </row>
+  <row>
+    <id>332</id>
+    <industry_name>Nursing &amp; Elderly Care</industry_name>
+  </row>
+  <row>
+    <id>333</id>
+    <industry_name>Surface Treatment Technologies - Coatings</industry_name>
+  </row>
+  <row>
+    <id>334</id>
+    <industry_name>Adhesion, Paints &amp; Coating Technologies</industry_name>
+  </row>
+  <row>
+    <id>335</id>
+    <industry_name>Power electronics</industry_name>
+  </row>
+  <row>
+    <id>336</id>
+    <industry_name>Halal Products</industry_name>
+  </row>
+  <row>
+    <id>337</id>
+    <industry_name>Clock &amp; Watch-making</industry_name>
+  </row>
+  <row>
+    <id>338</id>
+    <industry_name>Data Computing Services</industry_name>
+  </row>
+  <row>
+    <id>339</id>
+    <industry_name>Welding</industry_name>
+  </row>
+  <row>
+    <id>340</id>
+    <industry_name>International Fairs</industry_name>
+  </row>
+  <row>
+    <id>344</id>
+    <industry_name>Electronic Documents Management</industry_name>
+  </row>
+  <row>
+    <id>345</id>
+    <industry_name>Tobacco</industry_name>
+  </row>
+  <row>
+    <id>346</id>
+    <industry_name>Software Tools for Building</industry_name>
+  </row>
+</data>

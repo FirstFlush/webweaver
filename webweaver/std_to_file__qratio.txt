@@ -1,0 +1,4573 @@
+product name:  2 Ounce Mix & Match Bundle
+category text:  Cannabis Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_FLOWER
+Price: , None
+Price Range:  ['$192.00', '$256.00']
+2ouncemixmatchbundle
+('chronicthunder', 52.94117647058824, 916)
+
+
+product name:  3 Ounce Mix & Match Bundle
+category text:  Indica-Dominant
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_FLOWER
+Price: , None
+Price Range:  ['$288.00', '$384.00']
+3ouncemixmatchbundle
+('chronicthunder', 52.94117647058824, 916)
+
+
+product name:  Faded Cannabis Co. 2mL Live Resin Vape Pen Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.VAPES: 'vapes'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_VAPES
+Price: , None
+Price Range:  ['$140.25', '$280.50']
+fadedcannabisco2mlliveresinvapepenbundle
+('cannabischinensis', 45.614035087719294, 7512)
+
+
+product name:  Faded Cannabis Co. Edibles Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.EDIBLES: 'edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_EDIBLES
+Price: , None
+Price Range:  ['$25.50', '$289.00']
+fadedcannabiscoediblesbundle
+('theincrediblebulk', 53.333333333333336, 4237)
+
+
+product name:  Faded Cannabis Co. Live Resin Cart Bundle
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CBD: 'cbd'>, <CategoryEnum.VAPES: 'vapes'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CROSS_CATEGORY
+Price: , None
+Price Range:  ['$102.00', '$204.00']
+fadedcannabiscoliveresincartbundle
+('cannabischinensis', 50.98039215686274, 7512)
+
+
+product name:  Faded Cannabis Co. Live Resin Vape Pen Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.VAPES: 'vapes'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_VAPES
+Price: , None
+Price Range:  ['$114.75', '$229.50']
+fadedcannabiscoliveresinvapepenbundle
+('cannabischinensis', 48.14814814814815, 7512)
+
+
+product name:  Golden Monkey Extracts Cart Bundle
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CBD: 'cbd'>, <CategoryEnum.VAPES: 'vapes'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CROSS_CATEGORY
+Price: , None
+Price Range:  ['$102.00', '$204.00']
+goldenmonkeyextractscartbundle
+('goldentriangle', 54.54545454545454, 8375)
+
+
+product name:  Golden Monkey Extracts Edibles Bundle
+category text:  Edibles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.EDIBLES: 'edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_EDIBLES
+Price: , None
+Price Range:  ['$35.70', '$127.50']
+goldenmonkeyextractsediblesbundle
+('lemonpenetration', 53.06122448979591, 4945)
+
+
+product name:  Golden Monkey Extracts Shatter Bundle
+category text:  Concentrates Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CONCENTRATES: 'concentrates'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CONCENTRATES
+Price: , None
+Price Range:  ['$76.50', '$229.50']
+goldenmonkeyextractsshatterbundle
+('goldentriangle', 51.06382978723405, 8375)
+
+
+product name:  Green Supreme 3mL HTFSE Vape Pen Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>, <CategoryEnum.VAPES: 'vapes'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CROSS_CATEGORY
+Price: , None
+Price Range:  ['$153.00', '$306.00']
+greensupreme3mlhtfsevapepenbundle
+('greenapple', 46.51162790697675, 5203)
+
+
+product name:  Green Supreme HTFSE Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_FLOWER
+Price: , None
+Price Range:  ['$96.00', '$360.00']
+greensupremehtfsebundle
+('supremeskunk', 57.14285714285714, 7928)
+
+
+product name:  Green Supreme Live Resin Cart Bundle
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CBD: 'cbd'>, <CategoryEnum.VAPES: 'vapes'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CROSS_CATEGORY
+Price: , None
+Price Range:  ['$102.00', '$204.00']
+greensupremeliveresincartbundle
+('greenspirit', 52.38095238095239, 687)
+
+
+product name:  Green Supreme Shatter Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_FLOWER
+Price: , None
+Price Range:  ['$76.50', '$229.50']
+greensupremeshatterbundle
+('greensensation', 56.41025641025641, 5926)
+
+
+product name:  Hash – Mix & Match
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CONCENTRATES: 'concentrates'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CONCENTRATES
+Price: , None
+Price Range:  ['$24.00', '$36.00']
+hashmixmatch
+('hashmaster', 63.63636363636363, 9461)
+
+
+product name:  High Dose Edibles Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.EDIBLES: 'edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_EDIBLES
+Price: , None
+Price Range:  ['$63.75', '$212.50']
+highdoseediblesbundle
+('theincrediblebulk', 57.89473684210527, 4237)
+
+
+product name:  High Voltage Extracts Bundle
+category text:  Concentrates Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CONCENTRATES: 'concentrates'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CONCENTRATES
+Price: , None
+Price Range:  ['$102.00', '$344.25']
+highvoltageextractsbundle
+('highvoltage', 61.111111111111114, 6627)
+
+
+product name:  High Voltage Extracts Cart Bundle
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CBD: 'cbd'>, <CategoryEnum.VAPES: 'vapes'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CROSS_CATEGORY
+Price: , None
+Price Range:  ['$102.00', '$229.50']
+highvoltageextractscartbundle
+('highvoltage', 55.00000000000001, 6627)
+
+
+product name:  Kief – Mix & Match
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CONCENTRATES: 'concentrates'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CONCENTRATES
+Price: , $24.00
+Price Range:  None
+kiefmixmatch
+('cookietech', 54.54545454545454, 3454)
+
+
+product name:  Mix & Match 1/2 Ounce
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_FLOWER
+Price: , None
+Price Range:  ['$70.40', '$89.60']
+mixmatch12ounce
+('masterchronic', 57.14285714285714, 4197)
+
+
+product name:  Mix & Match 1/2 Ounces
+category text:  Cannabis Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_FLOWER
+Price: , None
+Price Range:  ['$111.98', '$143.98']
+mixmatch12ounces
+('masterchronic', 55.172413793103445, 4197)
+
+
+product name:  Mix & Match Ounce
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_FLOWER
+Price: , None
+Price Range:  ['$128.00', '$160.00']
+mixmatchounce
+('masterchronic', 61.53846153846154, 4197)
+
+
+product name:  Mix & Match Quarter Pounds
+category text:  Quarter Pounds
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+Price: , None
+Price Range:  ['$595.00', '$1,487.50']
+mixmatchquarterpounds
+('masterpurps', 50.0, 4868)
+
+
+product name:  Pacific CBD Edibles Bundle
+category text:  Edibles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CBD: 'cbd'>, <CategoryEnum.EDIBLES: 'edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CROSS_CATEGORY
+Price: , None
+Price Range:  ['$30.60', '$102.00']
+pacificcbdediblesbundle
+('pacificblue', 64.70588235294117, 2007)
+
+
+product name:  Potluck Edibles Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.EDIBLES: 'edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_EDIBLES
+Price: , None
+Price Range:  ['$43.35', '$198.90']
+potluckediblesbundle
+('theincrediblebulk', 59.45945945945945, 4237)
+
+
+product name:  Ripped Edibles Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.EDIBLES: 'edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_EDIBLES
+Price: , None
+Price Range:  ['$45.90', '$153.00']
+rippedediblesbundle
+('incrediblebulk', 60.60606060606061, 875)
+
+
+product name:  Top Shelf Live Resin Vape Pen Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.VAPES: 'vapes'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_VAPES
+Price: , None
+Price Range:  ['$114.75', '$229.50']
+topshelfliveresinvapepenbundle
+('sheprivatereserve', 46.808510638297875, 1084)
+
+
+product name:  Top Shelf Mix & Match 1/2 Ounce
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_FLOWER
+Price: , $96.00
+Price Range:  None
+topshelfmixmatch12ounce
+('theultimate', 52.94117647058824, 7247)
+
+
+product name:  Top Shelf Mix & Match Ounce
+category text:  Top Shelf Collection
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.FLOWER: 'flower'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_FLOWER
+Price: , $176.00
+Price Range:  None
+topshelfmixmatchounce
+('theultimate', 56.25, 7247)
+
+
+product name:  Twisted Extracts Jelly Bombs Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  []
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_UNKNOWN
+Price: , None
+Price Range:  ['$30.60', '$119.00']
+twistedextractsjellybombsbundle
+('whitestrawberryskunk', 47.05882352941176, 6714)
+
+
+product name:  XO Extracts Premium Shatter Bundle
+category text:  Bundles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  []
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_UNKNOWN
+Price: , None
+Price Range:  ['$127.50', '$382.50']
+xoextractspremiumshatterbundle
+('treasureisland', 50.0, 1150)
+
+
+product name:  XO Extracts Shatter Cart Bundle
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.CBD: 'cbd'>, <CategoryEnum.VAPES: 'vapes'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_CROSS_CATEGORY
+Price: , None
+Price Range:  ['$102.00', '$204.00']
+xoextractsshattercartbundle
+('trctarantula', 51.28205128205128, 7467)
+
+
+product name:  24K Gold
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.HYBRID: 'hybrid'>]
+SubcategoryEnum:  SubCategoryEnum.HYBRID
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$28.00', '$400.00']
+24kgold
+('24kgold', 100.0, 3093)
+
+
+product name:  AA+ Shake
+category text:  $99.99 or Less
+CategoryEnum:  CategoryEnum.UNKNOWN
+<CategoryEnum.UNKNOWN: 'unknown'>
+Price: , $19.99
+Price Range:  None
+aashake
+('arjanshaze2', 66.66666666666667, 483)
+
+
+product name:  AAAA+ House Blend Shatter
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.SHATTER: 'shatter'>]
+SubcategoryEnum:  SubCategoryEnum.SHATTER
+var value:  1-gram
+var price:  25.00
+VariationEnum:  VariationEnum.GRAM
+var value:  2-grams
+var price:  40.00
+VariationEnum:  VariationEnum.TWO_GRAMS
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.TWO_GRAMS: 2>, 'variation_price': '40.00'}]
+Price: , $40.00
+Price Range:  None
+aaaahouseblendshatter
+('doubleheather', 58.82352941176471, 8680)
+
+
+product name:  Afgoo
+category text:  1/2 Ounce Specials
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  19.60
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  35.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  62.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  112.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  280.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '19.60'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '35.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '62.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '112.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '280.00'}]
+Price: , None
+Price Range:  ['$35.00', '$112.00']
+afgoo
+('afgoo', 100.0, 11)
+
+
+product name:  AK-47 Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1134.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  630.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1134.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '630.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$350.00', '$1,134.00']
+ak47hashbulk
+('akhashplant', 60.86956521739131, 952)
+
+
+product name:  Alaskan Thunder Fuck
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.HYBRID: 'hybrid'>]
+SubcategoryEnum:  SubCategoryEnum.HYBRID
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$25.00', '$140.00']
+alaskanthunderfuck
+('alaskanthunderfuck', 100.0, 17)
+
+
+product name:  Ascera Voltair Battery
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+Price: , $15.00
+Price Range:  None
+asceravoltairbattery
+('starberry', 55.172413793103445, 6530)
+
+
+product name:  Astro Pink Kush by Pluto Craft Cannabis
+category text:  Indica
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INDICA: 'indica'>]
+SubcategoryEnum:  SubCategoryEnum.INDICA
+var value:  3-5-grams
+var price:  30.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  55.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  99.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  180.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '30.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '55.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '99.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '180.00'}]
+Price: , None
+Price Range:  ['$30.00', '$180.00']
+astropinkkushbyplutocraftcannabis
+('abcaustralianbastardcannabis', 55.73770491803278, 3078)
+
+
+product name:  Bentley Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1134.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  630.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1134.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '630.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$350.00', '$1,134.00']
+bentleyhashbulk
+('bluehash', 60.86956521739131, 6322)
+
+
+product name:  Black Cherry Soda
+category text:  Quarter Pounds
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$25.00', '$350.00']
+blackcherrysoda
+('blackcherrysoda', 100.0, 7629)
+
+
+product name:  Black Diamond
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.HYBRID: 'hybrid'>]
+SubcategoryEnum:  SubCategoryEnum.HYBRID
+var value:  3-5-grams
+var price:  22.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  40.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  69.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  120.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '22.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '40.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '69.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '120.00'}]
+Price: , None
+Price Range:  ['$22.00', '$120.00']
+blackdiamond
+('blackdiamond', 100.0, 1740)
+
+
+product name:  Black Truffle
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.HYBRID: 'hybrid'>]
+SubcategoryEnum:  SubCategoryEnum.HYBRID
+var value:  3-5-grams
+var price:  30.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  55.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  99.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  180.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '30.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '55.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '99.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '180.00'}]
+Price: , $180.00
+Price Range:  None
+blacktruffle
+('blacktriangle', 72.0, 911)
+
+
+product name:  Bliss Green Apple THC Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $20.00
+Price Range:  None
+blissgreenapplethcgummies
+('greenapple', 57.14285714285714, 5203)
+
+
+product name:  Bliss Watermelon THC Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $20.00
+Price Range:  None
+blisswatermelonthcgummies
+('watermelonkush', 61.53846153846154, 3954)
+
+
+product name:  Blue Fin Tuna
+category text:  Indica
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INDICA: 'indica'>]
+SubcategoryEnum:  SubCategoryEnum.INDICA
+var value:  3-5-grams
+var price:  30.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  55.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  99.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  180.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '30.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '55.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '99.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '180.00'}]
+Price: , None
+Price Range:  ['$30.00', '$180.00']
+bluefintuna
+('bluefin', 77.77777777777779, 7052)
+
+
+product name:  Blueberry Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1296.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  720.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1296.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '720.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$400.00', '$1,296.00']
+blueberryhashbulk
+('blueberryhashplant', 80.0, 4886)
+
+
+product name:  Bruce Banner #3
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}]
+Price: , None
+Price Range:  ['$28.00', '$160.00']
+brucebanner3
+('brucebanner', 95.65217391304348, 72)
+
+
+product name:  Bubba Kush
+category text:  Quarter Pounds
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$25.00', '$350.00']
+bubbakush
+('bubbakush', 100.0, 73)
+
+
+product name:  Budder – Gorilla Glue #4
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  300.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '300.00'}]
+Price: , $300.00
+Price Range:  None
+buddergorillaglue4
+('gorillaglue4', 80.0, 933)
+
+
+product name:  Budder – Honeycomb
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.BUDDER: 'budder'>]
+SubcategoryEnum:  SubCategoryEnum.BUDDER
+Price: , $15.00
+Price Range:  None
+budderhoneycomb
+('buddhatonic', 61.53846153846154, 3104)
+
+
+product name:  Budder – Island Sweet Skunk
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  300.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '300.00'}]
+Price: , $300.00
+Price Range:  None
+budderislandsweetskunk
+('islandsweetskunk', 84.21052631578947, 188)
+
+
+product name:  Budder – Northern Lights
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  300.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '300.00'}]
+Price: , $300.00
+Price Range:  None
+buddernorthernlights
+('northernlights', 82.35294117647058, 266)
+
+
+product name:  Budder – Tangerine Cookies
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  300.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '300.00'}]
+Price: , $300.00
+Price Range:  None
+buddertangerinecookies
+('tangerinecookies', 84.21052631578947, 3395)
+
+
+product name:  CBD Softgel Capsules
+category text:  Edibles
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_CAPSULES: 'cbd_capsules'>, <SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_CAPSULES
+Price: , $50.00
+Price Range:  None
+cbdsoftgelcapsules
+('bandofgypsies', 58.06451612903225, 9501)
+
+
+product name:  Charas Temple Hash Balls
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  14-grams
+var price:  200.00
+VariationEnum:  VariationEnum.HALF_OZ
+[{'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '200.00'}]
+Price: , $200.00
+Price Range:  None
+charastemplehashballs
+('hashballs2', 58.06451612903225, 693)
+
+
+product name:  Cherry Pie
+category text:  $99.99 or Less
+CategoryEnum:  CategoryEnum.UNKNOWN
+<CategoryEnum.UNKNOWN: 'unknown'>
+var value:  28-grams
+var price:  79.99
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '79.99'}]
+Price: , $79.99
+Price Range:  None
+cherrypie
+('cherrypie', 100.0, 997)
+
+
+product name:  Chocolit Barz
+category text:  Chocolates
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CHOCOLATE: 'chocolate'>]
+SubcategoryEnum:  SubCategoryEnum.CHOCOLATE
+Price: , $35.00
+Price Range:  None
+chocolitbarz
+('chocolatehaze', 72.0, 3678)
+
+
+product name:  Chronic Rocks Lemon Pre-Roll
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>, <SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $14.40
+Price Range:  None
+chronicrockslemonpreroll
+('chocolemondiesel', 60.0, 8338)
+
+
+product name:  Chronic Rocks Strawberry Pre-Roll
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>, <SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $18.00
+Price Range:  None
+chronicrocksstrawberrypreroll
+('arjansstrawberryhaze', 57.14285714285714, 27)
+
+
+product name:  Cookies and Cream
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.HYBRID: 'hybrid'>]
+SubcategoryEnum:  SubCategoryEnum.HYBRID
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$25.00', '$140.00']
+cookiesandcream
+('cookiesndream', 92.85714285714286, 5310)
+
+
+product name:  Death Bubba
+category text:  Indica
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INDICA: 'indica'>]
+SubcategoryEnum:  SubCategoryEnum.INDICA
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$28.00', '$400.00']
+deathbubba
+('deathbubba', 100.0, 1824)
+
+
+product name:  Distillate – D9 THC
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+Price: , $400.00
+Price Range:  None
+distillated9thc
+('dieselbreath', 51.85185185185186, 2913)
+
+
+product name:  Distillate Oil Syringes (2:1)
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_OIL: 'cbd_oil'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_OIL
+Price: , $20.00
+Price Range:  None
+distillateoilsyringes21
+('slaughteringbetsy', 55.00000000000001, 3433)
+
+
+product name:  Do-Si-Dos
+category text:  $99.99 or Less
+CategoryEnum:  CategoryEnum.UNKNOWN
+<CategoryEnum.UNKNOWN: 'unknown'>
+var value:  28-grams
+var price:  79.99
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '79.99'}]
+Price: , $79.99
+Price Range:  None
+dosidos
+('dosidos', 100.0, 942)
+
+
+product name:  Donkey Butter by Exotic Genetix
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.HYBRID: 'hybrid'>]
+SubcategoryEnum:  SubCategoryEnum.HYBRID
+var value:  3-5-grams
+var price:  30.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  55.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  99.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  180.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  450.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '30.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '55.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '99.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '180.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '450.00'}]
+Price: , None
+Price Range:  ['$30.00', '$450.00']
+donkeybutterbyexoticgenetix
+('optimusprimeexoticgenetix', 61.53846153846154, 6751)
+
+
+product name:  Euphoria Extractions Indica Shatter Chews
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $24.00
+Price Range:  None
+euphoriaextractionsindicashatterchews
+('euphoriaunlimited', 48.14814814814815, 7392)
+
+
+product name:  Euphoria Extractions Sativa Shatter Chews
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $24.00
+Price Range:  None
+euphoriaextractionssativashatterchews
+('supersilvercheese', 48.14814814814815, 5888)
+
+
+product name:  Euphoria Extractions Shatter Brownies
+category text:  Baked Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.BAKED_GOODS: 'baked_goods'>]
+SubcategoryEnum:  SubCategoryEnum.BAKED_GOODS
+Price: , $22.00
+Price Range:  None
+euphoriaextractionsshatterbrownies
+('gorillaglue4xmonstercookies', 52.459016393442624, 5449)
+
+
+product name:  Faded Cannabis Co. 2mL Live Resin Vape Pens
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_VAPES: 'cbd_vapes'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_VAPES
+Price: , $55.00
+Price Range:  None
+fadedcannabisco2mlliveresinvapepens
+('cannabischinensis', 53.84615384615385, 7512)
+
+
+product name:  Faded Cannabis Co. Berry Blue Raspberries
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $14.00
+Price Range:  None
+fadedcannabiscoberryblueraspberries
+('blackberryxblueberry', 54.54545454545454, 1747)
+
+
+product name:  Faded Cannabis Co. Black Cherry Jelly Blocks
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+fadedcannabiscoblackcherryjellyblocks
+('bigblackcherry', 50.98039215686274, 2762)
+
+
+product name:  Faded Cannabis Co. Blackberry Starburst Astronauts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $27.00
+Price Range:  None
+fadedcannabiscoblackberrystarburstastronauts
+('blackberrysherbert', 48.38709677419355, 1171)
+
+
+product name:  Faded Cannabis Co. Blue Raspberry Jelly Blocks
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+fadedcannabiscoblueraspberryjellyblocks
+('agentorangexraspberrykush', 50.0, 7690)
+
+
+product name:  Faded Cannabis Co. CBD Coffee
+category text:  Beverages
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $10.00
+Price Range:  None
+fadedcannabiscocbdcoffee
+('cannabischinensis', 48.78048780487805, 7512)
+
+
+product name:  Faded Cannabis Co. CBD Honey
+category text:  Baked Edibles
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $34.00
+Price Range:  None
+fadedcannabiscocbdhoney
+('cannabischinensis', 60.0, 7512)
+
+
+product name:  Faded Cannabis Co. CBD Hot Chocolate
+category text:  Beverages
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $10.00
+Price Range:  None
+fadedcannabiscocbdhotchocolate
+('alienchocolate', 54.54545454545454, 5012)
+
+
+product name:  Faded Cannabis Co. CBD Iced Tea
+category text:  Beverages
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $10.00
+Price Range:  None
+fadedcannabiscocbdicedtea
+('cannatonicbluedream', 54.54545454545454, 4485)
+
+
+product name:  Faded Cannabis Co. CBD Pet Relief 150mg
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_PETS: 'cbd_pet'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_PETS
+Price: , $30.00
+Price Range:  None
+fadedcannabiscocbdpetrelief150mg
+('cannatonicbluedream', 47.05882352941176, 4485)
+
+
+product name:  Faded Cannabis Co. Blue Raspberry Jelly Blocks
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+fadedcannabiscoblueraspberryjellyblocks
+('agentorangexraspberrykush', 50.0, 7690)
+
+
+product name:  Faded Cannabis Co. CBD Coffee
+category text:  Beverages
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $8.00
+Price Range:  None
+fadedcannabiscocbdcoffee
+('cannabischinensis', 48.78048780487805, 7512)
+
+
+product name:  Faded Cannabis Co. CBD Honey
+category text:  Baked Edibles
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $27.20
+Price Range:  None
+fadedcannabiscocbdhoney
+('cannabischinensis', 60.0, 7512)
+
+
+product name:  Faded Cannabis Co. CBD Hot Chocolate
+category text:  Beverages
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $8.00
+Price Range:  None
+fadedcannabiscocbdhotchocolate
+('alienchocolate', 54.54545454545454, 5012)
+
+
+product name:  Faded Cannabis Co. CBD Iced Tea
+category text:  Beverages
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $8.00
+Price Range:  None
+fadedcannabiscocbdicedtea
+('cannatonicbluedream', 54.54545454545454, 4485)
+
+
+product name:  Faded Cannabis Co. CBD Pet Relief 150mg
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_PETS: 'cbd_pet'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_PETS
+Price: , $24.00
+Price Range:  None
+fadedcannabiscocbdpetrelief150mg
+('cannatonicbluedream', 47.05882352941176, 4485)
+
+
+product name:  Faded Cannabis Co. CBD Pet Relief 300mg
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_PETS: 'cbd_pet'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_PETS
+Price: , $40.00
+Price Range:  None
+fadedcannabiscocbdpetrelief300mg
+('cannatonicbluedream', 47.05882352941176, 4485)
+
+
+product name:  Faded Cannabis Co. CBD Tinctures
+category text:  Edibles
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>, <SubCategoryEnum.CBD_TINCTURES: 'cbd_tinctures'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , None
+Price Range:  ['$32.00', '$52.00']
+fadedcannabiscocbdtinctures
+('cannabischinensis', 59.09090909090908, 7512)
+
+
+product name:  Faded Cannabis Co. CBD Vaporizer Pen
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_VAPES: 'cbd_vapes'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_VAPES
+Price: , $36.00
+Price Range:  None
+fadedcannabiscocbdvaporizerpen
+('cannabischinensis', 51.06382978723405, 7512)
+
+
+product name:  Faded Cannabis Co. Cherry Bombs
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $11.20
+Price Range:  None
+fadedcannabiscocherrybombs
+('cannabischinensis', 55.81395348837209, 7512)
+
+
+product name:  Faded Cannabis Co. Cherry Cosmos Astronauts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $21.60
+Price Range:  None
+fadedcannabiscocherrycosmosastronauts
+('cannabischinensis', 48.14814814814815, 7512)
+
+
+product name:  Faded Cannabis Co. Cola Comet Astronauts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $21.60
+Price Range:  None
+fadedcannabiscocolacometastronauts
+('cannabissativaslang', 49.056603773584904, 8214)
+
+
+product name:  Faded Cannabis Co. Cookies & Cream Bar
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.BAKED_GOODS: 'baked_goods'>, <SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.BAKED_GOODS
+Price: , $25.50
+Price Range:  None
+fadedcannabiscocookiescreambar
+('cookiescream', 57.14285714285714, 6763)
+
+
+product name:  Faded Cannabis Co. Fruit Pack Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $13.60
+Price Range:  None
+fadedcannabiscofruitpackgummies
+('cannatonicxgirlscoutcookies', 55.172413793103445, 4733)
+
+
+product name:  Faded Cannabis Co. Grape Galaxy Astronauts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $21.60
+Price Range:  None
+fadedcannabiscograpegalaxyastronauts
+('cannasutracannasutra', 50.0, 7492)
+
+
+product name:  Faded Cannabis Co. Halley’s Comet Tinctures
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.TINCTURES: 'tinctures'>]
+SubcategoryEnum:  SubCategoryEnum.TINCTURES
+Price: , $28.00
+Price Range:  None
+fadedcannabiscohalleyscomettinctures
+('cannabischinensis', 52.83018867924528, 7512)
+
+
+product name:  Faded Cannabis Co. Jelly Blocks BOGO
+category text:  Edibles
+CategoryEnum:  CategoryEnum.BUNDLE
+bundle true:  [<CategoryEnum.EDIBLES: 'edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BUNDLE_EDIBLES
+Price: , $52.50
+Price Range:  None
+fadedcannabiscojellyblocksbogo
+('cannabischinensis', 46.808510638297875, 7512)
+
+
+product name:  Faded Cannabis Co. Lemon Venus Astronauts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $21.60
+Price Range:  None
+fadedcannabiscolemonvenusastronauts
+('cannabischinensis', 53.84615384615385, 7512)
+
+
+product name:  Faded Cannabis Co. Live Resin Carts
+category text:  Cartridges
+CategoryEnum:  CategoryEnum.VAPES
+true_subcategories:  [<SubCategoryEnum.CARTS: 'carts'>]
+SubcategoryEnum:  SubCategoryEnum.CARTS
+Price: , $32.00
+Price Range:  None
+fadedcannabiscoliveresincarts
+('cannabischinensis', 60.86956521739131, 7512)
+
+
+product name:  Faded Cannabis Co. Live Resin Vape Pens
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_VAPES: 'cbd_vapes'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_VAPES
+Price: , $36.00
+Price Range:  None
+fadedcannabiscoliveresinvapepens
+('cannabischinensis', 57.14285714285714, 7512)
+
+
+product name:  Faded Cannabis Co. Peach Drops
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $14.00
+Price Range:  None
+fadedcannabiscopeachdrops
+('cannabischinensis', 52.38095238095239, 7512)
+
+
+product name:  Faded Cannabis Co. Pineapple Jelly Blocks
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+fadedcannabiscopineapplejellyblocks
+('bananapineappleexpress', 52.63157894736843, 2993)
+
+
+product name:  Faded Cannabis Co. Pink Grapefruit Jelly Blocks
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+fadedcannabiscopinkgrapefruitjellyblocks
+('autopinkgrapefruit', 55.172413793103445, 5413)
+
+
+product name:  Faded Cannabis Co. Rainbow Sherbet Belts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $14.00
+Price Range:  None
+fadedcannabiscorainbowsherbetbelts
+('rainbowsherbert', 57.14285714285714, 7136)
+
+
+product name:  Faded Cannabis Co. Raspberry Pluto Astronauts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $27.00
+Price Range:  None
+fadedcannabiscoraspberryplutoastronauts
+('raspberrykushxnorthernlights', 47.76119402985075, 2213)
+
+
+product name:  Faded Cannabis Co. Sour Gummy Bears
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $14.00
+Price Range:  None
+fadedcannabiscosourgummybears
+('gummybears', 51.28205128205128, 6808)
+
+
+product name:  Faded Cannabis Co. Sour Suckers
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+Price: , $14.00
+Price Range:  None
+fadedcannabiscosoursuckers
+('captainscookies', 53.65853658536586, 5593)
+
+
+product name:  Faded Cannabis Co. Strawberry Daze Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $14.00
+Price Range:  None
+fadedcannabiscostrawberrydazegummies
+('arjansstrawberryhaze', 60.71428571428572, 27)
+
+
+product name:  Faded Cannabis Co. Strawberry Jupiter Astronauts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $27.00
+Price Range:  None
+fadedcannabiscostrawberryjupiterastronauts
+('goldenstrawberries', 50.0, 6816)
+
+
+product name:  Faded Cannabis Co. THC Coffee
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.BEVERAGES: 'beverages'>]
+SubcategoryEnum:  SubCategoryEnum.BEVERAGES
+Price: , $10.00
+Price Range:  None
+fadedcannabiscothccoffee
+('cannabischinensis', 53.65853658536586, 7512)
+
+
+product name:  Faded Cannabis Co. THC Cookies
+category text:  Baked Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.BAKED_GOODS: 'baked_goods'>]
+SubcategoryEnum:  SubCategoryEnum.BAKED_GOODS
+Price: , $16.00
+Price Range:  None
+fadedcannabiscothccookies
+('cannatonicxgirlscoutcookies', 65.38461538461539, 4733)
+
+
+product name:  Faded Cannabis Co. THC Iced Tea
+category text:  Beverages
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.BEVERAGES: 'beverages'>]
+SubcategoryEnum:  SubCategoryEnum.BEVERAGES
+Price: , $10.00
+Price Range:  None
+fadedcannabiscothcicedtea
+('cannabischinensis', 57.14285714285714, 7512)
+
+
+product name:  Faded Cannabis Co. THC Tinctures
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.TINCTURES: 'tinctures'>]
+SubcategoryEnum:  SubCategoryEnum.TINCTURES
+Price: , None
+Price Range:  ['$30.00', '$55.00']
+fadedcannabiscothctinctures
+('cannabischinensis', 63.63636363636363, 7512)
+
+
+product name:  Faded Cannabis Co. Watermelon Eclipse Astronauts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $27.00
+Price Range:  None
+fadedcannabiscowatermeloneclipseastronauts
+('nepaliwatermelonhashpant', 51.515151515151516, 6992)
+
+
+product name:  Faded Cannabis Co. Wild Watermelons
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $14.00
+Price Range:  None
+fadedcannabiscowildwatermelons
+('electricwatermelonog', 56.00000000000001, 5145)
+
+
+product name:  Faded Cannabis Co. Yuzu Lemon Jelly Blocks
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+fadedcannabiscoyuzulemonjellyblocks
+('cannabischinensis', 46.15384615384615, 7512)
+
+
+product name:  Faded Extracts Cherry Oil
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.OIL
+Price: , $24.00
+Price Range:  None
+fadedextractscherryoil
+('dreamcatcher', 52.94117647058824, 4438)
+
+
+product name:  Faded Extracts Halley’s Comet Oil
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.OIL
+Price: , $24.00
+Price Range:  None
+fadedextractshalleyscometoil
+('haleyscomet', 56.41025641025641, 696)
+
+
+product name:  Faded Extracts Honey Oil
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.OIL
+Price: , $24.00
+Price Range:  None
+fadedextractshoneyoil
+('jaujadreamshoney', 54.054054054054056, 4420)
+
+
+product name:  Faded Extracts Rick Simpson Oil
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.OIL
+Price: , $24.00
+Price Range:  None
+fadedextractsricksimpsonoil
+('simpsonkushricksimpson', 48.97959183673469, 5064)
+
+
+product name:  Faded Cannabis Co. Yuzu Lemon Jelly Blocks
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+fadedcannabiscoyuzulemonjellyblocks
+('cannabischinensis', 46.15384615384615, 7512)
+
+
+product name:  Faded Extracts Cherry Oil
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.OIL
+Price: , $24.00
+Price Range:  None
+fadedextractscherryoil
+('dreamcatcher', 52.94117647058824, 4438)
+
+
+product name:  Faded Extracts Halley’s Comet Oil
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.OIL
+Price: , $24.00
+Price Range:  None
+fadedextractshalleyscometoil
+('haleyscomet', 56.41025641025641, 696)
+
+
+product name:  Faded Extracts Honey Oil
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.OIL
+Price: , $24.00
+Price Range:  None
+fadedextractshoneyoil
+('jaujadreamshoney', 54.054054054054056, 4420)
+
+
+product name:  Faded Extracts Rick Simpson Oil
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.OIL
+Price: , $24.00
+Price Range:  None
+fadedextractsricksimpsonoil
+('simpsonkushricksimpson', 48.97959183673469, 5064)
+
+
+product name:  Faded Extracts Shatter
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.SHATTER: 'shatter'>]
+SubcategoryEnum:  SubCategoryEnum.SHATTER
+Price: , $30.00
+Price Range:  None
+fadedextractsshatter
+('madhatter', 55.172413793103445, 3343)
+
+
+product name:  Faded Extracts THC D9 Oil
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.DISTILLATE: 'distillate'>]
+SubcategoryEnum:  SubCategoryEnum.DISTILLATE
+Price: , $24.00
+Price Range:  None
+fadedextractsthcd9oil
+('cataractkush', 48.484848484848484, 87)
+
+
+product name:  Fatso by Pluto Craft Cannabis
+category text:  Indica
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INDICA: 'indica'>]
+SubcategoryEnum:  SubCategoryEnum.INDICA
+var value:  3-5-grams
+var price:  30.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  55.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  99.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  180.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '30.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '55.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '99.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '180.00'}]
+Price: , None
+Price Range:  ['$30.00', '$180.00']
+fatsobyplutocraftcannabis
+('abcaustralianbastardcannabis', 56.60377358490566, 3078)
+
+
+product name:  Fruit Gushers
+category text:  $99.99 or Less
+CategoryEnum:  CategoryEnum.UNKNOWN
+<CategoryEnum.UNKNOWN: 'unknown'>
+var value:  28-grams
+var price:  89.99
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '89.99'}]
+Price: , $89.99
+Price Range:  None
+fruitgushers
+('fruitkush', 76.19047619047619, 3897)
+
+
+product name:  Fuelato
+category text:  1/2 Ounce Specials
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  15.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  27.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  47.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  84.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '15.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '27.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '47.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '84.00'}]
+Price: , None
+Price Range:  ['$15.00', '$27.00']
+fuelato
+('gluelato', 80.0, 2350)
+
+
+product name:  Ghost Train Haze
+category text:  $99.99 or Less
+CategoryEnum:  CategoryEnum.UNKNOWN
+<CategoryEnum.UNKNOWN: 'unknown'>
+var value:  28-grams
+var price:  79.99
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '79.99'}]
+Price: , $79.99
+Price Range:  None
+ghosttrainhaze
+('gaianhaze', 69.56521739130434, 9200)
+
+
+product name:  Girl Scout Cookies
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}]
+Price: , None
+Price Range:  ['$25.00', '$140.00']
+girlscoutcookies
+('girlscoutcookies', 100.0, 877)
+
+
+product name:  Golden Monkey Extracts Bubbalicious Sodas
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+goldenmonkeyextractsbubbalicioussodas
+('lemonpenetration', 49.056603773584904, 4945)
+
+
+product name:  Golden Monkey Extracts Carts
+category text:  Cartridges
+CategoryEnum:  CategoryEnum.VAPES
+true_subcategories:  [<SubCategoryEnum.CARTS: 'carts'>]
+SubcategoryEnum:  SubCategoryEnum.CARTS
+Price: , $40.00
+Price Range:  None
+goldenmonkeyextractscarts
+('goldmonkey', 57.14285714285714, 4091)
+
+
+product name:  Golden Monkey Extracts Hot Chocolate
+category text:  Beverages
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CHOCOLATE: 'chocolate'>]
+SubcategoryEnum:  SubCategoryEnum.CHOCOLATE
+Price: , $14.00
+Price Range:  None
+goldenmonkeyextractshotchocolate
+('indigodiamondxchocolatethai', 54.23728813559322, 6536)
+
+
+product name:  Golden Monkey Extracts Iced Tea
+category text:  Beverages
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.BEVERAGES: 'beverages'>]
+SubcategoryEnum:  SubCategoryEnum.BEVERAGES
+Price: , $14.00
+Price Range:  None
+goldenmonkeyextractsicedtea
+('lemonpenetration', 55.81395348837209, 4945)
+
+
+product name:  Golden Monkey Extracts Peach Sour Drops
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+goldenmonkeyextractspeachsourdrops
+('agentorangexraspberrykush', 50.847457627118644, 7690)
+
+
+product name:  Golden Monkey Extracts Peppermint Hot Chocolate
+category text:  Beverages
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CHOCOLATE: 'chocolate'>]
+SubcategoryEnum:  SubCategoryEnum.CHOCOLATE
+Price: , $14.00
+Price Range:  None
+goldenmonkeyextractspepperminthotchocolate
+('indigodiamondxchocolatethai', 46.37681159420289, 6536)
+
+
+product name:  Golden Monkey Extracts Rainbow Sherbet
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+goldenmonkeyextractsrainbowsherbet
+('rainbowsherbert', 57.14285714285714, 7136)
+
+
+product name:  Golden Monkey Extracts Shatter
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.SHATTER: 'shatter'>]
+SubcategoryEnum:  SubCategoryEnum.SHATTER
+Price: , $30.00
+Price Range:  None
+goldenmonkeyextractsshatter
+('goldmonkey', 54.054054054054056, 4091)
+
+
+product name:  Green Society Rolling Tray
+category text:  Accessories
+CategoryEnum:  CategoryEnum.ACCESSORIES
+true_subcategories:  [<SubCategoryEnum.MISC: 'misc'>]
+SubcategoryEnum:  SubCategoryEnum.MISC
+Price: , $9.99
+Price Range:  None
+greensocietyrollingtray
+('greenchitrali', 61.111111111111114, 6119)
+
+
+product name:  Green Society Silicone Dab Mats
+category text:  Accessories
+CategoryEnum:  CategoryEnum.ACCESSORIES
+true_subcategories:  [<SubCategoryEnum.MISC: 'misc'>]
+SubcategoryEnum:  SubCategoryEnum.MISC
+Price: , $6.50
+Price Range:  None
+greensocietysiliconedabmats
+('greensensation', 53.65853658536586, 5926)
+
+
+product name:  Green Society T-Shirts
+category text:  Accessories
+CategoryEnum:  CategoryEnum.ACCESSORIES
+true_subcategories:  [<SubCategoryEnum.CLOTHING: 'clothing'>]
+SubcategoryEnum:  SubCategoryEnum.CLOTHING
+Price: , $40.00
+Price Range:  None
+greensocietytshirts
+('greenspirit', 60.0, 687)
+
+
+product name:  Green Supreme 3mL HTFSE Vape Pens
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_VAPES: 'cbd_vapes'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_VAPES
+Price: , $60.00
+Price Range:  None
+greensupreme3mlhtfsevapepens
+('greengrapes', 51.28205128205128, 4494)
+
+
+product name:  Green Supreme Budder
+category text:  Budder
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.BUDDER: 'budder'>]
+SubcategoryEnum:  SubCategoryEnum.BUDDER
+Price: , $40.00
+Price Range:  None
+greensupremebudder
+('greenbud', 61.53846153846154, 8724)
+
+
+product name:  Green Supreme Diamonds
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.DIAMONDS: 'diamonds'>]
+SubcategoryEnum:  SubCategoryEnum.DIAMONDS
+Price: , $50.00
+Price Range:  None
+greensupremediamonds
+('greendiamond', 75.0, 6194)
+
+
+product name:  Green Supreme Full Spectrum Distillate Syringes
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.DISTILLATE: 'distillate'>]
+SubcategoryEnum:  SubCategoryEnum.DISTILLATE
+Price: , $40.00
+Price Range:  None
+greensupremefullspectrumdistillatesyringes
+('sourdieselcriticalmass', 46.875, 2513)
+
+
+product name:  Green Supreme Live Resin Carts
+category text:  Cartridges
+CategoryEnum:  CategoryEnum.VAPES
+true_subcategories:  [<SubCategoryEnum.CARTS: 'carts'>]
+SubcategoryEnum:  SubCategoryEnum.CARTS
+Price: , $40.00
+Price Range:  None
+greensupremeliveresincarts
+('greenspirit', 59.45945945945945, 687)
+
+
+product name:  Green Supreme Live Sauce
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.SAUCE: 'sauce'>]
+SubcategoryEnum:  SubCategoryEnum.SAUCE
+Price: , $40.00
+Price Range:  None
+greensupremelivesauce
+('greenmedicine', 58.82352941176471, 686)
+
+
+product name:  Green Supreme Rosin
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.ROSIN: 'rosin'>]
+SubcategoryEnum:  SubCategoryEnum.ROSIN
+Price: , $30.00
+Price Range:  None
+greensupremerosin
+('greenqueen', 66.66666666666667, 162)
+
+
+product name:  Green Supreme Shatter
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.SHATTER: 'shatter'>]
+SubcategoryEnum:  SubCategoryEnum.SHATTER
+Price: , $30.00
+Price Range:  None
+greensupremeshatter
+('greenmonster', 64.51612903225806, 3377)
+
+
+product name:  Hash – AMG
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  15.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  36.75
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  66.15
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  119.07
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  214.33
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '15.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '36.75'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '66.15'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '119.07'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '214.33'}]
+Price: , $15.00
+Price Range:  None
+hashamg
+('hashbarog', 75.0, 1914)
+
+
+product name:  Hash – Black Nepalese
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$24.50']
+hashblacknepalese
+('bluenepalese', 68.96551724137932, 521)
+
+
+product name:  Hash – Chanel
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  15.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  36.75
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  66.15
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  119.07
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  214.33
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '15.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '36.75'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '66.15'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '119.07'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '214.33'}]
+Price: , None
+Price Range:  ['$36.75', '$66.15']
+hashchanel
+('hashkhan', 77.77777777777779, 695)
+
+
+product name:  Hash – Crown Royale
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+Price: , $10.00
+Price Range:  None
+hashcrownroyale
+('crownroyale', 84.61538461538461, 1816)
+
+
+product name:  Hash – Healing Tree
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  20.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  59.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  110.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  200.00
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  380.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '20.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '59.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '110.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '200.00'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '380.00'}]
+Price: , None
+Price Range:  ['$20.00', '$110.00']
+hashhealingtree
+('hashheaven', 64.0, 694)
+
+
+product name:  Hash – Ketama Gold
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$142.88']
+hashketamagold
+('amsterdamgold', 66.66666666666667, 7520)
+
+
+product name:  Hash – Laughing Buddha
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  3-5-grams
+var price:  59.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  110.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  200.00
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  380.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-gram
+var price:  20.00
+VariationEnum:  VariationEnum.GRAM
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '59.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '110.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '200.00'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '380.00'}, {'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '20.00'}]
+Price: , None
+Price Range:  ['$20.00', '$380.00']
+hashlaughingbuddha
+('amstlaughingbuddha', 88.88888888888889, 1266)
+
+
+product name:  Hash – Lebanese
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$24.50']
+hashlebanese
+('lebanese', 80.0, 768)
+
+
+product name:  Hash – Lebanese Playboy
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$142.88']
+hashlebaneseplayboy
+('lebaneselovebomb', 62.857142857142854, 6643)
+
+
+product name:  Green Supreme Shatter
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.SHATTER: 'shatter'>]
+SubcategoryEnum:  SubCategoryEnum.SHATTER
+Price: , $30.00
+Price Range:  None
+greensupremeshatter
+('greenmonster', 64.51612903225806, 3377)
+
+
+product name:  Hash – AMG
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  15.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  36.75
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  66.15
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  119.07
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  214.33
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '15.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '36.75'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '66.15'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '119.07'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '214.33'}]
+Price: , $15.00
+Price Range:  None
+hashamg
+('hashbarog', 75.0, 1914)
+
+
+product name:  Hash – Black Nepalese
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$24.50']
+hashblacknepalese
+('bluenepalese', 68.96551724137932, 521)
+
+
+product name:  Hash – Chanel
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  15.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  36.75
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  66.15
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  119.07
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  214.33
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '15.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '36.75'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '66.15'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '119.07'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '214.33'}]
+Price: , None
+Price Range:  ['$36.75', '$66.15']
+hashchanel
+('hashkhan', 77.77777777777779, 695)
+
+
+product name:  Hash – Crown Royale
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+Price: , $10.00
+Price Range:  None
+hashcrownroyale
+('crownroyale', 84.61538461538461, 1816)
+
+
+product name:  Hash – Healing Tree
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  20.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  59.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  110.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  200.00
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  380.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '20.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '59.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '110.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '200.00'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '380.00'}]
+Price: , None
+Price Range:  ['$20.00', '$110.00']
+hashhealingtree
+('hashheaven', 64.0, 694)
+
+
+product name:  Hash – Ketama Gold
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$44.10']
+hashketamagold
+('amsterdamgold', 66.66666666666667, 7520)
+
+
+product name:  Hash – Laughing Buddha
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  3-5-grams
+var price:  59.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  110.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  200.00
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  380.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-gram
+var price:  20.00
+VariationEnum:  VariationEnum.GRAM
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '59.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '110.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '200.00'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '380.00'}, {'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '20.00'}]
+Price: , None
+Price Range:  ['$20.00', '$380.00']
+hashlaughingbuddha
+('amstlaughingbuddha', 88.88888888888889, 1266)
+
+
+product name:  Hash – Lebanese
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , $10.00
+Price Range:  None
+hashlebanese
+('lebanese', 80.0, 768)
+
+
+product name:  Hash – Lebanese Playboy
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$142.88']
+hashlebaneseplayboy
+('lebaneselovebomb', 62.857142857142854, 6643)
+
+
+product name:  Hash – Malana Elephant
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  20.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  59.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  110.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  200.00
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  380.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '20.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '59.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '110.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '200.00'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '380.00'}]
+Price: , $20.00
+Price Range:  None
+hashmalanaelephant
+('hashplanthashplant', 66.66666666666667, 9325)
+
+
+product name:  Hash – Mercedes
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}, {'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}]
+Price: , None
+Price Range:  ['$10.00', '$24.50']
+hashmercedes
+('cashmere', 70.0, 4104)
+
+
+product name:  Hash – Moroccan Phoenix
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>, <SubCategoryEnum.PHOENIX_TEARS: 'phoenix_tears'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  20.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  59.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  110.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  200.00
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  380.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '20.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '59.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '110.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '200.00'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '380.00'}]
+Price: , $20.00
+Price Range:  None
+hashmoroccanphoenix
+('royalphoenix', 64.51612903225806, 7105)
+
+
+product name:  Hash – Red Lebanese
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  20.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  59.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  110.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  200.00
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  380.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '20.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '59.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '110.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '200.00'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '380.00'}]
+Price: , None
+Price Range:  ['$20.00', '$380.00']
+hashredlebanese
+('lebanese', 69.56521739130434, 768)
+
+
+product name:  Hash – Rolex
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  15.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  36.75
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  66.15
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  119.07
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  214.33
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '15.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '36.75'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '66.15'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '119.07'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '214.33'}]
+Price: , None
+Price Range:  ['$15.00', '$214.33']
+hashrolex
+('hashcone', 70.58823529411764, 1374)
+
+
+product name:  Hash – Rolls Royce
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  15.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  36.75
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  66.15
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  119.07
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  214.33
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '15.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '36.75'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '66.15'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '119.07'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '214.33'}]
+Price: , $15.00
+Price Range:  None
+hashrollsroyce
+('hashberry', 60.86956521739131, 165)
+
+
+product name:  Hash – Superman
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  15.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  36.75
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  66.15
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  119.07
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  214.33
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '15.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '36.75'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '66.15'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '119.07'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '214.33'}]
+Price: , None
+Price Range:  ['$15.00', '$119.07']
+hashsuperman
+('supermanog', 72.72727272727273, 399)
+
+
+product name:  Hash – Tesla
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$79.38']
+hashtesla
+('tesla', 71.42857142857143, 3344)
+
+
+product name:  Hash – Trident
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+[{'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}]
+Price: , $10.00
+Price Range:  None
+hashtrident
+('hashtrain', 80.0, 6282)
+
+
+product name:  Hash – Zig Zag
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.HASH: 'hash'>]
+SubcategoryEnum:  SubCategoryEnum.HASH
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$142.88']
+hashzigzag
+('hashbarog', 63.1578947368421, 1914)
+
+
+product name:  Juicy Jay Superfine Rolling Papers
+category text:  Accessories
+CategoryEnum:  CategoryEnum.ACCESSORIES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+Price: , $2.75
+Price Range:  None
+juicyjaysuperfinerollingpapers
+('supersilvergrape', 52.17391304347826, 4586)
+
+
+product name:  Kandy Kandy Orange Indica Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+kandykandyorangeindicagummies
+('kandaharindica', 55.81395348837209, 8463)
+
+
+product name:  Kandy Kandy Peach Indica Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $15.00
+Price Range:  None
+kandykandypeachindicagummies
+('kandaharindica', 57.14285714285714, 8463)
+
+
+product name:  Kief – Blonde
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.KIEF: 'kief'>]
+SubcategoryEnum:  SubCategoryEnum.KIEF
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$24.50', '$44.10']
+kiefblonde
+('blondie', 70.58823529411764, 9092)
+
+
+product name:  Kief – Donkey Butter
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.KIEF: 'kief'>]
+SubcategoryEnum:  SubCategoryEnum.KIEF
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$79.38']
+kiefdonkeybutter
+('liquidbutter', 57.14285714285714, 234)
+
+
+product name:  Kief – Miracle Alien Cookies #10
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.KIEF: 'kief'>]
+SubcategoryEnum:  SubCategoryEnum.KIEF
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$79.38']
+kiefmiraclealiencookies10
+('aliencookies', 64.86486486486487, 7009)
+
+
+product name:  Kief – OG Kush
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.KIEF: 'kief'>]
+SubcategoryEnum:  SubCategoryEnum.KIEF
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$79.38']
+kiefogkush
+('killerogkush', 81.81818181818181, 6940)
+
+
+product name:  Kief – Rockstar
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.KIEF: 'kief'>]
+SubcategoryEnum:  SubCategoryEnum.KIEF
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$79.38']
+kiefrockstar
+('rockstar', 80.0, 2068)
+
+
+product name:  Kief – Sunset Sherbet
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.KIEF: 'kief'>]
+SubcategoryEnum:  SubCategoryEnum.KIEF
+var value:  1-gram
+var price:  10.00
+VariationEnum:  VariationEnum.GRAM
+var value:  3-5-grams
+var price:  24.50
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  44.10
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.38
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  142.88
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.GRAM: 1>, 'variation_price': '10.00'}, {'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '24.50'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '44.10'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.38'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '142.88'}]
+Price: , None
+Price Range:  ['$10.00', '$79.38']
+kiefsunsetsherbet
+('sunsetsherbet', 86.66666666666667, 878)
+
+
+product name:  King Louis XIII
+category text:  Indica
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INDICA: 'indica'>]
+SubcategoryEnum:  SubCategoryEnum.INDICA
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}]
+Price: , None
+Price Range:  ['$25.00', '$140.00']
+kinglouisxiii
+('kinglouisxiii', 100.0, 1941)
+
+
+product name:  Kingpin Hemp Wraps
+category text:  Accessories
+CategoryEnum:  CategoryEnum.ACCESSORIES
+true_subcategories:  [<SubCategoryEnum.MISC: 'misc'>]
+SubcategoryEnum:  SubCategoryEnum.MISC
+Price: , $2.50
+Price Range:  None
+kingpinhempwraps
+('kingphisher', 66.66666666666667, 3404)
+
+
+product name:  Laughing Buddha Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1944.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  1080.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  600.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1944.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '1080.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '600.00'}]
+Price: , None
+Price Range:  ['$600.00', '$1,944.00']
+laughingbuddhahashbulk
+('laughingbuddha', 77.77777777777779, 1522)
+
+
+product name:  Lebanese Playboy Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1296.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  720.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1296.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '720.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$400.00', '$1,296.00']
+lebaneseplayboyhashbulk
+('lebanesehashplant', 65.0, 6644)
+
+
+product name:  Live Resin – Krazy Glue
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  400.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '400.00'}]
+Price: , $400.00
+Price Range:  None
+liveresinkrazyglue
+('lovetriangle', 60.0, 5708)
+
+
+product name:  Live Resin – Pink Kush
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  400.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '400.00'}]
+Price: , $400.00
+Price Range:  None
+liveresinpinkkush
+('pinkkush', 64.0, 9356)
+
+
+product name:  Live Resin – Rockstar
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  400.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '400.00'}]
+Price: , $400.00
+Price Range:  None
+liveresinrockstar
+('rockstar', 64.0, 2068)
+
+
+product name:  Live Resin – Sunset Sherbert
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  400.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '400.00'}]
+Price: , $400.00
+Price Range:  None
+liveresinsunsetsherbert
+('sunsetsherbert', 75.67567567567568, 960)
+
+
+product name:  Love Potion #1
+category text:  Quarter Pounds
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$28.00', '$400.00']
+lovepotion1
+('lovepotion1', 100.0, 780)
+
+
+product name:  Master Kush
+category text:  Indica
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INDICA: 'indica'>]
+SubcategoryEnum:  SubCategoryEnum.INDICA
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}]
+Price: , None
+Price Range:  ['$28.00', '$160.00']
+masterkush
+('masterkush', 100.0, 248)
+
+
+product name:  Mercedes Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1134.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  630.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1134.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '630.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$350.00', '$1,134.00']
+mercedeshashbulk
+('cbdsharkshock', 55.172413793103445, 5331)
+
+
+product name:  Live Resin – Sunset Sherbert
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  400.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '400.00'}]
+Price: , $400.00
+Price Range:  None
+liveresinsunsetsherbert
+('sunsetsherbert', 75.67567567567568, 960)
+
+
+product name:  Love Potion #1
+category text:  Quarter Pounds
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$28.00', '$400.00']
+lovepotion1
+('lovepotion1', 100.0, 780)
+
+
+product name:  Master Kush
+category text:  Indica
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INDICA: 'indica'>]
+SubcategoryEnum:  SubCategoryEnum.INDICA
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}]
+Price: , None
+Price Range:  ['$28.00', '$160.00']
+masterkush
+('masterkush', 100.0, 248)
+
+
+product name:  Mercedes Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1134.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  630.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1134.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '630.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$350.00', '$1,134.00']
+mercedeshashbulk
+('cbdsharkshock', 55.172413793103445, 5331)
+
+
+product name:  Mike Tyson
+category text:  Quarter Pounds
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  30.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  55.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  99.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  180.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  450.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '30.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '55.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '99.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '180.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '450.00'}]
+Price: , None
+Price Range:  ['$30.00', '$180.00']
+miketyson
+('tyson', 71.42857142857143, 2135)
+
+
+product name:  Moon Rock Apple Pre-Rolls
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>, <SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $17.60
+Price Range:  None
+moonrockappleprerolls
+('moonrockerf1', 60.60606060606061, 2886)
+
+
+product name:  Moon Rock Banana Split
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $27.20
+Price Range:  None
+moonrockbananasplit
+('bananasplit', 73.33333333333334, 5765)
+
+
+product name:  Moon Rock Blue Wave Pre-Roll
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>, <SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $17.60
+Price Range:  None
+moonrockbluewavepreroll
+('bluedreampreroll', 61.53846153846154, 1085)
+
+
+product name:  Moon Rock Grape
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $27.20
+Price Range:  None
+moonrockgrape
+('moonrockerf1', 72.0, 2886)
+
+
+product name:  Moon Rock Peaches & Cream
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $27.20
+Price Range:  None
+moonrockpeachescream
+('peachescream', 75.0, 2481)
+
+
+product name:  Moon Rock Strawberry
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $27.20
+Price Range:  None
+moonrockstrawberry
+('tillamookstrawberry', 75.67567567567568, 3250)
+
+
+product name:  Moon Rock Strawberry Cheesecake
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $27.20
+Price Range:  None
+moonrockstrawberrycheesecake
+('strawberrycheesecake', 83.33333333333334, 1127)
+
+
+product name:  Moon Rock Vanilla Ice Cream
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $27.20
+Price Range:  None
+moonrockvanillaicecream
+('orangecream', 58.82352941176471, 3618)
+
+
+product name:  Moon Rock Vanilla Ice Cream Pre-Rolls
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>, <SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $17.60
+Price Range:  None
+moonrockvanillaicecreamprerolls
+('bluedreampreroll', 55.319148936170215, 1085)
+
+
+product name:  Moon Rock Watermelon
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $27.20
+Price Range:  None
+moonrockwatermelon
+('watermelon', 71.42857142857143, 1172)
+
+
+product name:  Moon Rock Watermelon Pre-Rolls
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>, <SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $17.60
+Price Range:  None
+moonrockwatermelonprerolls
+('electricwatermelonog', 56.52173913043479, 5145)
+
+
+product name:  Moon Rocks Original OG
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $27.20
+Price Range:  None
+moonrocksoriginalog
+('originalog', 68.96551724137932, 1347)
+
+
+product name:  Motorbreath #2
+category text:  1/2 Ounce Specials
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  21.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  37.50
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  67.49
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  120.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  300.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '21.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '37.50'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '67.49'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '120.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '300.00'}]
+Price: , None
+Price Range:  ['$21.00', '$120.00']
+motorbreath2
+('motorbreath', 95.65217391304348, 5671)
+
+
+product name:  Orange Push Pop
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.HYBRID: 'hybrid'>]
+SubcategoryEnum:  SubCategoryEnum.HYBRID
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$28.00', '$400.00']
+orangepushpop
+('orangekush', 78.26086956521739, 280)
+
+
+product name:  Pacific CBD Cherry Sours
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+pacificcbdcherrysours
+('blackcherrysourdiesel', 61.904761904761905, 2467)
+
+
+product name:  Moon Rock Strawberry Cheesecake
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $34.00
+Price Range:  None
+moonrockstrawberrycheesecake
+('strawberrycheesecake', 83.33333333333334, 1127)
+
+
+product name:  Moon Rock Vanilla Ice Cream
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $34.00
+Price Range:  None
+moonrockvanillaicecream
+('orangecream', 58.82352941176471, 3618)
+
+
+product name:  Moon Rock Vanilla Ice Cream Pre-Rolls
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>, <SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $22.00
+Price Range:  None
+moonrockvanillaicecreamprerolls
+('bluedreampreroll', 55.319148936170215, 1085)
+
+
+product name:  Moon Rock Watermelon
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $34.00
+Price Range:  None
+moonrockwatermelon
+('watermelon', 71.42857142857143, 1172)
+
+
+product name:  Moon Rock Watermelon Pre-Rolls
+category text:  Infused Cannabis
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>, <SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.PREROLL: 'preroll'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $22.00
+Price Range:  None
+moonrockwatermelonprerolls
+('electricwatermelonog', 56.52173913043479, 5145)
+
+
+product name:  Moon Rocks Original OG
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INFUSED: 'infused'>, <SubCategoryEnum.INFUSED: 'infused'>]
+SubcategoryEnum:  SubCategoryEnum.INFUSED
+Price: , $34.00
+Price Range:  None
+moonrocksoriginalog
+('originalog', 68.96551724137932, 1347)
+
+
+product name:  Motorbreath #2
+category text:  1/2 Ounce Specials
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  21.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  37.50
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  67.49
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  120.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  300.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '21.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '37.50'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '67.49'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '120.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '300.00'}]
+Price: , None
+Price Range:  ['$21.00', '$120.00']
+motorbreath2
+('motorbreath', 95.65217391304348, 5671)
+
+
+product name:  OneStop Cherry Lime THC Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $17.00
+Price Range:  None
+onestopcherrylimethcgummies
+('frostedcherrycookies', 55.319148936170215, 3507)
+
+
+product name:  OneStop Peach Lemonade THC Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $17.00
+Price Range:  None
+onestoppeachlemonadethcgummies
+('socallemondiesel', 52.17391304347826, 4362)
+
+
+product name:  OneStop Pineapple THC Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $17.00
+Price Range:  None
+onestoppineapplethcgummies
+('pineapplecookies', 61.904761904761905, 2435)
+
+
+product name:  OneStop Very Cherry THC Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $17.00
+Price Range:  None
+onestopverycherrythcgummies
+('frostedcherrycookies', 59.57446808510638, 3507)
+
+
+product name:  OneStop Watermelon THC Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $17.00
+Price Range:  None
+onestopwatermelonthcgummies
+('nepaliwatermelonhashpant', 58.82352941176471, 6992)
+
+
+product name:  Orange Push Pop
+category text:  Quarter Pounds
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$28.00', '$160.00']
+orangepushpop
+('orangekush', 78.26086956521739, 280)
+
+
+product name:  Pacific CBD Cherry Sours
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+pacificcbdcherrysours
+('blackcherrysourdiesel', 61.904761904761905, 2467)
+
+
+product name:  Pacific CBD Grape Sours
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+pacificcbdgrapesours
+('pacificblue', 58.06451612903225, 2007)
+
+
+product name:  Pacific CBD Gummy Bears
+category text:  Edibles
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+pacificcbdgummybears
+('gummybears', 66.66666666666667, 6808)
+
+
+product name:  Pacific CBD Lemon Colas
+category text:  Edibles
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+pacificcbdlemoncolas
+('pacificblue', 64.51612903225806, 2007)
+
+
+product name:  Pacific CBD Lip Balm
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+Price: , $10.00
+Price Range:  None
+pacificcbdlipbalm
+('pacificblue', 64.28571428571428, 2007)
+
+
+product name:  Pacific CBD Peach Sours
+category text:  Edibles
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+pacificcbdpeachsours
+('pacificblue', 58.06451612903225, 2007)
+
+
+product name:  Pacific CBD Sour Watermelons
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+pacificcbdsourwatermelons
+('electricwatermelonog', 57.77777777777777, 5145)
+
+
+product name:  Pacific CBD Wild Strawberries
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+pacificcbdwildstrawberries
+('blackstrawberries', 65.11627906976744, 2289)
+
+
+product name:  Palm Tree Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1458.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  810.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  450.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1458.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '810.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '450.00'}]
+Price: , None
+Price Range:  ['$450.00', '$1,458.00']
+palmtreehashbulk
+('nepalesehashplant', 60.60606060606061, 2535)
+
+
+product name:  Phoenix Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1296.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  720.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1296.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '720.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$400.00', '$1,296.00']
+phoenixhashbulk
+('phoenixog', 58.33333333333333, 5787)
+
+
+product name:  Pineapple Express
+category text:  Quarter Pounds
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$25.00', '$140.00']
+pineappleexpress
+('pineappleexpress', 100.0, 290)
+
+
+product name:  Pineapple Express Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1296.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  720.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1296.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '720.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$400.00', '$1,296.00']
+pineappleexpresshashbulk
+('pineappleexpress', 80.0, 290)
+
+
+product name:  Pink Galaxy by Pluto Craft Cannabis
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  30.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  55.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  99.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  180.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '30.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '55.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '99.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '180.00'}]
+Price: , None
+Price Range:  ['$30.00', '$180.00']
+pinkgalaxybyplutocraftcannabis
+('pinkgrapefruitcocktail', 53.84615384615385, 7911)
+
+
+product name:  Potluck 1:1 Apple Gummies
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $13.60
+Price Range:  None
+potluck11applegummies
+('pineapplemist', 52.94117647058824, 9134)
+
+
+product name:  Potluck 1:1 Grape Gummies
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $13.60
+Price Range:  None
+potluck11grapegummies
+('blackgrapes', 56.25, 2459)
+
+
+product name:  Potluck Cherry Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $13.60
+Price Range:  None
+potluckcherrygummies
+('blackcherrypie', 64.70588235294117, 3788)
+
+
+product name:  Potluck Citrus Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $13.60
+Price Range:  None
+potluckcitrusgummies
+('citruscookies', 54.54545454545454, 2365)
+
+
+product name:  Potluck Cookies ‘n Creme Chocolate
+category text:  Chocolates
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.BAKED_GOODS: 'baked_goods'>, <SubCategoryEnum.CHOCOLATE: 'chocolate'>]
+SubcategoryEnum:  SubCategoryEnum.BAKED_GOODS
+Price: , $20.80
+Price Range:  None
+potluckcookiesncremechocolate
+('alienchocolate', 60.46511627906976, 5012)
+
+
+product name:  Potluck Matcha White Chocolate
+category text:  Chocolates
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CHOCOLATE: 'chocolate'>]
+SubcategoryEnum:  SubCategoryEnum.CHOCOLATE
+Price: , $20.80
+Price Range:  None
+potluckmatchawhitechocolate
+('bluechocolate', 60.0, 5013)
+
+
+product name:  Potluck Milk Chocolate
+category text:  Chocolates
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CHOCOLATE: 'chocolate'>]
+SubcategoryEnum:  SubCategoryEnum.CHOCOLATE
+Price: , $20.80
+Price Range:  None
+potluckmilkchocolate
+('purplechocolate', 68.57142857142857, 5024)
+
+
+product name:  Potluck Strawberry Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $13.60
+Price Range:  None
+potluckstrawberrygummies
+('blackstrawberries', 73.17073170731707, 2289)
+
+
+product name:  Potluck Toffee (Skor) Chocolate
+category text:  Chocolates
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CHOCOLATE: 'chocolate'>]
+SubcategoryEnum:  SubCategoryEnum.CHOCOLATE
+Price: , $20.80
+Price Range:  None
+potlucktoffeeskorchocolate
+('sourchocolate', 61.53846153846154, 378)
+
+
+product name:  Proper Extracts Indica Cherry Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $28.00
+Price Range:  None
+properextractsindicacherrygummies
+('greencherrypie', 51.06382978723405, 5899)
+
+
+product name:  Proper Extracts Indica Watermelon Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $28.00
+Price Range:  None
+properextractsindicawatermelongummies
+('electricwatermelonog', 59.64912280701755, 5145)
+
+
+product name:  Purple Kush
+category text:  The Green Room
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}]
+Price: , None
+Price Range:  ['$25.00', '$140.00']
+purplekush
+('purplekush', 100.0, 324)
+
+
+product name:  Purple Punch
+category text:  Indica
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INDICA: 'indica'>]
+SubcategoryEnum:  SubCategoryEnum.INDICA
+var value:  3-5-grams
+var price:  30.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  55.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  99.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  180.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '30.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '55.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '99.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '180.00'}]
+Price: , None
+Price Range:  ['$30.00', '$180.00']
+purplepunch
+('purplepunch', 100.0, 2051)
+
+
+product name:  Red Lebanese Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1944.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  1080.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  600.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1944.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '1080.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '600.00'}]
+Price: , None
+Price Range:  ['$600.00', '$1,944.00']
+redlebanesehashbulk
+('lebanesehashplant', 72.22222222222221, 6644)
+
+
+product name:  Ripped Edibles THC Blue Raspberry Chewies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthcblueraspberrychewies
+('bigcheesechuckleberrycheese', 57.14285714285714, 6073)
+
+
+product name:  Ripped Edibles THC Blue Raspberry Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthcblueraspberrygummies
+('doublestrawberrydiesel', 55.172413793103445, 8747)
+
+
+product name:  Ripped Edibles THC Chewies (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_EDIBLES: 'bulk_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_EDIBLES
+Price: , $80.00
+Price Range:  None
+rippedediblesthcchewiesbulk
+('incrediblebulk', 53.65853658536586, 875)
+
+
+product name:  Ripped Edibles THC Cola Bears
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthccolabears
+('pabloescobar', 54.054054054054056, 4063)
+
+
+product name:  Ripped Edibles THC Cream Soda Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthccreamsodagummies
+('reddieselcookies', 50.0, 1151)
+
+
+product name:  Ripped Edibles THC Gummy Bears (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_EDIBLES: 'bulk_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_EDIBLES
+Price: , $120.00
+Price Range:  None
+rippedediblesthcgummybearsbulk
+('incrediblebulk', 50.0, 875)
+
+
+product name:  Ripped Edibles THC Gummy Worms
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthcgummyworms
+('reddieselcookies', 47.61904761904761, 1151)
+
+
+product name:  Ripped Edibles THC Mixed Berry Chewies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthcmixedberrychewies
+('bigcheesechuckleberrycheese', 56.666666666666664, 6073)
+
+
+product name:  Ripped Edibles THC Peach Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthcpeachgummies
+('reddieselcookies', 54.54545454545454, 1151)
+
+
+product name:  Ripped Edibles THC Strawberry Chewies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthcstrawberrychewies
+('doublestrawberrydiesel', 61.81818181818181, 8747)
+
+
+product name:  Ripped Edibles THC Strawberry Marshmallows
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthcstrawberrymarshmallows
+('doublestrawberrydiesel', 53.333333333333336, 8747)
+
+
+product name:  Ripped Edibles THC Strawberry Marshmallows (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_EDIBLES: 'bulk_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_EDIBLES
+Price: , $80.00
+Price Range:  None
+rippedediblesthcstrawberrymarshmallowsbulk
+('sourpurplestrawberriesstrawberrydakini', 50.0, 4940)
+
+
+product name:  Ripped Edibles THC Watermelon Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $18.00
+Price Range:  None
+rippedediblesthcwatermelongummies
+('electricwatermelonog', 60.37735849056604, 5145)
+
+
+product name:  Rolex Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1296.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  720.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1296.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '720.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$400.00', '$1,296.00']
+rolexhashbulk
+('purplehulk', 60.86956521739131, 3785)
+
+
+product name:  Rolls Royce Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1134.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  630.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1134.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '630.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$350.00', '$1,134.00']
+rollsroycehashbulk
+('crownroyal', 50.0, 582)
+
+
+product name:  Royalty Rosin Amplified Sour Gummies
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $32.00
+Price Range:  None
+royaltyrosinamplifiedsourgummies
+('triplesourdiesel', 54.16666666666667, 8360)
+
+
+product name:  Royalty Rosin Carts
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_VAPES: 'cbd_vapes'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_VAPES
+Price: , $40.00
+Price Range:  None
+royaltyrosincarts
+('royalfrisian', 62.06896551724138, 6270)
+
+
+product name:  Shatter – MAC #1
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  400.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '400.00'}]
+Price: , $400.00
+Price Range:  None
+shattermac1
+('sharkattack', 63.63636363636363, 2079)
+
+
+product name:  Shatter – Peanut Butter Breath
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  400.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '400.00'}]
+Price: , $400.00
+Price Range:  None
+shatterpeanutbutterbreath
+('peanutbutterbreath', 83.72093023255813, 9030)
+
+
+product name:  Shatter – Pink Kush
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_CONCENTRATES: 'bulk_concenrates'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_CONCENTRATES
+var value:  28-grams
+var price:  400.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '400.00'}]
+Price: , $400.00
+Price Range:  None
+shatterpinkkush
+('sutterkush', 72.0, 3322)
+
+
+product name:  Top Shelf Pre-Rolls
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.PREROLL: 'preroll'>, <SubCategoryEnum.HYBRID: 'hybrid'>, <SubCategoryEnum.PREROLL: 'preroll'>]
+SubcategoryEnum:  SubCategoryEnum.PREROLL
+Price: , $40.00
+Price Range:  None
+topshelfprerolls
+('fireogpreroll', 55.172413793103445, 1086)
+
+
+product name:  Tuna Kush
+category text:  Indica
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.INDICA: 'indica'>]
+SubcategoryEnum:  SubCategoryEnum.INDICA
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$25.00', '$350.00']
+tunakush
+('tunakush', 100.0, 2134)
+
+
+product name:  Twisted Citrus
+category text:  Quarter Pounds
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+var value:  1-4-lb
+var price:  400.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '400.00'}]
+Price: , None
+Price Range:  ['$28.00', '$400.00']
+twistedcitrus
+('twistedcitrus', 100.0, 1676)
+
+
+product name:  Twisted Extracts 1:1 Black Cherry ZZZ Bomb
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $12.00
+Price Range:  None
+twistedextracts11blackcherryzzzbomb
+('southernkentuckycherrybomb', 55.73770491803278, 9286)
+
+
+product name:  Twisted Extracts 1:1 Grape Jelly Bomb
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $14.00
+Price Range:  None
+twistedextracts11grapejellybomb
+('grapejelly', 48.78048780487805, 1198)
+
+
+product name:  Twisted Extracts 1:1 Indica Cara-Melts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $13.00
+Price Range:  None
+twistedextracts11indicacaramelts
+('whitewidowxpureindica', 49.056603773584904, 5994)
+
+
+product name:  Twisted Extracts 1:1 Mango Jelly Bomb
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+twistedextracts11mangojellybomb
+('sweetblackangel', 47.82608695652174, 2118)
+
+
+product name:  Twisted Extracts 1:1 Orange Jelly Bomb
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+twistedextracts11orangejellybomb
+('sweetblackangel', 46.808510638297875, 2118)
+
+
+product name:  Twisted Extracts 1:1 Raspberry ZZZ Bomb
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $12.00
+Price Range:  None
+twistedextracts11raspberryzzzbomb
+('twistedcitrus', 47.82608695652174, 1676)
+
+
+product name:  Twisted Extracts 1:1 Sativa Cara-Melts
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.UNKNOWN
+Price: , $13.00
+Price Range:  None
+twistedextracts11sativacaramelts
+('whitedeathstar', 52.17391304347826, 4713)
+
+
+product name:  Twisted Extracts 1:1 Watermelon Jelly Bomb
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $14.00
+Price Range:  None
+twistedextracts11watermelonjellybomb
+('electricwatermelonog', 57.14285714285714, 5145)
+
+
+product name:  Twisted Extracts Black Cherry ZZZ Bomb
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $12.00
+Price Range:  None
+twistedextractsblackcherryzzzbomb
+('southernkentuckycherrybomb', 57.6271186440678, 9286)
+
+
+product name:  Twisted Extracts Cherry Jelly Bomb
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $12.00
+Price Range:  None
+twistedextractscherryjellybomb
+('southernkentuckycherrybomb', 57.14285714285714, 9286)
+
+
+product name:  Twisted Extracts Green Apple Jelly Bomb
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $12.00
+Price Range:  None
+twistedextractsgreenapplejellybomb
+('twistedpurpleogk', 48.0, 8361)
+
+
+product name:  Twisted Extracts Indica Cara-Melts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $13.00
+Price Range:  None
+twistedextractsindicacaramelts
+('twistedcitrus', 51.162790697674424, 1676)
+
+
+product name:  Twisted Extracts Indica Salted Cara-Melts
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $28.00
+Price Range:  None
+twistedextractsindicasaltedcaramelts
+('saltedcaramelkush', 52.83018867924528, 3244)
+
+
+product name:  Twisted Extracts Mango Jelly Bomb
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $12.00
+Price Range:  None
+twistedextractsmangojellybomb
+('sweetblackangel', 50.0, 2118)
+
+
+product name:  Twisted Extracts Orange Jelly Bomb
+category text:  Edibles
+CategoryEnum:  CategoryEnum.EDIBLES
+true_subcategories:  [<SubCategoryEnum.CANDY: 'candy'>]
+SubcategoryEnum:  SubCategoryEnum.CANDY
+Price: , $12.00
+Price Range:  None
+twistedextractsorangejellybomb
+('sweetblackangel', 48.88888888888889, 2118)
+
+
+product name:  Twisted Extracts Peach CBD Jelly Bomb
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+twistedextractspeachcbdjellybomb
+('sherpapeachdiesel', 48.97959183673469, 9502)
+
+
+product name:  Twisted Extracts Pineapple CBD Jelly Bomb
+category text:  CBD
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_EDIBLES: 'cbd_edibles'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_EDIBLES
+Price: , $12.00
+Price Range:  None
+twistedextractspineapplecbdjellybomb
+('whitesourpineapples', 50.90909090909091, 2646)
+
+
+product name:  Viridesco Seawarp V-RSO
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  []
+SubcategoryEnum:  SubCategoryEnum.OIL
+Price: , None
+Price Range:  ['$36.00', '$144.00']
+viridescoseawarpvrso
+('friscosnaps', 58.06451612903225, 4769)
+
+
+product name:  Wedding Cake
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.HYBRID: 'hybrid'>]
+SubcategoryEnum:  SubCategoryEnum.HYBRID
+var value:  3-5-grams
+var price:  25.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  45.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  79.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  140.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '25.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '45.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '79.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '140.00'}]
+Price: , None
+Price Range:  ['$25.00', '$140.00']
+weddingcake
+('weddingcake', 100.0, 1229)
+
+
+product name:  White Runtz
+category text:  Hybrid
+CategoryEnum:  CategoryEnum.FLOWER
+true_subcategories:  [<SubCategoryEnum.HYBRID: 'hybrid'>]
+SubcategoryEnum:  SubCategoryEnum.HYBRID
+var value:  3-5-grams
+var price:  28.00
+VariationEnum:  VariationEnum.EIGHTH_OZ
+var value:  7-grams
+var price:  50.00
+VariationEnum:  VariationEnum.QUARTER_OZ
+var value:  14-grams
+var price:  89.99
+VariationEnum:  VariationEnum.HALF_OZ
+var value:  28-grams
+var price:  160.00
+VariationEnum:  VariationEnum.OUNCE
+[{'variation_enum': <VariationEnum.EIGHTH_OZ: 3.5>, 'variation_price': '28.00'}, {'variation_enum': <VariationEnum.QUARTER_OZ: 7>, 'variation_price': '50.00'}, {'variation_enum': <VariationEnum.HALF_OZ: 14>, 'variation_price': '89.99'}, {'variation_enum': <VariationEnum.OUNCE: 28>, 'variation_price': '160.00'}]
+Price: , None
+Price Range:  ['$28.00', '$160.00']
+whiteruntz
+('whiteout', 77.77777777777779, 4661)
+
+
+product name:  XO Extracts Premium Shatter
+category text:  Concentrates
+CategoryEnum:  CategoryEnum.CONCENTRATES
+true_subcategories:  [<SubCategoryEnum.SHATTER: 'shatter'>]
+SubcategoryEnum:  SubCategoryEnum.SHATTER
+Price: , $50.00
+Price Range:  None
+xoextractspremiumshatter
+('premiumcherry', 54.054054054054056, 1251)
+
+
+product name:  XO Extracts Shatter Carts
+category text:  CBD & THC Vape Pens
+CategoryEnum:  CategoryEnum.CBD
+true_subcategories:  [<SubCategoryEnum.CBD_VAPES: 'cbd_vapes'>]
+SubcategoryEnum:  SubCategoryEnum.CBD_VAPES
+Price: , $40.00
+Price Range:  None
+xoextractsshattercarts
+('craptheshitter', 50.0, 2275)
+
+
+product name:  Zig Zag Hash (Bulk)
+category text:  Bulk
+CategoryEnum:  CategoryEnum.BULK
+true_subcategories:  [<SubCategoryEnum.BULK_HASH: 'bulk_hash'>]
+SubcategoryEnum:  SubCategoryEnum.BULK_HASH
+var value:  1-lb
+var price:  1134.00
+VariationEnum:  VariationEnum.POUND
+var value:  1-2-lb
+var price:  630.00
+VariationEnum:  VariationEnum.HALF_LB
+var value:  1-4-lb
+var price:  350.00
+VariationEnum:  VariationEnum.QUARTER_LB
+[{'variation_enum': <VariationEnum.POUND: 446>, 'variation_price': '1134.00'}, {'variation_enum': <VariationEnum.HALF_LB: 224>, 'variation_price': '630.00'}, {'variation_enum': <VariationEnum.QUARTER_LB: 112>, 'variation_price': '350.00'}]
+Price: , None
+Price Range:  ['$630.00', '$1,134.00']
+zigzaghashbulk
+('afghanskunk', 56.00000000000001, 1703)
+
+

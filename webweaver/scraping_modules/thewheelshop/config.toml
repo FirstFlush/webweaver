@@ -1,0 +1,10 @@
+[spider]
+id = 23
+spider_name = "TheWheelShop"
+domain = "thewheelshop.ca"
+description = "SpeedFanatics supplier for wheels & tires"
+
+[models]
+table_names = []
+
+[params]

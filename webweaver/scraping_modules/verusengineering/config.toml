@@ -1,0 +1,10 @@
+[spider]
+id = 24
+spider_name = "VerusEngineering"
+domain = "verus-engineering.com"
+description = "SpeedFanatics supplier"
+
+[models]
+table_names = []
+
+[params]

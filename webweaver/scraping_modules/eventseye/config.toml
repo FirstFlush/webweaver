@@ -1,0 +1,16 @@
+[spider]
+id = 5
+spider_name = "EventsEye"
+domain = "eventseye.com"
+description = "Trade shows, exhibitions, conferences and events"
+
+[models]
+table_names = [
+    "EventsEyeTradeShow",
+    "EventsEyeVenue",
+    "EventsEyeOrganizer",
+    "EventsEyeIndustry"
+]
+
+[params]
+region = "americas"

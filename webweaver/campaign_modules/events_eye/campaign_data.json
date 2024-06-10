@@ -1,0 +1,13 @@
+{
+    "campaign_name": "events eye",
+    "is_recurring": false,
+    "spiders": [
+        {
+            "spider_name": "EventsEye",
+            "domain": "eventseye.com",
+            "is_active": true,
+            "description": "Trade shows, exhibitions, conferences and events",
+            "params": []
+        }
+    ]
+}

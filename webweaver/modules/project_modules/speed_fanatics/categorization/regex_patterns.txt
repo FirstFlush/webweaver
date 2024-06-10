@@ -1,0 +1,9 @@
+
+
+brake.*?bundle(?:s)?
+
+Requirements
+-contains the word 'brake'
+-contains the word 'bundle' or 'bundles' at any point after brake 
+-an indeterminate number of characters, words, spaces, special characters, numbers etc between brake and bundle/bundles
+-brake can be its own word or a part of other words. so "bigbrake" and "oem-brake" would both match just as well as "brake". and "kits/bundles" would match just as well as "bundle"

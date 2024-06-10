@@ -1,0 +1,11 @@
+[spider]
+id = 21
+spider_name = "GreenSociety"
+domain = "greensociety.cc"
+description = "dispensary"
+
+[models]
+table_names = []
+
+[params]
+get_description = false

@@ -1,0 +1,12 @@
+[spider]
+id = 15
+spider_name = "Amazon"
+domain = "amazon.com"
+description = "Amazon products"
+
+[models]
+table_names = [
+    "AmazonProduct"
+]
+
+[params]

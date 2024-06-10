@@ -1,0 +1,10 @@
+[spider]
+id = 27
+spider_name = "KelleyBlueBook"
+domain = "kbb.com"
+description = "Car makes, models, years, prices"
+
+[models]
+table_names = []
+
+[params]

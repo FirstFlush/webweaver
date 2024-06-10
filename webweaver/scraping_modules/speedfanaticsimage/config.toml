@@ -1,0 +1,10 @@
+[spider]
+id = 30
+spider_name = "SpeedFanaticsImage"
+domain = "none.com"
+description = "Scrape images of products for speed fanatics site"
+
+[models]
+table_names = []
+
+[params]

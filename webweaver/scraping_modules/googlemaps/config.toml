@@ -1,0 +1,12 @@
+[spider]
+id = 3
+spider_name = "GoogleMaps"
+domain = "maps.google.com"
+description = "Collects data on companies and their reviews."
+
+[models]
+table_names = [
+    "GoogleMapsCompany",
+    "GoogleMapsReview",
+]
+

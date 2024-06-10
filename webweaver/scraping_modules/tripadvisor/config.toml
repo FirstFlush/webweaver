@@ -1,0 +1,10 @@
+[spider]
+id = 17
+spider_name = "TripAdvisor"
+domain = "tripadvisor.com"
+description = "Scrape reviews from tripadvisor"
+
+[models]
+table_names = []
+
+[params]

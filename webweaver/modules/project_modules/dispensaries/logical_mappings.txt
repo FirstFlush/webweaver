@@ -1,0 +1,8 @@
+
+
+
+
+do something at dispensary level    : RulesetHandler
+do something for all spiders        : WeedSpider
+do something at category level      : CategoryHandler
+do something at subcategory level   : SubCategoryHandler

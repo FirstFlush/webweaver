@@ -1,0 +1,190 @@
+
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 16px;
+}
+
+
+body {
+    font-size: 16px;
+    font-family: Arial, sans-serif; /* Using Arial as the primary font, but you can change it */
+    margin: 0;
+    padding: 0;
+    background-color: #FAFAFA;
+    color: #333333;
+    box-sizing: border-box;
+}
+
+input[type="text"] {
+    border-radius: 5px;
+    line-height: 1.5rem;
+    width: 100%;
+}
+
+.mt-1 {
+    margin-top: 0.5rem !important;
+}
+.mt-2 {
+    margin-top: 1rem !important;
+}
+
+.mt-3 {
+    margin-top: 1.5rem !important;
+}
+
+.mt-4 {
+    margin-top: 2rem !important;
+}
+
+.mb-1 {
+    margin-bottom: 0.5rem !important;
+}
+.mb-2 {
+    margin-bottom: 1rem !important;
+}
+
+.mr-2 {
+    margin-right: 1rem !important;
+}
+
+.fr {
+    float:right;
+}
+
+.label-font {
+    font-weight: 600;
+    font-size: 95%;
+}
+
+.red {
+    color: red;
+}
+
+.small-font {
+    font-size: 85%;
+    font-weight: 600;
+}
+
+.smaller-font {
+    font-size: 80%;
+    font-weight: 600;
+}
+
+#param-form {
+    width: 25rem;
+    margin: 2rem;
+}
+
+#spider-form {
+    width:25rem;
+    margin: 2rem;
+}
+
+.input-choices {
+    background-color: hsl(0, 0%, 96%);
+    /* background-color: hsl(205, 100%, 91%); */
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.06) 0px 2px 4px 0px inset;
+    margin-bottom: 1rem;
+    border: 2px inset lightgrey;
+}
+
+.input-choices > .input-box {
+    padding: 0.75rem;
+}
+
+/* .input-choices > .input-box {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+} */
+
+.input-choices > .input-box:nth-of-type(2n) {
+    background-color: hsl(205, 75%, 88%)
+}
+
+.form-box {
+    background-color: #DADADA;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+    border-radius: 10px;
+    margin: 1rem;
+    padding: 0.5rem 1rem;
+}
+.form-box-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.form-details {
+    padding: 0.5rem;
+    margin-bottom: 0.75rem;
+    font-size: 90%;
+    /* color: #444444; */
+    background-color: whitesmoke;
+    border-left: 3px solid #0078d0;
+    /* padding-left: 0.5rem; */
+    border-radius: 0 10px 10px 0;
+}
+
+.form-details > div:first-of-type {
+    font-weight:bold;
+    margin-bottom: 0.25rem;
+    color: hsl(205, 75%, 31%);
+
+}
+
+.input-box {
+    padding: 0.5rem 0;
+}
+
+.button-71 {
+  background-color: #0078d0;
+  border: 0;
+  border-radius: 56px;
+  color: #fff;
+  cursor: pointer;
+  display: inline-block;
+  font-family: system-ui,-apple-system,system-ui,"Segoe UI",Roboto,Ubuntu,"Helvetica Neue",sans-serif;
+  font-size: 18px;
+  font-weight: 600;
+  outline: 0;
+  padding: 16px 21px;
+  position: relative;
+  text-align: center;
+  text-decoration: none;
+  transition: all .3s;
+  user-select: none;
+  width: 100%;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-71:before {
+  background-color: initial;
+  background-image: linear-gradient(#fff 0, rgba(255, 255, 255, 0) 100%);
+  border-radius: 125px;
+  content: "";
+  height: 50%;
+  left: 4%;
+  opacity: .5;
+  position: absolute;
+  top: 0;
+  transition: all .3s;
+  width: 92%;
+}
+
+.button-71:hover {
+  box-shadow: rgba(255, 255, 255, .2) 0 3px 15px inset, rgba(0, 0, 0, .1) 0 3px 5px, rgba(0, 0, 0, .1) 0 10px 13px;
+  transform: scale(1.05);
+}
+
+@media (min-width: 768px) {
+  .button-71 {
+    padding: 16px 48px;
+  }
+}

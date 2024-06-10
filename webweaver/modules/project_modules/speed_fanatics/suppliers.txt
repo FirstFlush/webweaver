@@ -1,0 +1,82 @@
+SUPPLIERS
+
+DT Tire
+Essex parts
+Fastco
+Hoosier Tire
+Innovative Pro Design
+LN Engineering
+Michelin Tires (Curtis Custom Wheel)
+SoulPP
+McGill Motor Sport (STR Racing Products)
+Verus Engineering
+* not a supplier lol The Wheel Shop
+
+
+
+
+
+DT Tire
+=======================================
+dttirehub.ca
+USER 	7789960970 
+PASS 	7789960970 
+
+
+Essex Parts
+=======================================
+essexparts.com
+
+
+Fastco
+=======================================
+https://fastco.ca/Fastco-Canada/Login
+USER	speedfanatics@hotmail.com
+PASS	AGracing5!
+
+
+Innovative Pro Design
+=======================================
+https://www.ipdplenums.com/
+
+
+Hoosier Tire
+=======================================
+hoosiertire.com
+-prices in USD
+
+
+LN Engineering
+=======================================
+lnengineering.com
+-pdf
+-'jobber price' is our cost
+
+
+McGill Motor Sport (STR Racing Products)
+=======================================
+mcgillmotorsport.com
+
+
+Michelin Tires
+=======================================
+https://dealer.curtiscustomwheel.com/WebOrder/
+USER	S11651
+PASS	temp lol
+
+
+Soul Performance Products
+=======================================
+https://soulpp.com
+
+
+Verus Engineering
+=======================================
+https://verusengineering.com
+PASS AGracing5
+
+
+The Wheel Shop
+=======================================
+https://thewheelshop.ca
+creds?

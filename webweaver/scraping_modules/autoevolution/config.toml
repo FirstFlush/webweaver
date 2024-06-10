@@ -1,0 +1,10 @@
+[spider]
+id = 28
+spider_name = "AutoEvolution"
+domain = "autoevolution.com"
+description = "Database of vehicle makes/models/years"
+
+[models]
+table_names = []
+
+[params]

@@ -1,0 +1,131 @@
+<?xml version='1.0' encoding='utf-8'?>
+<data>
+  <row>
+    <company_name>Absolute Roof Solutions</company_name>
+    <address>1676 W 75th Ave</address>
+    <phone>(604) 263-0334</phone>
+    <url>https://absoluteroof.ca</url>
+    <review_score>4.7</review_score>
+    <review_count>134</review_count>
+  </row>
+  <row>
+    <company_name>Max Roofing</company_name>
+    <address>2922 East Kent Ave S #15</address>
+    <phone>(778) 800-6295</phone>
+    <url>https://maxroofingbc.ca</url>
+    <review_score>5.0</review_score>
+    <review_count>45</review_count>
+  </row>
+  <row>
+    <company_name>Cambie Roofing Contractors Ltd</company_name>
+    <address>1367 East Kent Ave N</address>
+    <phone>(604) 261-1111</phone>
+    <url>https://cambieroofing.com</url>
+    <review_score>4.1</review_score>
+    <review_count>74</review_count>
+  </row>
+  <row>
+    <company_name>Kerrisdale Roofing And Drains Ltd.</company_name>
+    <address>8279 Ross St</address>
+    <phone>(604) 360-2114</phone>
+    <url>http://kerrisdaleroofinganddrains.com</url>
+    <review_score>4.7</review_score>
+    <review_count>26</review_count>
+  </row>
+  <row>
+    <company_name>Tymey Roofing</company_name>
+    <address>Roofing contractor</address>
+    <phone>(604) 376-5101</phone>
+    <url/>
+    <review_score>5.0</review_score>
+    <review_count>43</review_count>
+  </row>
+  <row>
+    <company_name>Fraserview Roofing and Renovation</company_name>
+    <address>5907 Culloden St</address>
+    <phone>(604) 897-3614</phone>
+    <url>http://www.fraserviewroofnreno.com</url>
+    <review_score>4.6</review_score>
+    <review_count>21</review_count>
+  </row>
+  <row>
+    <company_name>3 King's Roofing and Renovations Inc.</company_name>
+    <address>4323 Inverness St</address>
+    <phone>(778) 907-1008</phone>
+    <url>https://www.roofing-vancouver.ca</url>
+    <review_score>4.5</review_score>
+    <review_count>44</review_count>
+  </row>
+  <row>
+    <company_name>Regan Roofing Ltd</company_name>
+    <address>8838 Heather St</address>
+    <phone>(604) 324-1574</phone>
+    <url>https://www.reganroofing.ca</url>
+    <review_score>4.4</review_score>
+    <review_count>7</review_count>
+  </row>
+  <row>
+    <company_name>Laurentian Roofing Inc.</company_name>
+    <address>8165 Main St</address>
+    <phone>(604) 345-7663</phone>
+    <url>https://www.laurentianroofing.com</url>
+    <review_score>5.0</review_score>
+    <review_count>7</review_count>
+  </row>
+  <row>
+    <company_name>Cooper Roofing</company_name>
+    <address>1285 W Broadway #600</address>
+    <phone>(604) 674-0319</phone>
+    <url>https://cooperroofs.ca</url>
+    <review_score>4.8</review_score>
+    <review_count>114</review_count>
+  </row>
+  <row>
+    <company_name>M &amp; B Roofing Ltd.</company_name>
+    <address>11180 Bridgeport Rd</address>
+    <phone>(778) 862-7305</phone>
+    <url>http://www.mbroofing.ca</url>
+    <review_score>5.0</review_score>
+    <review_count>17</review_count>
+  </row>
+  <row>
+    <company_name>Stormrider Roof Repairs</company_name>
+    <address>3665 Kingsway Suite # 300</address>
+    <phone>(604) 803-2808</phone>
+    <url>https://stormrider604.com</url>
+    <review_score>4.6</review_score>
+    <review_count>26</review_count>
+  </row>
+  <row>
+    <company_name>Next Level Roofing &amp; Solar</company_name>
+    <address>6683 Tantalus Ln</address>
+    <phone>(236) 300-8191</phone>
+    <url>http://www.nextlevelroofing.ca</url>
+    <review_score>4.8</review_score>
+    <review_count>13</review_count>
+  </row>
+  <row>
+    <company_name>Roy Dennis Roofing</company_name>
+    <address>2420 Viscount Way</address>
+    <phone>(604) 278-0442</phone>
+    <url>http://roydennisroofing.ca</url>
+    <review_score>4.6</review_score>
+    <review_count>32</review_count>
+  </row>
+  <row>
+    <company_name>Millwall Roofing</company_name>
+    <address>2090 W 1st Ave</address>
+    <phone>(604) 763-1930</phone>
+    <url>http://www.millwallroofing.com</url>
+    <review_score>4.9</review_score>
+    <review_count>124</review_count>
+  </row>
+  <row>
+    <company_name>GVRD Roofing Inc</company_name>
+    <address>1917 W 4th Ave</address>
+    <phone>(604) 445-4873</phone>
+    <url>https://gvrdroofing.com</url>
+    <review_score>4.7</review_score>
+    <review_count>104</review_count>
+  </row>
+</data>

@@ -1,0 +1,10 @@
+[spider]
+id = 26
+spider_name = "Fastco"
+domain = "fastco.ca"
+description = "Speed Fanatics supplier tires/wheels"
+
+[models]
+table_names = []
+
+[params]

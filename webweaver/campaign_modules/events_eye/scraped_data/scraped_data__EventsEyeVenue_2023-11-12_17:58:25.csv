@@ -1,0 +1,733 @@
+id,venue_name,city,state
+689,Sonoma County Fairgrounds,Santa Rosa,CA
+690,"Hotel Grand Premium Brisa, Salvador - Bahia",Salvador da Bahia,
+691,Bossier City Civic Center,Bossier City,LA
+692,Floyd County 4-H Fairground,New Albany,IN
+693,Kay Bailey Hutchison - Dallas Convention Center,Dallas,TX
+694,"Surrey, BC",Surrey,BC
+695,We-Ko-Pa Resort & Conference Center,Scottsdale,AZ
+696,"American Legion Building, Jacksonville",Camp Lejeune,NC
+697,Volusia County Fairgrounds Deland,DeLand,FL
+698,Knoxville Expo Center,Knoxville,TN
+699,Indiana Convention Center,Indianapolis,IN
+700,Ozark Empire Fairgrounds & Event Center,Springfield,MO
+701,Mississippi Trademart Center,Jackson,MS
+702,Delaware County Fairgrounds,Muncie,IN
+703,Jim R. Miller Park & Event Center,Marietta,GA
+704,Pontchatrain Convention & Civic Center,New Orleans,LA
+705,Lake County Fairgrounds Eustis,Orlando,FL
+706,Marriott Puerto Vallarta Resort & Spa,Puerto Vallarta,
+707,Miami Beach Convention Center,Miami,FL
+708,Sheraton Atlanta Hotel,Atlanta,GA
+709,"Municipal Event Center, Marion",Marion,NC
+710,Duluth Entertainment Convention Center,Duluth,MN
+711,El Hasa Shrine Temple,Ashland,KY
+712,Thurston County Fairgrounds,Lacey,WA
+713,MID-TN Expo Center,Murfreesboro,TN
+714,South Carolina State Fairgrounds,Columbia,SC
+715,Palm Beach County Convention Center,Palm Beach,FL
+716,"New Orleans, LA",New Orleans,LA
+717,Las Vegas Motor Speedway,Las Vegas,NV
+718,VFW Post 534,Joplin,MO
+719,Prime Osborn Convention Center,Jacksonville,FL
+720,Marymount Event Center,Tacoma,WA
+721,"National Guard Armory, Wilmington",Wilmington,NC
+722,"National Guard Armory, Lenoir, TN",Lenoir,TN
+928,"Atlanta, GA",Atlanta,GA
+723,Johnson County Sheriff's Posse,Cleburne,TX
+724,Expo Center Shawnee - Heart of Oklahoma Exposition Center,Oklahoma City,OK
+725,NC State Fairgrounds,Raleigh,NC
+726,"Aqua Hotel, Miami",Miami,FL
+727,Lafayette Event Center,Lafayette,LA
+728,Kentucky Exposition Center,Louisville,KY
+729,Faulkner County Fairgrounds,Conway,AR
+730,"Toronto, ON",Toronto,ON
+731,Georgia World Congress Center,Atlanta,GA
+732,DeChoice Banquet Hall and Events,Forest Park,GA
+733,Haywood County Fairgrounds,Asheville,NC
+734,Dulles Expo & Conference Center,Fairfax,VA
+735,Banquets of Minnesota,Fridley,MN
+736,Howard County Fairgrounds,Baltimore,MD
+737,Atlanta Exposition Center,Atlanta,GA
+738,Savannah International Trade & Convention Center,Savannah,GA
+739,Williamson County Expo Center,Georgetown,TX
+740,Kentucky International Convention Center,Louisville,KY
+741,Hilton San Francisco Union Square,San Francisco,CA
+742,Renaissance Schaumburg Hotel,Schaumburg,IL
+743,Portland Expo Center,Portland,OR
+744,Norris-Penrose Event Center,Colorado Springs,CO
+745,Charlotte County Fairgrounds,Port Charlotte,Fl
+746,Austin Convention Center,Austin,TX
+747,Western N.C. Agricultural Center,Fletcher,NC
+748,"Orlando, FL",Orlando,FL
+749,"Sarasota, FL",Sarasota,FL
+750,Monona Terrace Convention Center,Madison,WI
+751,Ohio Expo Center & State Fair,Columbus,OH
+752,Brittlebank Park and Bristol Marina,Charleston,SC
+753,Iron 23,New York,NY
+754,Columbia Metropolitan Convention Center,Columbia,SC
+755,Riverside Convention Center,Riverside,CA
+756,New Braunfels Civic & Convention Center,New Braunfels,TX
+757,Sturbridge Host Hotel & Conference Center,Sturbridge,MA
+758,Lee Civic Center,Fort Myers,FL
+759,Suburban Collection Showplace,Novi,MI
+760,Toyota Oakdale Theatre,Bristol,CT
+761,Baltimore Convention Center,Baltimore,MD
+762,New Jersey Convention & Exposition Center,Edison,NJ
+763,Greenville Convention Center,Greenville,NC
+764,Boston Convention & Exhibition Center,Boston,MA
+765,Best Western Inn At Hunt's Landing,Matamoras,PA
+766,Canadian Warplane Heritage Museum,Hamilton,ON
+767,Fox Cities Exhibition Center,Appleton,WI
+768,Meadow Event Park,Richmond,VA
+769,Ernst & Young Centre,Ottawa,ON
+770,Miami Marine Stadium Park & Basin,Miami,FL
+771,Espace Saint-Hyacinthe - Centre BMO,Saint-Hyacinthe,QC
+772,Earth Expo & Convention Center,Norwich,CT
+773,Charlotte Convention Center,Charlotte,NC
+774,"RBC Convention Centre, Winnipeg",Winnipeg,MB
+775,Caesars Palace,Las Vegas,NV
+776,VFW Fairground Complex,Carrollton,GA
+777,Hilton Orlando Bonnet Creek,Orlando,FL
+778,"Tempe, AZ",Tempe,AZ
+779,Mahaffey Theater Yacht Basin,St. Petersburg,FL
+780,La Fonda Hotel,Santa Fe,NM
+781,Hyatt Regency Minneapolis,Minneapolis,MN
+782,Halifax Exhibition Centre,Halifax,NS
+783,"San Diego, CA",San Diego,CA
+784,Expo Guadalajara,Guadalajara,
+785,Center 415,New York,NY
+786,"Miami, FL",Miami,FL
+787,Tacoma Dome,Tacoma,WA
+788,Better Living Center,Springfield,MA
+789,Sioux Falls Convention Center,Sioux Falls,SD
+790,Vancouver Convention Centre,Vancouver,BC
+791,The Ritz-Carlton Golf Resort,Naples,FL
+792,Lyon County Fairgrounds,Emporia,KS
+793,Canterbury Park,Shakopee,MN
+794,Charleston Area Convention Center,Charleston,SC
+795,Gaylord Texan Resort & Convention Center,Grapevine,TX
+796,Bloomington Armory,Minneapolis,MN
+797,AT&T Hotel and Conference Center,Austin,TX
+798,"Los Angeles, CA",Los Angeles,CA
+799,Sacramento Convention Center,Sacramento,CA
+800,San Diego Mission Bay Resort,San Diego,CA
+801,Salem Civic Center,Salem,VA
+802,Extraco Events Center,Waco,TX
+803,Anaheim Convention Center,Anaheim,CA
+804,Chevy Chase Country Club Wheeling,Chicago,IL
+805,Montgomery County Event Center,Dayton,OH
+806,MS Coast Coliseum,Biloxi,MS
+807,"Las Vegas, NV",Las Vegas,NV
+808,Cabarrus Arena & Events Center Concord,Concord,NC
+809,Best Western Royal Plaza Trade Center Marlborough,Worcester,MA
+810,Macon County Recreation Park,Franklin,NC
+811,Havana,Havana,
+812,Coosa Valley Fairgrounds,Rome,GA
+813,Colorado School of Mines,Denver,CO
+814,Carapina Centro de Eventos,Serra,Espírito Santo
+815,Naples Exhibition Center,Naples,FL
+816,Charleston Civic Center,Charleston,WV
+817,Decatur County Fairgrounds,Parsons,TN
+818,"Boulder, CO",Boulder,CO
+819,Greensboro Coliseum Complex,Greensboro,NC
+820,BC Place Stadium,Vancouver,BC
+821,America's Center Convention Complex,St. Louis,MO
+822,Kansas City Convention Center,Kansas City,MO
+823,Meadowlands Exposition Center,New York,NY
+824,NRG Park,Houston,TX
+825,Garland County Fairgrounds,Hot Springs,AR
+826,"The International Centre, Toronto",Toronto,ON
+827,Washington State Fair Events Center,Puyallup,WA
+828,Greater Richmond Convention Center,Richmond,VA
+829,Marine Corps Base - Camp Pendleton,Camp Pendleton,CA
+830,Pooler-Cottonwood Conference Center,Pooler,GA
+831,The Ranch - Larimer County Fairgrounds,Loveland,CO
+832,WNC Agricultural Center,Asheville,NC
+833,"National GuardArmy, Maryville",Maryville,TN
+834,Moscone Convention Center,San Francisco,CA
+835,Cintermex,Monterrey,
+836,"Houston, TX",Houston,TX
+837,Lancaster Event Center,Lincoln,NE
+838,Dripping Springs Ranch Park and Event Center,Austin,TX
+839,Ector County Coliseum Complex,Odessa,TX
+840,"Tampa, FL",Tampa,FL
+841,Rogers Convention Center,Rogers,AR
+842,Royal Plaza Hotel & Trade Center,Marlborough,MA
+843,Heinz Field,Pittsburgh,PA
+844,Westland Mall,Columbus,OH
+845,Seatle Convention Center,Seattle,WA
+846,"The Madison Hotel, Washington, DC",Washington D.C.,
+847,The Mart,Chicago,IL
+848,Palm Springs Convention Center,Palm Springs,CA
+849,Exchange Club Fairgrounds,Brunswick,GA
+850,La Crosse Center,La Crosse,WI
+851,Jacksonville Fairgrounds - Expo Center,Jacksonville,FL
+852,The INK 48 Hotel,New York,NY
+853,Bayfield Community Centre,Barrie,ON
+854,Dallas Market Center,Dallas,TX
+855,Station 1 Event Center,Zimmerman,MN
+856,"Crown Expo Center, Fayetteville",Fayetteville,NC
+857,"Stade Olympique, Montréal",Montreal,QC
+858,"U.S. Bank Stadium, Minneapolis",Minneapolis,MN
+859,"Montreal, QC",Montreal,QC
+860,American Royal Center,Kansas City,MO
+861,Dayton Airport Expo Center,Dayton,OH
+862,Furniture and Things Event Center,Elk River,MN
+863,Seattle Center,Seattle,WA
+864,The Venetian Resort and Hotel,Las Vegas,NV
+865,Birmingham-Jefferson Convention Complex,Birmingham,AL
+866,Event Center at Twin River Casino,Lincoln,RI
+867,Raleigh Convention Center,Raleigh,NC
+868,Douglas County Fairgrounds,Castle Rock,CO
+869,Metropolitan Pavilion,New York,NY
+870,Wynwood Arts District,Miami,FL
+871,International Agri-Center,Tulare,CA
+872,Earth Expo & Covention Center at Mohegan Sun,Uncasville,CT
+873,"NYS Fairgrounds - Syracuse, NY",Syracuse,NY
+874,Wisconsin Center,Milwaukee,WI
+875,Intercontinental Miami,Miami,FL
+876,Centro de Congresos Queretaro,Querétaro,
+877,"Nashville, TN",Nashville,TN
+878,"Hyatt Regency, Indian Wells Resort & Spa",Indian Wells,CA
+879,DCU Center,Worcester,MA
+880,"Hotel Bonaventure, Montréal",Montreal,QC
+881,Hasin Shrine Temple,Albany,GA
+882,Kern County Fair,Bakersfield,CA
+883,Eastlink Centre,Charlottetown,PE
+884,Reno-Sparks Convention Center,Reno,NV
+885,EAA Wearhouse,Oshkosh,WI
+886,"Calgary, AB",Calgary,AB
+887,"Palm Harbor, FL",Palm Harbor,FL
+888,"Western Fair, Canada Building",London,ON
+889,Conexus Arts Centre,Regina,SK
+890,The Alamodome,San Antonio,TX
+891,San Diego Convention Center,San Diego,CA
+892,Town and Country Resort & Convention Center,San Diego,CA
+893,Atlantic City Convention Center,Atlantic City,NJ
+894,San Jose McEnery Convention Center,San Jose,CA
+895,Feria Exposicion de Santa Cruz,Santa Cruz de la Sierra,
+896,The Westin Cleveland Downtown,Cleveland,OH
+897,"Ottawa, ON",Ottawa,ON
+898,"Fredericton, NB",Fredericton,NB
+899,The Bonita Springs Poker Room,Bonita Springs,FL
+900,"JW Marriott Turnberry, Miami, FL",Miami,FL
+901,"Mississauga, ON",Mississauga,ON
+902,Catamaran Resort Hotel & Spa,San Diego,CA
+903,Marriott Marquis Hotel,New York,NY
+904,Campo de exposición Agrobaja,Mexicali,
+905,Polo Caruaru,Caruaru,
+906,Henry B. Gonzalez Convention Center,San Antonio,TX
+907,Wahabi Shriners Center,Jackson,MS
+908,Hilton Raleigh North Hills,Raleigh,NC
+909,Palacio de Convenciones de la Habana,Havana,
+910,Del Mar Fairgrounds,Del Mar,CA
+911,Cox Convention Center,Oklahoma City,OK
+912,Club Xochimilco Acalli,Mexico City,
+913,Mobile Civic Center,Mobile,AL
+914,Texas Motor Speedway,Fort Worth,TX
+915,Predio Ferial y Autódromo de San Nicolás,San Nicolás de los Arroyos,
+916,Bend Xpo,East Moline,IL
+917,Pasadena Convention Center,Pasadena,CA
+918,"Winnipeg, MB",Winnipeg,MB
+919,Prairieland Park,Saskatoon,SK
+920,Fort Worth Convention Center,Fort Worth,TX
+921,Greater Tacoma Convention & Trade Center,Tacoma,WA
+922,Onalaska OmniCenter,Onalaska,WI
+923,Arapahoe County Fairgrounds and Event Center,Denver,CO
+924,Richmond Raceway Complex,Richmond,VA
+925,"The Westin Santa Fe, Mexico City",Mexico City,
+926,Missouri State Fairgrounds Publicity,Sedalia,MO
+927,"Industry City, Brooklyn",New York,NY
+929,Haddad's Inc.,Pittsburgh,PA
+930,"Holiday Inn Hotel, Dedham, MA",Dedham,MA
+931,Panama Convention Center,Panama City,
+932,Ferndale Events Center,Bellingham,WA
+933,Fenac Exhibition grounds,Novo Hamburgo,
+934,Ontario Convention Center,Riverside,CA
+935,Chippewa Valley Expo,Eau Claire,WI
+936,Deschutes County Fair & Expo Center,Redmond,OR
+937,Georgia International Convention Center - GICC,Atlanta,GA
+938,Miami Airport & Convention Center,Miami,FL
+939,"The Westin Houston, Memorial City",Houston,TX
+940,Eastern States Exposition Grounds,West Springfield,MA
+941,Bogotá,Bogotá,
+942,"World Equestrian Center, Ocala, FL",Ocala,FL
+943,Querétaro Centro de Congresos,Querétaro,
+944,Hilton Stamford Hotel & Executive Meeting Center,Stamford,CT
+945,Moncton Coliseum Complex,Moncton,NB
+946,Buffalo Nigara Convention Center,Buffalo,NY
+947,"Kitchener, ON",Kitchener,ON
+948,Hickory Metro Convention Center,Lenoir,NC
+949,Lewis & Clark County Fairgrounds,Helena,MT
+950,Sheraton Bogotá,Bogotá,
+951,"Harbour Station, Saint  John",Saint John,NB
+952,Jackson County Fairgrounds & Ariculture Center,Jefferson,GA
+953,Industry City,New York,NY
+954,The Westin Lombard Yorktown Center,Chicago,IL
+955,Egon Júlio Goelzer Exhibition Park,Três Passos,
+956,Clyde Muse Center,Pearl,MS
+957,"Hotel Riu Plaza, Panama",Panama City,
+958,"Colorado Springs, CO",Colorado Springs,CO
+959,Transamérica Expo Center,São Paulo,
+960,Centre des Congrès de Québec,Quebec City,QC
+961,Santiago,Santiago,
+962,The Westin Rancho Mirage Golf Resort & Spa,Palm Springs,CA
+963,San Francisco Marriott Marquis,San Francisco,CA
+964,"Parque de exposições, Rio Pardo",Rio Pardo,
+965,El Dorado International Airport,Bogotá,
+966,Las Américas Resort and Convention Center,Cartagena,
+967,Courtyard by Marriott Boston Downtown,Boston,MA
+968,Maple Grove Community Center,Maple Grove,MN
+969,Shopping RioMar,Recife,
+970,Lima,Lima,
+971,Hastings Armory,Hastings,MN
+972,Calle de servicio 200,Puerto Montt,
+973,Washington County Fair Grounds,West Bend,WI
+974,Pennsylvania Convention Center,Philadelphia,PA
+975,MSU Pavilion,Lansing,MI
+976,Irving Convention Center,Irving,TX
+977,Madison Marriott West,Madison,WI
+978,Empower Field House,Foxborough,MA
+979,Renaissance São Paulo Hotel,São Paulo,
+980,Hilton Long Beach,Long Beach,CA
+981,Danbury Sports Dome,Danbury,CT
+982,Palmer Events Center,Austin,TX
+983,Eagan Community Center,Eagan,MN
+984,Carney Island Recreation & Conservation Area,Ocala,FL
+985,Findlay Toyota Center,Prescott Valley,AZ
+986,Gaylord Palms Resort & Convention Center,Orlando,FL
+987,Medellin,Medellin,
+988,National Western Complex,Denver,CO
+989,Chicago Marriott O'Hare,Chicago,IL
+990,Rosen Plaza Hotel,Orlando,FL
+991,Downtown Flagler Drive,Palm Beach,FL
+992,Whipp Farm,Cleburne,TX
+993,Putah Canyon Recreation Area,Napa,CA
+994,Hartford XL Center,Hartford,CT
+995,"Renasant Convention Center, Memphis",Memphis,TN
+996,Pictou County Wellness Centre,New Glasgow,NS
+997,"Minneapolis, MN",Minneapolis,MN
+998,Charles E. Smith Center,Washington D.C.,
+999,NYSE - New York Stock Exchange,New York,NY
+1000,"Hotel Arts, Calgary",Calgary,AB
+1001,Central Bank Center,Lexington,KY
+1002,Capital Exhibit Centre,Fredericton,NB
+1003,Hynes Convention Center,Boston,MA
+1004,Hasse Arena,Lakeville,MN
+1005,"Portland, OR",Portland,OR
+1006,"Cal Expo, Sacramento",Sacramento,CA
+1007,Ice Arena Antigo,Antigo,WI
+1008,Aeropuerto Internacional Arturo Merino Benítez,Santiago,
+1009,Kossiakoff Center at Johns Hopkins University,Laurel,MD
+1010,Victoria Recreation Center,Victoria,MN
+1011,Hyatt Regency Coconut Point,Bonita Springs,FL
+1012,Orange County Convention Center,Baltimore,MD
+1013,Stewart Hotel New York,New York,NY
+1014,Chicago Marriott Oak Brook,Chicago,IL
+1015,Bay Bridge Marina Stevensville,Annapolis,MD
+1016,Batesville Civic Center,Batesville,MS
+1017,Hyatt Regency San Francisco Airport,San Francisco,CA
+1018,Hyatt Regency Mission Bay Spa and Marina Hyatt Regency Mission Bay Spa and Marina,San Diego,CA
+1019,Mana Wynwood Convention Center,Miami,FL
+1020,Huntington Place Convention Center,Detroit,MI
+1021,"Grapevine, TX",Grapevine,TX
+1022,Better Living Centre,Toronto,ON
+1023,Meadowlands Expo Center Secaucus,Jersey City,NJ
+1024,"Fort Worth, TX",Fort Worth,TX
+1025,UF Scripps Biomedical Research - University of Florida,Jupiter,FL
+1026,Rosen Shingle Creek Resort,Orlando,FL
+1027,Centrexpo Cogeco Drummondville,Drummondville,QC
+1028,Central Wisconsin Convention & Expo Center,Wausau,WI
+1029,Hippodrome Ice Arena,White Bear Lake,MN
+1030,Marina Jack's,Sarasota,FL
+1031,Centro Internacional de Ferias y Convenciones,San Salvador,
+1032,Gaylord National Resort and Convention Center,National Harbor,MD
+1033,The Wanamaker Building,Philadelphia,PA
+1034,Waukesha County Expo Center,Milwaukee,WI
+1035,Parque Municipal de Exposições Alfredo Leandro Carlson,Santa Rosa,
+1036,Live! Casino & Hotel Philadelphia,Philadelphia,PA
+1037,Park Hyatt Chicago,Chicago,IL
+1038,Fundaparque,Bento Gonçalves,
+1039,Annapolis City Dock,Annapolis,MD
+1040,Mazatlán International Center,Mazatlán,
+1041,Ontario International Airport,Ontario,CA
+1042,Topsfield Fairgrounds,Topsfield,MA
+1043,Fairmont San Francisco Hotel,San Francisco,CA
+1044,Fort Mason Center,San Francisco,CA
+1045,Fontainebleau Resort Las Vegas,Las Vegas,NV
+1046,Rath Eastlink Community Centre,Truro,NS
+1047,Von Braun Center,Huntsville,AL
+1048,Spruce Meadows,Calgary,AB
+1049,Fazenda Sol Nascente,Balsas,
+1050,Centro Tecnológico Vandeci Rack,Ji-Paraná,
+1051,Parc 55 Hotel,San Francisco,CA
+1052,Sheraton Philadelphia Downtown Hotel,Philadelphia,PA
+1053,Mukwonago Field Park,Mukwonago,WI
+1054,"World Market Center, Las Vegas",Las Vegas,NV
+1055,Omni Frisco Hotel,Frisco TX,
+1056,Fort Pontchartrain a Wyndham Hotel,Detroit,MI
+1057,Poliforum Leon,León,
+1058,HealthEast Sports Center,Woodbury,MN
+1059,Meydenbauer Center,Bellevue,WA
+1060,New York Pier 90,New York,NY
+1061,Expo Unimed Curitiba,Curitiba,
+1062,Centre Jean-Daigle,Edmundston,NB
+1063,UQAC pavillon sportif,Saguenay,QC
+1064,"The Westin Copley Place, Boston",Boston,MA
+1065,"National Guard Armory, Covington",Covington,TN
+1066,Westin Boston Seaport District,Boston,MA
+1067,Commissioners Park,Ottawa,ON
+1068,Park Avenue Armory,New York,NY
+1069,The Westin Arlington Gateway,Washington D.C.,
+1070,"Seaport Hotel, Boston",Boston,MA
+1071,Mexico World Trade Center,Mexico City,
+1072,World Trade Center São Paulo,São Paulo,
+1073,White Oaks Conference Resort,Niagara Falls,ON
+1074,Ibirapuera Park,São Paulo,
+1075,"San Jose, CA",San Jose,CA
+1076,Denver Merchandise Mart,Denver,CO
+1077,JW Marriott Desert Springs Resort & Spa,Palm Springs,CA
+1078,Chicago Journeyman Plumbers Union Hall,Chicago,IL
+1079,Hilton Toronto,Toronto,ON
+1080,Morgan MFG,Chicago,IL
+1081,NRG Center,Houston,TX
+1082,Norris Conference Centers - Houston CityCentre,Houston,TX
+1083,"South Point Hotel, Casino and Spa",Las Vegas,NV
+1084,The Studios at Paramount,Los Angeles,CA
+1085,El Paso Convention and Performing Art Center,El Paso,TX
+1086,Parque Vila Germanica,Blumenau,
+1087,Eagle River Stadium,Eagle River,WI
+1088,Cool Springs Galleria,Franklin,TN
+1089,Gare Windsor,Montreal,QC
+1090,Racine Zoo on Lake Michigan,Racine,WI
+1091,Wynn Las Vegas Resort,Las Vegas,NV
+1092,Hyatt Regency Orlando,Orlando,FL
+1093,"Anaheim, CA",Anaheim,CA
+1094,Recinto Ferial y de Actividades Comunitarias AIA,Antofagasta,
+1095,Pacific National Exhibition,Vancouver,BC
+1096,Orange County Convention Center,Las Vegas,NV
+1097,Iowa State Fairgrounds,Des Moines,IA
+1098,Greater Ft. Lauderdale - Broward County Convention Center,Fort Lauderdale,FL
+1099,Aréna Jacques-Laperrière et Réjean Houle,Rouyn-Noranda,QC
+1100,Fort Lauderdale War Memorial Auditorium,Fort Lauderdale,FL
+1101,Chicago Marriott Schaumburg,Chicago,IL
+1102,"Intercontinental Chicago Magnificent Mile, Chicago",Chicago,IL
+1103,Hilton Washington DC National Mall The Wharf,Washington D.C.,
+1104,Expo Santa Fe México CDMX,Mexico City,
+1105,Intercontinental Santiago,Santiago,
+1106,Mirage Event Center,Indianapolis,IN
+1107,"Marriott Hotel, Schaumburg",Schaumburg,IL
+1108,CenturyLink Field Event Center,Seattle,WA
+1109,The Westin Lake Las Vegas Resort & Spa,Las Vegas,NV
+1110,"Fairmont Century Plaza, Los Angeles",Los Angeles,CA
+1111,São Paulo,São Paulo,
+1112,Sunbridge Hotel and Conference Center,Sarnia,ON
+1113,"Reno, NV",Reno,NV
+1114,Aéroport de Montréal Saint-Hubert Longueuil,Montreal,QC
+1115,Parque Anhembi,São Paulo,
+1116,Cancún Center,Cancún,
+1117,Hilton Mexico City Reforma,Mexico City,
+1118,Salt Palace Convention Center,Salt Lake City,UT
+1119,UIC Forum,Chicago,IL
+1120,Westin Atlanta Perimeter North,Atlanta,GA
+1121,Sheraton Vancouver Wall Centre,Vancouver,BC
+1122,"Cancún-Riviera Maya, México",Cancún,
+1123,Caroline Country Fairgrounds,Richmond,VA
+1124,Renaissance Dallas Richardson Hotel,Dallas,TX
+1125,Gaylord National Hotel & Convention Center,Washington D.C.,
+1126,Twin Lakes Park Westmoreland,Pittsburgh,PA
+1127,Ludington's Rotary Park,Ludington,MI
+1128,Mystic Seaport,Norwich,CT
+1129,Buenos Aires,Buenos Aires,
+1130,Allen County War Memorial Coliseum,Fort Wayne,IN
+1131,Kutztown Fairgrounds,Reading,PA
+1132,"Cedar City, UT",Cedar City,UT
+1133,"West Grand Traverse Bay, Lake Michigan",Traverse City,MI
+1134,Nathan Phillips Square,Toronto,ON
+1135,"Muskegon, MI",Muskegon,MI
+1136,Hotel Van Zandt,Austin,TX
+1137,"Weld County Fairgrounds, Greeley",Greeley,CO
+1138,Cedar Creek Lake,Corsicana,TX
+1139,"Weatherford, TX",Weatherford,TX
+1140,"Williams Lake, Hudson Valley",Kingston,NY
+1141,Marriott Tampa Westshore,Tampa,FL
+1142,Penn State University Campus,State College,PA
+1143,"Eden Roc Hotel, Miami Beach",Miami,FL
+1144,The Lakeland Center,Lakeland,FL
+1145,Indianapolis Marriott East,Indianapolis,IN
+1146,Schoenecker Arena,St. Paul,MN
+1147,Pioneer Park,Brookings,SD
+1148,Rabun County Civic Center,Clayton,GA
+1149,Burning Man Gathering,Reno,NV
+1150,Monterey Conference Center,Monterey,CA
+1151,Iola Old Car Show - Show Grounds,Iola,WI
+1152,Diplomat Resort & Spa Hollywood,Hollywood,FL
+1153,Gaylord Palms Resort and Convention Center,Kissimmee,FL
+1154,Terranea Resor,Rancho Palos Verdes,CA
+1155,Genesee Park / Lac Washington,Seattle,WA
+1156,Palo Alto Art Center,Palo Alto,CA
+1157,Museum Hill,Santa Fe,NM
+1158,"Haddonfield, NJ",Haddonfield,NJ
+1159,"Novotel Sao Paulo, Center Norte",São Paulo,
+1160,Guilford Art Center,Farmington,CT
+1161,Keystone Conference Center,Dillon,CO
+1162,Aspen Ice Garden,Aspen,CO
+1163,Gaylord Rockies Resort & Convention Center,Denver,CO
+1164,DoubleTree By Hilton Bogota Salitre AR,Bogotá,
+1165,Bridgehampton Museum,Bridgehampton,NY
+1166,Esther Short Park,Vancouver,WA
+1167,Centro de Eventos Valle del Pacifico,Cali,
+1168,"Redwood Falls, MN",Redwood Falls,MN
+1169,WestWorld of Scottsdale Phoenix,Phoenix,AZ
+1170,Springdale Holiday Inn Convention Center,Springdale,AR
+1171,Anoka Area Ice Arena,Roseville,MN
+1172,Green Bay Austin Straubel International Airport,Green Bay,WI
+1173,Schaumburg Convention Center,Schaumburg,IL
+1174,Espace 400e,Quebec City,QC
+1175,Castlewood Country Club Pleasanton,Pleasanton,CA
+1176,Centro de Eventos Zanini,Sertãozinho,
+1177,"Breckenridge, CO",Breckenridge,CO
+1178,Agricenter International,Memphis,TN
+1179,Duggal Greenhouse,New York,NY
+1180,ExpoMag,Rio de Janeiro,
+1181,Abbington Banquets Glen Ellyn,Chicago,IL
+1182,"Saint-Liboire, QC",Saint-Liboire,QC
+1183,"Raleigh, NC",Raleigh,NC
+1184,Westin Denver Downtown Hotel,Denver,CO
+1185,Villa Ciudad Ferial,Lima,
+1186,"Lake George, NY",Lake George,NY
+1187,Place des Festivals,Montreal,QC
+1188,"Farm Progress Show Gathering, Decatur, IL",Boone,IA
+1189,Parque de Exposição Carlos Caiado Barbosa,Cachoeiro de Itapemirim,
+1190,"Tucson, AZ",Tucson,AZ
+1191,Cartagena de Indias Convention Center,Cartagena,
+1192,"June Lake, CA",June Lake,CA
+1193,Watters Creek Convention Center,Allen,TX
+1194,Universidad Nacional de San Agustin de Arequipa,Arequipa,
+1195,Delta Trois-Rivieres Hotel & Conference Centre,Trois-Rivières,QC
+1196,TCF Center - formely COBO Center,Detroit,MI
+1197,"Hyatt Regency, Boston",San Diego,CA
+1198,Nassau Veterans Memorial Coliseum,Uniondale,NY
+1199,"Pittsburgh, PA",Pittsburgh,PA
+1200,"Saugerties, NY",Saugerties,NY
+1201,Paradisus Hotel,Playa del Carmen,
+1202,Newport Harbor,Newport,RI
+1203,Frank S. Farley State Marina,Atlantic City,NJ
+1204,Hilton Houston Post Oak by the Galleria,Houston,TX
+1205,"Grand Island, NE",Grand Island,NE
+1206,New York Pier 36,New York,NY
+1207,"Ketchikan, AK",Ketchikan,AK
+1208,Suncor Community Leisure Centre,Fort McMurray - Wood Buffalo,AB
+1209,"Schaumburg, IL",Schaumburg,IL
+1210,"The Fairmont Hotel, Dallas",Dallas,TX
+1211,Laurel Fairgrounds,Laurel,MS
+1212,FisrtEnergy Park,Lakewood,NJ
+1213,Hilton Post Oak,Houston,TX
+1214,Greater Columbus Convention Center,Columbus,OH
+1215,Georgia World Congress Center,Los Angeles,CA
+1216,Baha Mar,Nassau,
+1217,Hilton Lac-Leamy,Gatineau,QC
+1218,Drury Lane Theatre,Oak Brook,IL
+1219,"Statler Hotel, Dallas",Dallas,TX
+1220,Norwalk Cove Marina,Norwalk,CT
+1221,Rio de Janeiro,Rio de Janeiro,
+1222,Buenos Aires Marriott Hotel,Buenos Aires,
+1223,Corpus Christi American Bank Center,Corpus Christi,TX
+1224,"C. Baldwin, Houston",Houston,TX
+1225,Centro de Exposiciones Quito,Quito,
+1226,Fargodome,Fargo,ND
+1227,Ventura County Fairgrounds,Ventura,CA
+1228,Stillwater Armory,Woodbury,MN
+1229,National Cattle Congress Hippodrome Auditorium,Waterloo,IA
+1230,Hotel Albuquerque at Old Town,Albuquerque,NM
+1231,Centro Eventos Puente Verde,Santiago,
+1232,Parque de Exposições Conta Dinheiro,Lages,
+1233,"Embassy Suites By Hilton, Seattle",Seattle,WA
+1234,Boston Marriott Burlington,Boston,MA
+1235,Pavilhoes da Festa da Uva,Caxias do Sul,
+1236,"Hotel CCT, Caracas",Caracas,
+1237,Recanto da Cascata,São Roque - SP,
+1238,Grand Quai du Port de Montréal,Montreal,QC
+1239,Bell Harbor International Conference Center,Seattle,WA
+1240,Hawaii Convention Center,Honolulu,HI
+1241,Moody Gardens Convention Center,Galveston,TX
+1242,Trilith Studios,Atlanta,GA
+1243,Roland E. Powell Convention Center,Ocean City,MD
+1244,Peppermill Resort Spa Casino,Reno,NV
+1245,Loews Miami Beach Hotel,Miami,FL
+1246,"Austin, TX",Austin,TX
+1247,South San Francisco Conference Center,San Francisco,CA
+1248,Kansas City Marriott Downtown,Kansas City,MO
+1249,"Clearwater, FL",Clearwater,FL
+1250,Pro Magno Centro de Eventos,São Paulo,
+1251,Boardwalk Beach Resort,Panama City,FL
+1252,Museo de la Nacion,Lima,
+1253,"Paradox Hotel, Vancouver",Vancouver,BC
+1254,Centro de Convenções Frei Caneca,São Paulo,
+1255,Plaza Hotel & Casino,Las Vegas,NV
+1256,Lake Cahuilla Park Palm Springs,La Quinta,CA
+1257,Yarmouth Mariners Centre,Yarmouth,NS
+1258,Hôtel Rimouski and Rimouski convention centre,Rimouski,QC
+1259,Centro de Eventos Sur Activo,Concepción,
+1260,Base Aeronaval Viña del Mar,Valparaiso,
+1261,Clube Hebraica SP,São Paulo,
+1262,Mexico Military Airbase,Mexico City,
+1263,Rionegro,Rionegro,
+1264,FIDAM (Feira Industrial de Americana),Americana,
+1265,Macaé Centro,Macaé,
+1266,CN Centre,Prince George,BC
+1943,Palais Brongniart,Paris,
+1944,Parc des expositions de Vitré,Vitré,
+1945,Tüyap Damsun Fair and Congress Center,Samsun,
+1946,Instituto Ferial de Vigo,Vigo,
+1947,Orleans,Orleans,
+1948,Trixxo Arena,Hasselt,
+1949,Brandboxx Salzburg,Salzburg,
+1950,Zeelandhallen,Goes,
+1951,DeLaMar Theater,Amsterdam,
+1952,Castellana 81,Madrid,
+1953,"Salle des Fêtes, L'Isle-sur-la-Sorgue",L'Isle-sur-la-Sorgue,
+1954,Pivdennyy-Expo,Lviv,
+1955,Radisson Blu Daugava Hotel,Riga,
+1956,IJsselhallen,Zwolle,
+1957,CarraraFiere,Carrara,
+1958,Stuttgart,Stuttgart,
+1959,Dusseldorf,Dusseldorf,
+1960,"Radisson Blu Royal Hotel, Bergen",Bergen,
+1961,Royal Cornwall Showground,Wadebridge,
+1962,Messe Wels,Wels,
+1963,Waregem Expo,Waregem,
+1964,InterContinental Istanbul,Istanbul,
+1965,CPH Conference,Copenhagen,
+1966,Motorwerk Berlin,Berlin,
+1967,Milano Convention Centre - Fiera Milano Congressi,Milan,
+1968,RheinMain CongressCenter,Wiesbaden,
+1969,Halle Tony Garnier,Lyon,
+1970,MEC Millenium Event Center,Braunschweig,
+1971,Exhibition Center Innsbruck,Innsbruck,
+1972,Palais de Beaulieu,Lausanne,
+1973,Île des Impressionnistes,Chatou,
+1974,Trieste Old Port Warehouses,Trieste,
+1975,Parc des expositions de Mâcon,Mâcon,
+1976,Lahti Sports and Trade Fair Centre,Lahti,
+1977,Centre Expo Congrès - Mandelieu-la-Napoule,Mandelieu-La Napoule,
+1978,"Lotte Hotel, Moscow",Moscow,
+1979,Place Miot,Ajaccio,
+1980,Recinte Firal de Girona,Girona,
+1981,Hall 622 - Eventhalle,Zurich,
+1982,WTC Barcelona,Barcelona,
+1983,Bastia,Bastia,
+1984,Espace Dollfus & Noack,Mulhouse,
+1985,Expo Houten,Utrecht,
+1986,Espace des Trois Provinces,Brive-la-Gaillarde,
+1987,ICC - International Convention Center Ghent,Ghent,
+1988,Hilton London Bankside,London,
+1989,Brasov Business Park,Brasov,
+1990,Waterfront Congress Centre,Stockholm,
+1991,Exhibition Complex 'Expocentre',Volgograd,
+1992,Disneyland Resort Paris,Paris,
+1993,"Main Stage, Moscow",Moscow,
+1994,Universitat de Barcelona,Barcelona,
+1995,Vaidilos Theater,Vilnius,
+1996,"O2 Universum, Praha",Prague,
+1997,Rittal Arena Wetzlar,Wetzlar,
+1998,Clayton Hotel Burlington Road,Dublin,
+1999,Parc Expo du Breil,Saumur,
+2000,Espace Mendès France,Saintes,
+2001,Espace Culturel et de Congrès René-Cassin,Fontenay-le-Comte,
+2002,Salle de sport des Gayeulles,Rennes,
+2003,PAMexpo,Court-Saint-Étienne,
+2004,EcoCenter Sokolniki,Moscow,
+2005,Royal Highland Centre,Edinburgh,
+2006,Kameha Grand Hotel Bonn,Bonn,
+2007,Mahón (Balearic Islands),Mahón,
+2008,Bilbao,Bilbao,
+2009,Tottenham Hotspur Stadium,London,
+2010,The Truman Brewery,London,
+2011,AMA Aargauer Messe Aarau - Messegelände,Aarau,
+2012,"Hôtel Intercontinental, Marseille",Marseille,
+2013,Schloss Diedersdorf,Großbeeren,
+2014,Parc des expositions Île l'Aumône,Mantes-la-Jolie,
+2015,Cercle Royal Gaulois,Brussels,
+2016,Hilton Stockholm Slussen,Stockholm,
+2017,Ege Palas Business Hotel,Izmir,
+2018,ZooParc de Beauval,Saint-Aignan,
+2019,Messegelände Nordpark,Mönchengladbach,
+2020,Parc des expositions de la Meilleraie - Cholet,Cholet,
+2021,Paris La Défense Arena,Paris,
+2022,Valencia Conference Centre,Valencia,
+2023,Spazio Villa Erba,Como,
+2024,Schloss Mondsee,Mondsee,
+2025,"Cambridge Innovation Center, Warsaw",Warsaw,
+2026,Alte Kelter,Fellbach,
+2027,Ateliers des Capucins,Brest,
+2028,Arena MK,Milton Keynes,
+2029,"Centre Sportif, Les Rousses",Les Rousses,
+2030,Maison de la Mécanique,Paris,
+2031,Lviv Palace of Arts,Lviv,
+2032,Expo Georgia Exhibition Center,Tbilisi,
+2033,Monaco,Monaco,
+2034,La Cité du Design,Saint-Étienne,
+2035,Casino Bellevue,Biarritz,
+2036,Halle Samexpo,St-Amand-Montrond,
+2037,Domaine de Chaumont-sur-Loire,Chaumont-sur-Loire,
+2038,Foire du Dauphiné,Romans-sur-Isère,
+2039,"Ancona, Corso Garibaldi",Ancona,
+2040,Odessa Sea Commercial Port Exhibition Complex,Odessa,
+2041,Hotel Novotel Warszawa Airport,Warsaw,
+2042,Intercontinental Hotel Moscow - Tverskaya,Moscow,
+2043,Palacio de Congresos Euskalduna,Bilbao,
+2044,Galopprennbahn Weidenpesch  Racecourse,Cologne,
+2045,Venaco,Venaco,
+2046,Ukrainian Chamber of Commerce & Industry,Kiev,
+2047,"Belexpo - 14, Pobediteley ave.",Minsk,
+2048,Fiera di Foggia,Foggia,
+2049,Inntalhalle,Rosenheim,
+2050,Parque de Feiras e Exposições de Beja,Beja,
+2051,Bécherel,Bécherel,
+2052,Corso Giuseppe Garibaldi,Fossombrone,
+2053,Leipzig,Leipzig,
+2054,Luri,Luri,
+2055,Palais Beaumont (Centre de Congrès de Pau),Pau,
+2056,Foyer Jean Guéhenno,Montolieu,
+2057,JW Marriott Bucharest Grand Hotel,Bucharest,
+2058,Dolby Screening Room London Soho,London,
+2059,Galaxie Amneville,Metz,
+2060,Parc Expo Niort,Niort,
+2061,Pavillon Baltard,Nogent-sur-Marne,
+2062,Sportica - Gravelines,Calais,
+2063,WTC Expo,Leeuwarden,
+2064,"Espace Rencontre, Annecy-le-vieux",Annecy,
+2065,IJssportcentrum Eindhoven,Eindhoven,
+2066,Centre culturel Una Volta,Bastia,
+2067,Messplatz Darmstadt,Darmstadt,
+2068,X Meeting Point Norway,Lillestrøm,
+2069,Caveau Castelnau,Reims,
+2070,Hotel Das Central,Sölden,
+2071,Agora d'Aubagne,Aubagne,
+2072,Grote Markt,Gorinchem,
+2073,Fira d'Igualada,Igualada,
+2074,Esplanade du Pré aux Pêcheurs,Antibes,
+2075,Centralvaerkstedet,Aarhus,
+2076,HEAD – Genève,Geneve,
+2077,Les Prés du Hem,Lille,
+2078,"Pallati i Rinise, Kultures dhe i Sporteve",Prishtina,
+2079,Pomorze & Kujawy Fair Centre,Bydgoszcz,
+2080,Flughafen Tempelhof,Berlin,
+2081,The Hague Marriott Hotel,The Hague,
+2082,Messecongress Graz,Graz,
+2083,Hyatt Regency Paris Etoile,Paris,
+2084,International Congress Centre in Katowice,Katowice,
+2085,Schloss Hundisburg,Haldensleben,
+2086,Vega Parco Scientifico Tecnologico di Venezia,Venice,
+2087,Forum de l'Arc,Moutier,
+2088,Sporthalle Oberwerth / Conlog Arena,Koblenz,
+2089,Pordenone,Pordenone,
+2090,Manade de l'étrier,Saint-Gilles,
+2091,Parcul Industrial Tetarom III,Cluj-Napoca,
+2092,Aarhus Airport,Aarhus,
+2093,Schloss Kartzow,Potsdam,
+2094,Plage de Berck,Berck,
+2095,Schloss Laxenburg,Vienna,
+2096,IEC 'Ekaterinburg-Expo',Yekaterinburg,

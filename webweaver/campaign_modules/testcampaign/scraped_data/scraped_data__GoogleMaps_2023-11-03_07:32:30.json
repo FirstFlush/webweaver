@@ -1,0 +1,130 @@
+[
+    {
+        "company_name": "Absolute Roof Solutions",
+        "address": "1676 W 75th Ave",
+        "phone": "(604) 263-0334",
+        "url": "https://absoluteroof.ca",
+        "review_score": 4.7,
+        "review_count": 134
+    },
+    {
+        "company_name": "Max Roofing",
+        "address": "2922 East Kent Ave S #15",
+        "phone": "(778) 800-6295",
+        "url": "https://maxroofingbc.ca",
+        "review_score": 5.0,
+        "review_count": 45
+    },
+    {
+        "company_name": "Cambie Roofing Contractors Ltd",
+        "address": "1367 East Kent Ave N",
+        "phone": "(604) 261-1111",
+        "url": "https://cambieroofing.com",
+        "review_score": 4.1,
+        "review_count": 74
+    },
+    {
+        "company_name": "Kerrisdale Roofing And Drains Ltd.",
+        "address": "8279 Ross St",
+        "phone": "(604) 360-2114",
+        "url": "http://kerrisdaleroofinganddrains.com",
+        "review_score": 4.7,
+        "review_count": 26
+    },
+    {
+        "company_name": "Tymey Roofing",
+        "address": "Roofing contractor",
+        "phone": "(604) 376-5101",
+        "url": "",
+        "review_score": 5.0,
+        "review_count": 43
+    },
+    {
+        "company_name": "Fraserview Roofing and Renovation",
+        "address": "5907 Culloden St",
+        "phone": "(604) 897-3614",
+        "url": "http://www.fraserviewroofnreno.com",
+        "review_score": 4.6,
+        "review_count": 21
+    },
+    {
+        "company_name": "3 King's Roofing and Renovations Inc.",
+        "address": "4323 Inverness St",
+        "phone": "(778) 907-1008",
+        "url": "https://www.roofing-vancouver.ca",
+        "review_score": 4.5,
+        "review_count": 44
+    },
+    {
+        "company_name": "Regan Roofing Ltd",
+        "address": "8838 Heather St",
+        "phone": "(604) 324-1574",
+        "url": "https://www.reganroofing.ca",
+        "review_score": 4.4,
+        "review_count": 7
+    },
+    {
+        "company_name": "Laurentian Roofing Inc.",
+        "address": "8165 Main St",
+        "phone": "(604) 345-7663",
+        "url": "https://www.laurentianroofing.com",
+        "review_score": 5.0,
+        "review_count": 7
+    },
+    {
+        "company_name": "Cooper Roofing",
+        "address": "1285 W Broadway #600",
+        "phone": "(604) 674-0319",
+        "url": "https://cooperroofs.ca",
+        "review_score": 4.8,
+        "review_count": 114
+    },
+    {
+        "company_name": "M & B Roofing Ltd.",
+        "address": "11180 Bridgeport Rd",
+        "phone": "(778) 862-7305",
+        "url": "http://www.mbroofing.ca",
+        "review_score": 5.0,
+        "review_count": 17
+    },
+    {
+        "company_name": "Stormrider Roof Repairs",
+        "address": "3665 Kingsway Suite # 300",
+        "phone": "(604) 803-2808",
+        "url": "https://stormrider604.com",
+        "review_score": 4.6,
+        "review_count": 26
+    },
+    {
+        "company_name": "Next Level Roofing & Solar",
+        "address": "6683 Tantalus Ln",
+        "phone": "(236) 300-8191",
+        "url": "http://www.nextlevelroofing.ca",
+        "review_score": 4.8,
+        "review_count": 13
+    },
+    {
+        "company_name": "Roy Dennis Roofing",
+        "address": "2420 Viscount Way",
+        "phone": "(604) 278-0442",
+        "url": "http://roydennisroofing.ca",
+        "review_score": 4.6,
+        "review_count": 32
+    },
+    {
+        "company_name": "Millwall Roofing",
+        "address": "2090 W 1st Ave",
+        "phone": "(604) 763-1930",
+        "url": "http://www.millwallroofing.com",
+        "review_score": 4.9,
+        "review_count": 124
+    },
+    {
+        "company_name": "GVRD Roofing Inc",
+        "address": "1917 W 4th Ave",
+        "phone": "(604) 445-4873",
+        "url": "https://gvrdroofing.com",
+        "review_score": 4.7,
+        "review_count": 104
+    }
+]

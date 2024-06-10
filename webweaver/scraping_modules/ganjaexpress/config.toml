@@ -1,0 +1,10 @@
+[spider]
+id = 14
+spider_name = "GanjaExpress"
+domain = "ganjaexpress.to"
+description = "Cannabis product scrape"
+
+[models]
+table_names = []
+
+[params]
